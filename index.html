@@ -245,15 +245,20 @@
 
       <!-- Action Panel (Footer of sidebar) -->
       <div class="p-4 bg-slate-950 border-t border-slate-800 space-y-2">
+        <button id="btn-export-img" disabled
+          class="w-full px-4 py-2.5 bg-emerald-600 hover:bg-emerald-500 disabled:opacity-50 disabled:hover:bg-emerald-600 text-white text-xs font-bold rounded-lg transition flex items-center justify-center gap-1.5 shadow-md shadow-emerald-600/20">
+          <i data-lucide="download" class="w-4 h-4"></i> Tải ảnh đo đạc
+        </button>
         <div class="grid grid-cols-2 gap-2">
           <button id="btn-export-json" disabled
             class="px-4 py-2.5 bg-slate-800 hover:bg-slate-700 disabled:opacity-50 disabled:hover:bg-slate-800 text-slate-200 text-xs font-bold rounded-lg border border-slate-700 transition flex items-center justify-center gap-1.5">
-            <i data-lucide="file-json" class="w-4 h-4 text-indigo-400"></i> Xuất dữ liệu JSON
+            <i data-lucide="file-json" class="w-4 h-4 text-indigo-400"></i> Xuất JSON
           </button>
-          <button id="btn-export-img" disabled
+          <button id="btn-import-json" disabled
             class="px-4 py-2.5 bg-slate-800 hover:bg-slate-700 disabled:opacity-50 disabled:hover:bg-slate-800 text-slate-200 text-xs font-bold rounded-lg border border-slate-700 transition flex items-center justify-center gap-1.5">
-            <i data-lucide="download" class="w-4 h-4 text-emerald-400"></i> Tải ảnh đo đạc
+            <i data-lucide="upload" class="w-4 h-4 text-amber-400"></i> Nhập JSON
           </button>
+          <input type="file" id="json-file-input" class="hidden" accept=".json">
         </div>
       </div>
 
@@ -316,6 +321,8 @@
 
     const btnExportJson = document.getElementById('btn-export-json');
     const btnExportImg = document.getElementById('btn-export-img');
+    const btnImportJson = document.getElementById('btn-import-json');
+    const jsonFileInput = document.getElementById('json-file-input');
     const btnReset = document.getElementById('btn-reset');
     const btnLoadSample = document.getElementById('btn-load-sample');
     const btnLoadSampleHero = document.getElementById('btn-load-sample-hero');
@@ -368,6 +375,7 @@
       btnAddMeasure.disabled = true;
       btnExportJson.disabled = true;
       btnExportImg.disabled = true;
+      btnImportJson.disabled = true;
 
       inputRefCm.value = "10";
       labelRefPx.textContent = "- px";
@@ -414,6 +422,7 @@
         btnAddMeasure.disabled = false;
         btnExportJson.disabled = false;
         btnExportImg.disabled = false;
+        btnImportJson.disabled = false;
 
         // Auto fit screen
         fitImageToScreen();
@@ -496,6 +505,7 @@
         btnAddMeasure.disabled = false;
         btnExportJson.disabled = false;
         btnExportImg.disabled = false;
+        btnImportJson.disabled = false;
 
         fitImageToScreen();
 
@@ -1349,6 +1359,65 @@
       showToast("Xuất dữ liệu JSON thành công!");
     }
 
+    // Import JSON Implementation
+    function importJSON(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function (evt) {
+        try {
+          const data = JSON.parse(evt.target.result);
+
+          // Validation
+          if (!data.calibration || !data.measurements) {
+            alert("Định dạng tệp JSON không hợp lệ! Thiếu thông tin thước chuẩn hoặc thước đo.");
+            return;
+          }
+
+          // Override calibration line
+          calibrationLine = {
+            start: data.calibration.line.start,
+            end: data.calibration.line.end,
+            physicalLengthCm: data.calibration.physicalDistanceCm
+          };
+          inputRefCm.value = calibrationLine.physicalLengthCm;
+
+          // Override measurements list
+          measurements = data.measurements.map(m => ({
+            id: m.id || 'm-' + Date.now() + Math.random(),
+            name: m.name || 'Đoạn đo',
+            start: m.start,
+            end: m.end,
+            color: COLOR_MEASUREMENT_DEFAULT
+          }));
+
+          // Clear selection
+          selectedLine = null;
+
+          // Check if image name matches
+          if (img && data.imageName && data.imageName !== imgName) {
+            showToast(`Nhập dữ liệu thành công! Cảnh báo: Tệp JSON thuộc về ảnh "${data.imageName}" nhưng đang áp dụng cho ảnh hiện tại.`);
+          } else {
+            showToast("Nhập dữ liệu JSON thành công!");
+          }
+
+          // Force updates & save session
+          updateCalibrationAndScale();
+          updateSidebarSelection();
+          draw();
+          saveSession();
+
+        } catch (err) {
+          console.error(err);
+          alert("Lỗi khi đọc file JSON! Chi tiết: " + err.message);
+        }
+        // Reset input file value to allow uploading same file again
+        jsonFileInput.value = "";
+      };
+      reader.readAsText(file);
+    }
+
     // Export Image Implementation
     function exportImage() {
       if (!img || !calibrationLine) return;
@@ -1518,6 +1587,11 @@
       // Exports & Reset
       btnExportJson.addEventListener('click', exportJSON);
       btnExportImg.addEventListener('click', exportImage);
+      
+      btnImportJson.addEventListener('click', () => {
+        jsonFileInput.click();
+      });
+      jsonFileInput.addEventListener('change', importJSON);
       
       btnReset.addEventListener('click', () => {
         if (confirm("Bạn có chắc chắn muốn xóa toàn bộ các đường đo và làm mới trang không?")) {
