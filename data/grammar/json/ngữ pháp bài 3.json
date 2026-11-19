@@ -1,0 +1,168 @@
+{
+  "bai": 3,
+  "chu_de": "IV. Giải thích ngữ pháp",
+  "ngu_phap": [
+    {
+      "stt": 1,
+      "mau_cau": "ここ／そこ／あそこ／こちら／そちら／あちら",
+      "chi_tiet": [
+        {
+          "giai_thich": "Ở Bài 2 chúng ta đã học về các đại từ chỉ đồ vật 「これ／それ／あれ」[cite: 5]. Trong bài này chúng ta sẽ học về các đại từ chỉ địa điểm 「ここ／そこ／あそこ」[cite: 5]. 「ここ」 chỉ vị trí mà người nói đang ở[cite: 5]. 「そこ」 chỉ vị trí mà người nghe đang ở[cite: 5]. 「あそこ」 chỉ vị trí ở xa cả người nói và người nghe[cite: 5]. 「こちら／そちら／あちら」 là những đại từ chỉ phương hướng, nhưng cũng có thể dùng thay thế 「ここ／そこ／あそこ」 với sắc thái lịch sự hơn[cite: 5].",
+          "chu_y": "Khi người nói cho rằng người nghe cũng ở trong phạm vi vị trí của mình thì dùng 「ここ」 để chỉ vị trí của cả hai, dùng 「そこ」 để chỉ vị trí hơi xa hai người, và dùng 「あそこ」 để chỉ vị trí tương đối xa hai người[cite: 5]."
+        }
+      ]
+    },
+    {
+      "stt": 2,
+      "mau_cau": "Danh từ 1 は Danh từ 2 (địa điểm) です",
+      "chi_tiet": [
+        {
+          "giai_thich": "Mẫu câu này được dùng để diễn đạt một vật, một người hay một địa điểm nào đó ở đâu[cite: 5].",
+          "vi_du": [
+            {
+              "so": 1,
+              "tieng_nhat": "お手洗いは あそこです。[cite: 5]",
+              "tieng_viet": "Nhà vệ sinh ở đằng kia.[cite: 5]"
+            },
+            {
+              "so": 2,
+              "tieng_nhat": "電話は 2階です。[cite: 5]",
+              "tieng_viet": "Điện thoại ở tầng hai.[cite: 5]"
+            },
+            {
+              "so": 3,
+              "tieng_nhat": "山田さんは 事務所です。[cite: 5]",
+              "tieng_viet": "Anh Yamada ở văn phòng.[cite: 5]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 3,
+      "mau_cau": "どこ／どちら",
+      "chi_tiet": [
+        {
+          "giai_thich": "「どこ」 là nghi vấn từ hỏi về địa điểm, còn 「どちら」 là nghi vấn từ hỏi về phương hướng[cite: 5]. Tuy nhiên 「どちら」 cũng có thể được dùng để hỏi về địa điểm[cite: 5]. Trong trường hợp này thì 「どちら」 mang sắc thái lịch sự hơn 「どこ」[cite: 5].",
+          "vi_du": [
+            {
+              "so": 4,
+              "hoi": {
+                "tieng_nhat": "お手洗いは どこですか。[cite: 5]",
+                "tieng_viet": "Nhà vệ sinh ở đâu?[cite: 5]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…あそこです。[cite: 5]",
+                "tieng_viet": "…Ở chỗ kia.[cite: 5]"
+              }
+            },
+            {
+              "so": 5,
+              "hoi": {
+                "tieng_nhat": "エレベーターは どちらですか。[cite: 5]",
+                "tieng_viet": "Thang máy ở chỗ nào ạ?[cite: 5]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…あちらです。[cite: 5]",
+                "tieng_viet": "…Ở chỗ kia ạ.[cite: 5]"
+              }
+            }
+          ]
+        },
+        {
+          "mo_rong": "Ngoài ra, khi hỏi về tên của quốc gia, công ty, trường học, cơ quan hay tổ chức trực thuộc thì cũng dùng nghi vấn từ là 「どこ」 hay 「どちら」 chứ không phải là 「なん (gì)」[cite: 6]. Trong trường hợp này cũng thế 「どちら」 mang sắc thái lịch sự hơn 「どこ」[cite: 6].",
+          "vi_du": [
+            {
+              "so": 6,
+              "tieng_nhat": "学校は どこですか。[cite: 6]",
+              "tieng_viet": "Anh học ở trường nào?[cite: 6]"
+            },
+            {
+              "so": 7,
+              "tieng_nhat": "会社は どちらですか。[cite: 6]",
+              "tieng_viet": "Chị làm việc ở công ty nào ạ?[cite: 6]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 4,
+      "mau_cau": "Danh từ 1 の Danh từ 2",
+      "chi_tiet": [
+        {
+          "giai_thich": "Trong mẫu này Danh từ 1 là tên quốc gia hoặc công ty, còn Danh từ 2 là tên của sản phẩm[cite: 6]. Mẫu này dùng để diễn đạt một sản phẩm nào đó được sản xuất ở một nước hoặc một công ty nào đó[cite: 6]. Đối với mẫu này, khi hỏi thì dùng nghi vấn từ 「どこ」[cite: 6].",
+          "vi_du": [
+            {
+              "so": 8,
+              "hoi": {
+                "tieng_nhat": "これは どこの コンピューターですか。[cite: 6]",
+                "tieng_viet": "Đây là máy vi tính của hãng nào?[cite: 6]"
+              },
+              "tra_loi": [
+                {
+                  "tieng_nhat": "…日本の コンピューターです。[cite: 6]",
+                  "tieng_viet": "…Đây là máy vi tính của Nhật Bản.[cite: 6]"
+                },
+                {
+                  "tieng_nhat": "…IMCの コンピューターです。[cite: 6]",
+                  "tieng_viet": "…Đây là máy vi tính của Công ty IMC.[cite: 6]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 5,
+      "tieu_de": "Bảng đại từ chỉ thị こ／そ／あ／ど và tính từ chỉ thị tương ứng[cite: 6]",
+      "bang_tong_hop": [
+        {
+          "loai": "đồ vật[cite: 6]",
+          "nhom_ko": "これ[cite: 6]",
+          "nhom_so": "それ[cite: 6]",
+          "nhom_a": "あれ[cite: 6]",
+          "nhom_do": "どれ (Bài 8)[cite: 6]"
+        },
+        {
+          "loai": "đồ vật / người[cite: 6]",
+          "nhom_ko": "この danh từ[cite: 6]",
+          "nhom_so": "その danh từ[cite: 6]",
+          "nhom_a": "あの danh từ[cite: 6]",
+          "nhom_do": "どの danh từ (Bài 16)[cite: 6]"
+        },
+        {
+          "loai": "địa điểm[cite: 6]",
+          "nhom_ko": "ここ[cite: 6]",
+          "nhom_so": "そこ[cite: 6]",
+          "nhom_a": "あそこ[cite: 6]",
+          "nhom_do": "どこ[cite: 6]"
+        },
+        {
+          "loai": "phương hướng / địa điểm (lịch sự)[cite: 6]",
+          "nhom_ko": "こちら[cite: 6]",
+          "nhom_so": "そちら[cite: 6]",
+          "nhom_a": "あちら[cite: 6]",
+          "nhom_do": "どちら[cite: 6]"
+        }
+      ]
+    },
+    {
+      "stt": 6,
+      "mau_cau": "お国",
+      "chi_tiet": [
+        {
+          "giai_thich": "Tiền tố 「お」 được thêm vào trước một từ có liên quan đến người nghe hoặc người thứ ba để bày tỏ sự kính trọng của người nói[cite: 6].",
+          "vi_du": [
+            {
+              "so": 9,
+              "tieng_nhat": "[お]国は どちらですか。[cite: 6]",
+              "tieng_viet": "Anh/Chị là người nước nào?[cite: 6]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

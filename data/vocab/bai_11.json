@@ -1,0 +1,2565 @@
+[
+  {
+    "id": 1,
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "có (con cái, người, động vật) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:family",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "子ども何人いる？",
+      "polite": "お子さんは何人いらっしゃいますか？",
+      "reading": "こどもなんにんいる？",
+      "romaji": "kodomo nannin iru?",
+      "vietnamese": "có mấy người con / bạn có mấy đứa con",
+      "variants": [
+        "kodomo nannin imasu ka",
+        "okosan wa nannin desu ka",
+        "kodomo nannin iru"
+      ]
+    },
+    "answer": {
+      "short": "二人いるよ。",
+      "reading": "ふたりいるよ。",
+      "romaji": "futari iru yo.",
+      "vietnamese": "có hai đứa / có 2 con",
+      "variants": [
+        "futari imasu",
+        "futari",
+        "co hai dua",
+        "hai dua"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "わたしは、子どもが二人います。",
+        "vietnamese": "Tôi có hai người con."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "ở (tại Nhật Bản) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:living",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "日本にどのくらいいるの？",
+      "polite": "日本にどのくらいいらっしゃいますか？",
+      "reading": "にほんにどのくらいいるの？",
+      "romaji": "nihon ni dono kurai iru no?",
+      "vietnamese": "ở nhật bao lâu rồi / bạn ở nhật bao lâu",
+      "variants": [
+        "nihon ni dono kurai imasu ka",
+        "nihon ni dono kurai iru"
+      ]
+    },
+    "answer": {
+      "short": "一年いるよ。",
+      "reading": "いちねんいるよ。",
+      "romaji": "ichinen iru yo.",
+      "vietnamese": "ở được một năm rồi / một năm",
+      "variants": [
+        "ichinen imasu",
+        "ichinen",
+        "mot nam roi",
+        "mot nam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本に一年います。",
+        "vietnamese": "Tôi ở Nhật một năm."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "term": "かかる",
+    "reading": "かかる",
+    "romaji": "kakaru",
+    "meaning": "mất, tốn (thời gian, tiền bạc) [Nhóm 1: かかります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "東京までどのくらいかかる？",
+      "polite": "東京までどのくらいかかりますか？",
+      "reading": "とうきょうまでどのくらいかかる？",
+      "romaji": "toukyou made dono kurai kakaru?",
+      "vietnamese": "đến tokyo mất bao lâu / đi tokyo hết bao lâu",
+      "variants": [
+        "toukyou made dono kurai kakarimasu ka",
+        "toukyou made dono kurai kakaru"
+      ]
+    },
+    "answer": {
+      "short": "新幹線で2時間。",
+      "reading": "しんかんせんでにじかん。",
+      "romaji": "shinkansen de nijikan.",
+      "vietnamese": "đi shinkansen mất 2 tiếng / mất 2 tiếng",
+      "variants": [
+        "nijikan kakarimasu",
+        "nijikan",
+        "hai tieng",
+        "mat hai tieng"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "駅から学校まで、歩いて15分かかります。",
+        "vietnamese": "Từ nhà ga đến trường đi bộ mất 15 phút."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "term": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "nghỉ (nghỉ làm, nghỉ ngơi) [Nhóm 1: 休みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:work",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "明日はどうするの？",
+      "polite": "明日はどうなさいますか？",
+      "reading": "あしたはどうするの？",
+      "romaji": "ashita wa dou suru no?",
+      "vietnamese": "mai định làm sao / ngày mai làm gì",
+      "variants": [
+        "ashita wa dou shimasu ka",
+        "ashita dou suru no",
+        "ashita wa dou suru"
+      ]
+    },
+    "answer": {
+      "short": "会社休むよ。",
+      "reading": "かいしゃやすむよ。",
+      "romaji": "kaisha yasumu yo.",
+      "vietnamese": "nghỉ làm thôi / nghỉ làm",
+      "variants": [
+        "kaisha o yasumimasu",
+        "kaisha yasumu",
+        "yasumu yo",
+        "nghi lam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "風邪ですから、会社を休みます。",
+        "vietnamese": "Vì bị cảm nên tôi nghỉ làm."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "term": "１つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "một cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:shopping",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "りんご何個ほしい？",
+      "polite": "りんごはいくついかがですか？",
+      "reading": "りんごなんこほしい？",
+      "romaji": "ringo nanko hoshii?",
+      "vietnamese": "muốn mấy quả táo / cần mấy quả táo",
+      "variants": [
+        "ringo ikutsu hoshii desu ka",
+        "ringo nanko hoshii"
+      ]
+    },
+    "answer": {
+      "short": "１つちょうだい。",
+      "reading": "ひとつちょうだい。",
+      "romaji": "hitotsu choudai.",
+      "vietnamese": "cho xin một quả / lấy một cái",
+      "variants": [
+        "hitotsu kudasai",
+        "hitotsu",
+        "mot qua",
+        "mot cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "りんごを、１つ買いました。",
+        "vietnamese": "Tôi đã mua một quả táo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "term": "２つ",
+    "reading": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "hai cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "みかんいくつある？",
+      "polite": "みかんはいくつありますか？",
+      "reading": "みかんいくつある？",
+      "romaji": "mikan ikutsu aru?",
+      "vietnamese": "có mấy quả quýt / còn mấy quả quýt",
+      "variants": [
+        "mikan wa ikutsu arimasu ka",
+        "mikan ikutsu aru"
+      ]
+    },
+    "answer": {
+      "short": "２つあるよ。",
+      "reading": "ふたつあるよ。",
+      "romaji": "futatsu aru yo.",
+      "vietnamese": "có hai quả / hai cái",
+      "variants": [
+        "futatsu arimasu",
+        "futatsu",
+        "hai qua",
+        "hai cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "みかんを、２つ食べました。",
+        "vietnamese": "Tôi đã ăn hai quả quýt."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "term": "３つ",
+    "reading": "みっつ",
+    "romaji": "mittsu",
+    "meaning": "ba cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:shopping",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "卵いくつ買う？",
+      "polite": "卵はいくつ買いますか？",
+      "reading": "たまごいくつかう？",
+      "romaji": "tamago ikutsu kau?",
+      "vietnamese": "mua mấy quả trứng / lấy mấy quả trứng",
+      "variants": [
+        "tamago wa ikutsu kaimasu ka",
+        "tamago ikutsu kau"
+      ]
+    },
+    "answer": {
+      "short": "３つ買って。",
+      "reading": "みっつかって。",
+      "romaji": "mittsu katte.",
+      "vietnamese": "mua ba quả / lấy ba cái",
+      "variants": [
+        "mittsu kudasai",
+        "mittsu",
+        "ba qua",
+        "ba cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "卵を、３つ買いました。",
+        "vietnamese": "Tôi đã mua ba quả trứng."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "term": "４つ",
+    "reading": "よっつ",
+    "romaji": "yottsu",
+    "meaning": "bốn cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:furniture",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "椅子いくつ必要？",
+      "polite": "椅子はいくつ必要ですか？",
+      "reading": "いすいくつひつよう？",
+      "romaji": "isu ikutsu hitsuyou?",
+      "vietnamese": "cần mấy cái ghế / lấy mấy cái ghế",
+      "variants": [
+        "isu wa ikutsu hitsuyou desu ka",
+        "isu ikutsu hitsuyou"
+      ]
+    },
+    "answer": {
+      "short": "４つ必要。",
+      "reading": "よっつひつよう。",
+      "romaji": "yottsu hitsuyou.",
+      "vietnamese": "cần bốn cái / lấy bốn cái",
+      "variants": [
+        "yottsu desu",
+        "yottsu",
+        "bon cai",
+        "can bon cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "部屋に、椅子が４つあります。",
+        "vietnamese": "Trong phòng có bốn cái ghế."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "term": "５つ",
+    "reading": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "năm cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "パンいくつ食べる？",
+      "polite": "パンはいくつ召し上がりますか？",
+      "reading": "ぱんいくつたべる？",
+      "romaji": "pan ikutsu taberu?",
+      "vietnamese": "ăn mấy cái bánh mì / lấy mấy cái bánh",
+      "variants": [
+        "pan wa ikutsu tabemasu ka",
+        "pan ikutsu taberu"
+      ]
+    },
+    "answer": {
+      "short": "５つ食べる！",
+      "reading": "いつつたべる！",
+      "romaji": "itsutsu taberu!",
+      "vietnamese": "ăn năm cái / năm cái",
+      "variants": [
+        "itsutsu tabemasu",
+        "itsutsu",
+        "nam cai",
+        "an nam cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "パンを、５つ買いました。",
+        "vietnamese": "Tôi đã mua năm cái bánh mì."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "term": "６つ",
+    "reading": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "sáu cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:drink",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "ドーナツいくつ食べる？",
+      "polite": "ドーナツはおいくつ召し上がりますか？",
+      "reading": "どーなついくつたべる？",
+      "romaji": "do-natsu ikutsu taberu?",
+      "vietnamese": "ăn mấy cái bánh donut / ăn mấy cái bánh",
+      "variants": [
+        "do-natsu wa ikutsu tabemasu ka",
+        "donatsu ikutsu taberu",
+        "donatsu ikutsu tabemasu ka",
+        "donatsu wa ikutsu tabemasu ka"
+      ]
+    },
+    "answer": {
+      "short": "６つちょうだい。",
+      "reading": "むっつちょうだい。",
+      "romaji": "muttsu choudai.",
+      "vietnamese": "cho sáu cái / sáu cái",
+      "variants": [
+        "muttsu kudasai",
+        "muttsu",
+        "sau cai",
+        "sau chiec"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "机の上に、コップが６つあります。",
+        "vietnamese": "Trên bàn có sáu cái cốc."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "term": "７つ",
+    "reading": "ななつ",
+    "romaji": "nanatsu",
+    "meaning": "bảy cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:service",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "席いくつ空いてる？",
+      "polite": "お席はいくつ空いていますか？",
+      "reading": "せきいくつあいてる？",
+      "romaji": "seki ikutsu aiteru?",
+      "vietnamese": "còn mấy chỗ trống / trống mấy ghế",
+      "variants": [
+        "seki wa ikutsu aiteimasu ka",
+        "seki ikutsu aiteru"
+      ]
+    },
+    "answer": {
+      "short": "７つ空いてるよ。",
+      "reading": "ななつあいてるよ。",
+      "romaji": "nanatsu aiteru yo.",
+      "vietnamese": "còn bảy chỗ / bảy chỗ trống",
+      "variants": [
+        "nanatsu aiteimasu",
+        "nanatsu",
+        "bay cho",
+        "bay ghe"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "箱の中に、ボールが７つあります。",
+        "vietnamese": "Trong hộp có bảy quả bóng."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "term": "８つ",
+    "reading": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "tám cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "ケーキいくつ分ける？",
+      "polite": "ケーキはいくつに分けますか？",
+      "reading": "けーきいくつわける？",
+      "romaji": "ke-ki ikutsu wakeru?",
+      "vietnamese": "chia bánh làm mấy miếng / cắt bánh mấy phần",
+      "variants": [
+        "ke-ki wa ikutsu ni wakemasu ka",
+        "keeki ikutsu wakeru"
+      ]
+    },
+    "answer": {
+      "short": "８つに切った。",
+      "reading": "やっつにきった。",
+      "romaji": "yattsu ni kitta.",
+      "vietnamese": "cắt làm tám miếng / tám phần",
+      "variants": [
+        "yattsu ni kirimashita",
+        "yattsu",
+        "tam mieng",
+        "tam phan"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ケーキを、８つに切りました。",
+        "vietnamese": "Tôi đã cắt bánh kem thành tám miếng."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "term": "９つ",
+    "reading": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "chín cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "トマトいくつある？",
+      "polite": "トマトはいくつありますか？",
+      "reading": "とまといくつある？",
+      "romaji": "tomato ikutsu aru?",
+      "vietnamese": "còn mấy quả cà chua / có mấy quả cà chua",
+      "variants": [
+        "tomato wa ikutsu arimasu ka",
+        "tomato ikutsu aru"
+      ]
+    },
+    "answer": {
+      "short": "９つあるよ。",
+      "reading": "ここのつあるよ。",
+      "romaji": "kokonotsu aru yo.",
+      "vietnamese": "còn chín quả / chín cái",
+      "variants": [
+        "kokonotsu arimasu",
+        "kokonotsu",
+        "chin qua",
+        "chin cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "冷蔵庫に、トマトが９つあります。",
+        "vietnamese": "Trong tủ lạnh có chín quả cà chua."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "term": "とお",
+    "reading": "とお",
+    "romaji": "too",
+    "meaning": "mười cái (đồ vật)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:shopping",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "全部でいくつ？",
+      "polite": "全部でいくつありますか？",
+      "reading": "ぜんぶでいくつ？",
+      "romaji": "zenbu de ikutsu?",
+      "vietnamese": "tổng cộng có mấy cái / tất cả mấy cái",
+      "variants": [
+        "zenbu de ikutsu arimasu ka",
+        "zenbu de ikutsu"
+      ]
+    },
+    "answer": {
+      "short": "ちょうど１０個。",
+      "reading": "ちょうどとお。",
+      "romaji": "choudo too.",
+      "vietnamese": "đúng tròn mười cái / đúng 10 cái",
+      "variants": [
+        "too arimasu",
+        "too",
+        "muoi cai",
+        "dung muoi cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "みかんが、１０あります。",
+        "vietnamese": "Có mười quả quýt."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "term": "いくつ",
+    "reading": "いくつ",
+    "romaji": "ikutsu",
+    "meaning": "mấy cái, bao nhiêu cái",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "荷物いくつある？",
+      "polite": "お荷物はいくつありますか？",
+      "reading": "にもついくつある？",
+      "romaji": "nimotsu ikutsu aru?",
+      "vietnamese": "có bao nhiêu kiện hành lý / hành lý mấy cái",
+      "variants": [
+        "onimotsu wa ikutsu arimasu ka",
+        "nimotsu ikutsu aru"
+      ]
+    },
+    "answer": {
+      "short": "３つあるよ。",
+      "reading": "みっつあるよ。",
+      "romaji": "mittsu aru yo.",
+      "vietnamese": "có ba kiện / ba cái",
+      "variants": [
+        "mittsu arimasu",
+        "mittsu",
+        "ba kien",
+        "ba cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "荷物は、いくつありますか。",
+        "vietnamese": "Hành lý có bao nhiêu cái?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "term": "１人",
+    "reading": "ひとり",
+    "romaji": "hitori",
+    "meaning": "một người",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:people",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "部屋に何人いる？",
+      "polite": "部屋に何人いらっしゃいますか？",
+      "reading": "へやになんにんいる？",
+      "romaji": "heya ni nannin iru?",
+      "vietnamese": "trong phòng có mấy người / có mấy người trong phòng",
+      "variants": [
+        "heya ni nannin imasu ka",
+        "heya ni nannin iru"
+      ]
+    },
+    "answer": {
+      "short": "１人だけいる。",
+      "reading": "ひとりだけいる。",
+      "romaji": "hitori dake iru.",
+      "vietnamese": "có mỗi 1 người / chỉ 1 người",
+      "variants": [
+        "hitori dake imasu",
+        "hitori dake",
+        "co moi 1 nguoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "部屋に、男の人が１人います。",
+        "vietnamese": "Trong phòng có một người đàn ông."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "term": "２人",
+    "reading": "ふたり",
+    "romaji": "futari",
+    "meaning": "hai người",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "何人で行く？",
+      "polite": "何名様で行かれますか？",
+      "reading": "なんにんでいく？",
+      "romaji": "nannin de iku?",
+      "vietnamese": "đi mấy người / mấy người đi vậy",
+      "variants": [
+        "nannin de ikimasu ka",
+        "nannin de iku"
+      ]
+    },
+    "answer": {
+      "short": "２人で行こう。",
+      "reading": "ふたりでいこう。",
+      "romaji": "futari de ikou.",
+      "vietnamese": "hai đứa mình đi nhé / hai người",
+      "variants": [
+        "futari de ikimasu",
+        "futari",
+        "hai nguoi",
+        "hai dua minh"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "子どもが、２人います。",
+        "vietnamese": "Tôi có hai người con."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "term": "〜人",
+    "reading": "〜にん",
+    "romaji": "~nin",
+    "meaning": "~ người (đơn vị đếm người)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "家族は何人？",
+      "polite": "ご家族は何名様ですか？",
+      "reading": "かぞくはなんにん？",
+      "romaji": "kazoku wa nannin?",
+      "vietnamese": "gia đình có mấy người / nhà cậu mấy người",
+      "variants": [
+        "gokazoku wa nannin desu ka",
+        "kazoku wa nannin"
+      ]
+    },
+    "answer": {
+      "short": "４人家族だよ。",
+      "reading": "よにんかぞくだよ。",
+      "romaji": "yonin kazoku da yo.",
+      "vietnamese": "nhà tớ 4 người / bốn người",
+      "variants": [
+        "yonin desu",
+        "yonin",
+        "bon nguoi",
+        "nha bon nguoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "学生が、３人います。",
+        "vietnamese": "Có ba học sinh."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "term": "〜台",
+    "reading": "〜だい",
+    "romaji": "~dai",
+    "meaning": "~ cái, chiếc (đơn vị đếm máy móc, xe cộ)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:vehicle",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "車何台持ってる？",
+      "polite": "お車は何台お持ちですか？",
+      "reading": "くるまなんだいもってる？",
+      "romaji": "kuruma nandai motteru?",
+      "vietnamese": "nhà có mấy cái xe / có mấy chiếc xe ô tô",
+      "variants": [
+        "kuruma wa nandai arimasu ka",
+        "kuruma nandai motteru"
+      ]
+    },
+    "answer": {
+      "short": "２台あるよ。",
+      "reading": "にだいあるよ。",
+      "romaji": "nidai aru yo.",
+      "vietnamese": "có hai chiếc / hai cái",
+      "variants": [
+        "nidai arimasu",
+        "nidai",
+        "hai chiec",
+        "hai cai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "車が、２台あります。",
+        "vietnamese": "Có hai chiếc xe hơi."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "term": "〜枚",
+    "reading": "〜まい",
+    "romaji": "~mai",
+    "meaning": "~ tờ, tấm (đơn vị đếm vật mỏng như giấy, vé, áo)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:shopping",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "チケット何枚買う？",
+      "polite": "チケットは何枚買いますか？",
+      "reading": "ちけっとなんまいかう？",
+      "romaji": "chiketto nanmai kau?",
+      "vietnamese": "mua mấy tấm vé / lấy mấy vé",
+      "variants": [
+        "chiketto wa nanmai kaimasu ka",
+        "chiketto nanmai kau"
+      ]
+    },
+    "answer": {
+      "short": "２枚お願い。",
+      "reading": "にまいおねがい。",
+      "romaji": "nimai onegai.",
+      "vietnamese": "hai vé nhé / cho xin hai vé",
+      "variants": [
+        "nimai kudasai",
+        "nimai",
+        "hai ve",
+        "hai tam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "切手を、５枚買いました。",
+        "vietnamese": "Tôi đã mua năm con tem."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "term": "〜回",
+    "reading": "〜かい",
+    "romaji": "~kai",
+    "meaning": "~ lần",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:sports",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "ジム週に何回行く？",
+      "polite": "ジムへ一週間に何回行かれますか？",
+      "reading": "じむしゅうになんかいいく？",
+      "romaji": "jimu shuu ni nankai iku?",
+      "vietnamese": "một tuần đi tập gym mấy lần / đi gym mấy lần",
+      "variants": [
+        "jimu e isshuukan ni nankai ikimasu ka",
+        "jimu nankai iku"
+      ]
+    },
+    "answer": {
+      "short": "３回行くよ。",
+      "reading": "さんかいいくよ。",
+      "romaji": "sankai iku yo.",
+      "vietnamese": "đi ba lần / ba lần",
+      "variants": [
+        "sankai ikimasu",
+        "sankai",
+        "ba lan",
+        "di ba lan"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "一週間に２回、映画を見ます。",
+        "vietnamese": "Một tuần tôi xem phim hai lần."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "term": "りんご",
+    "reading": "りんご",
+    "romaji": "ringo",
+    "meaning": "quả táo",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "果物、何食べる？",
+      "polite": "果物、何を召し上がりますか？",
+      "reading": "くだもの、なにたべる？",
+      "romaji": "kudamono, nani taberu?",
+      "vietnamese": "ăn hoa quả gì / muốn ăn trái cây gì",
+      "variants": [
+        "kudamono nani o tabemasu ka",
+        "kudamono nani taberu",
+        "nani taberu"
+      ]
+    },
+    "answer": {
+      "short": "りんごちょうだい。",
+      "reading": "りんごちょうだい。",
+      "romaji": "ringo choudai.",
+      "vietnamese": "cho quả táo / ăn táo",
+      "variants": [
+        "ringo o kudasai",
+        "ringo",
+        "cho qua tao",
+        "an tao"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "赤いりんごを食べました。",
+        "vietnamese": "Tôi đã ăn một quả táo đỏ."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "term": "みかん",
+    "reading": "みかん",
+    "romaji": "mikan",
+    "meaning": "quả quýt",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "このみかん、味はどう？",
+      "polite": "このみかんの味はいかがですか？",
+      "reading": "このみかん、あじはどう？",
+      "romaji": "kono mikan, aji wa dou?",
+      "vietnamese": "quả quýt này vị thế nào / quýt này ngon không",
+      "variants": [
+        "kono mikan aji wa dou desu ka",
+        "kono mikan dou",
+        "aji wa dou"
+      ]
+    },
+    "answer": {
+      "short": "すごく甘いよ。",
+      "reading": "すごくあまいよ。",
+      "romaji": "sugoku amai yo.",
+      "vietnamese": "ngọt lắm / rất ngọt",
+      "variants": [
+        "totemo amai desu",
+        "sugoku amai",
+        "ngot lam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "みかんを、３つ食べました。",
+        "vietnamese": "Tôi đã ăn ba quả quýt."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "term": "サンドイッチ",
+    "reading": "サンドイッチ",
+    "romaji": "sandoicchi",
+    "meaning": "bánh sandwich, bánh mì kẹp",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "朝ごはん何食べた？",
+      "polite": "朝ごはんは何を召し上がりましたか？",
+      "reading": "あさごはんたべた？",
+      "romaji": "asagohan tabeta?",
+      "vietnamese": "sáng nay ăn gì thế / bữa sáng ăn gì",
+      "variants": [
+        "asagohan wa nani o tabemashita ka",
+        "asagohan nani tabeta"
+      ]
+    },
+    "answer": {
+      "short": "サンドイッチ食べた。",
+      "reading": "さんどいっちたべた。",
+      "romaji": "sandoicchi tabeta.",
+      "vietnamese": "ăn sandwich / ăn bánh mì kẹp",
+      "variants": [
+        "sandoicchi o tabemashita",
+        "sandoicchi",
+        "an sandwich",
+        "banh mi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "朝ごはんに、サンドイッチを食べました。",
+        "vietnamese": "Tôi đã ăn bánh sandwich cho bữa sáng."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "term": "カレー",
+    "reading": "カレー",
+    "romaji": "kare-",
+    "meaning": "món cà ri",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "昼ごはん何にする？",
+      "polite": "お昼ごはんは何になさいますか？",
+      "reading": "ひるごはん何にする？",
+      "romaji": "hirugohan nani ni suru?",
+      "vietnamese": "trưa nay ăn gì / bữa trưa ăn món gì",
+      "variants": [
+        "ohirugohan wa nani ni shimasu ka",
+        "hirugohan nani ni suru"
+      ]
+    },
+    "answer": {
+      "short": "カレー食べよう！",
+      "reading": "かれーたべよう！",
+      "romaji": "kare- tabeyou!",
+      "vietnamese": "ăn cà ri đi / ăn cơm cà ri",
+      "variants": [
+        "kare- o tabemasu",
+        "kare-",
+        "an ca ri",
+        "com ca ri"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "昼ごはんに、カレーライスを食べました。",
+        "vietnamese": "Tôi đã ăn cơm cà ri vào bữa trưa."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "term": "アイスクリーム",
+    "reading": "アイスクリーム",
+    "romaji": "aisukuri-mu",
+    "meaning": "kem",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "アイス、何味にする？",
+      "polite": "アイスクリームは何味になさいますか？",
+      "reading": "あいす、なに味にする？",
+      "romaji": "aisu, nani aji ni suru?",
+      "vietnamese": "ăn kem vị gì / chọn kem vị gì",
+      "variants": [
+        "aisu wa nani aji ni shimasu ka",
+        "aisu nani aji",
+        "nani aji ni suru"
+      ]
+    },
+    "answer": {
+      "short": "バニラちょうだい。",
+      "reading": "ばにらちょうだい。",
+      "romaji": "banira choudai.",
+      "vietnamese": "cho vị vani / chọn vani",
+      "variants": [
+        "banira ni shimasu",
+        "banira",
+        "vani",
+        "cho vi vani"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "暑い日には、アイスクリームを食べます。",
+        "vietnamese": "Vào những ngày nóng, tôi thường ăn kem."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "term": "切手",
+    "reading": "きって",
+    "romaji": "kitte",
+    "meaning": "con tem",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "切手いくら？",
+      "polite": "切手はおいくらですか？",
+      "reading": "きっていくら？",
+      "romaji": "kitte ikura?",
+      "vietnamese": "con tem bao nhiêu tiền / tem giá bao nhiêu",
+      "variants": [
+        "kitte wa ikura desu ka",
+        "kitte ikura"
+      ]
+    },
+    "answer": {
+      "short": "84円だよ。",
+      "reading": "はちじゅうよねんだよ。",
+      "romaji": "hachijuuyonen da yo.",
+      "vietnamese": "84 yên / giá 84 yên",
+      "variants": [
+        "hachijuuyonen desu",
+        "hachijuuyonen",
+        "tam muoi tu yen",
+        "84 yen"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "84円の切手を、２枚ください。",
+        "vietnamese": "Xin cho tôi hai con tem 84 yên."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "term": "はがき",
+    "reading": "はがき",
+    "romaji": "hagaki",
+    "meaning": "bưu thiếp",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "これどこに出す？",
+      "polite": "これはどこに出しますか？",
+      "reading": "これどこにだす？",
+      "romaji": "kore doko ni dasu?",
+      "vietnamese": "cái này gửi ở đâu / gửi ở chỗ nào",
+      "variants": [
+        "kore wa doko ni dashimasu ka",
+        "kore doko ni dasu"
+      ]
+    },
+    "answer": {
+      "short": "ポストにはがき出す。",
+      "reading": "ぽすとにはがきだす。",
+      "romaji": "posuto ni hagaki dasu.",
+      "vietnamese": "bỏ bưu thiếp vào hòm thư / gửi bưu thiếp",
+      "variants": [
+        "posuto ni dashimasu",
+        "hagaki",
+        "gui buu thiep",
+        "hom thu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "国へ、はがきを出しました。",
+        "vietnamese": "Tôi đã gửi bưu thiếp về nước."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "term": "封筒",
+    "reading": "ふうとう",
+    "romaji": "fuutou",
+    "meaning": "phong bì",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "封筒はどこにある？",
+      "polite": "封筒はどちらにございますか？",
+      "reading": "ふうとうはどこにある？",
+      "romaji": "fuutou wa doko ni aru?",
+      "vietnamese": "phong bì ở đâu / phong bì để chỗ nào",
+      "variants": [
+        "fuutou wa doko ni arimasu ka",
+        "fuutou wa doko",
+        "fuutou doko"
+      ]
+    },
+    "answer": {
+      "short": "引き出しにあるよ。",
+      "reading": "ひきだしにあるよ。",
+      "romaji": "hikidashi ni aru yo.",
+      "vietnamese": "trong ngăn kéo đấy / ở ngăn kéo",
+      "variants": [
+        "hikidashi ni arimasu",
+        "hikidashi no naka",
+        "trong ngan keo"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "手紙を、封筒に入れます。",
+        "vietnamese": "Tôi bỏ lá thư vào trong phong bì."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "term": "速達",
+    "reading": "そくたつ",
+    "romaji": "sokutatsu",
+    "meaning": "chuyển phát nhanh, gửi hỏa tốc",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "書類、何で送る？",
+      "polite": "書類は何でお送りになりますか？",
+      "reading": "しょるい、なにでおくる？",
+      "romaji": "shorui, nani de okuru?",
+      "vietnamese": "tài liệu gửi bằng gì / gửi bằng cách nào",
+      "variants": [
+        "shorui wa nani de okurimasu ka",
+        "nani de okuru",
+        "shorui dou yatte okuru"
+      ]
+    },
+    "answer": {
+      "short": "速達にする。",
+      "reading": "そくたつにする。",
+      "romaji": "sokutatsu ni suru.",
+      "vietnamese": "gửi hỏa tốc / chuyển phát nhanh",
+      "variants": [
+        "sokutatsu de okurimasu",
+        "sokutatsu",
+        "gui hoa toc",
+        "chuyen phat nhanh"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "この手紙を、速達でお願いします。",
+        "vietnamese": "Xin gửi lá thư này bằng dịch vụ gửi nhanh."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "term": "書留",
+    "reading": "かきとめ",
+    "romaji": "kakitome",
+    "meaning": "gửi bảo đảm",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "この書類、何で送る？",
+      "polite": "この書類は何でお送りしますか？",
+      "reading": "このしょるい、なにでおくる？",
+      "romaji": "kono shorui, nani de okuru?",
+      "vietnamese": "tài liệu này gửi bằng gì / gửi thế nào",
+      "variants": [
+        "kono shorui wa nani de okurimasu ka",
+        "nani de okuru"
+      ]
+    },
+    "answer": {
+      "short": "書留で送るよ。",
+      "reading": "かきとめで送るよ。",
+      "romaji": "kakitome de okuru yo.",
+      "vietnamese": "gửi thư bảo đảm / gửi bảo đảm",
+      "variants": [
+        "kakitome de okurimasu",
+        "kakitome",
+        "gui bao dam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "書類を、書留で送りました。",
+        "vietnamese": "Tôi đã gửi tài liệu bằng thư bảo đảm."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "term": "エアメール",
+    "reading": "エアメール",
+    "romaji": "eame-ru",
+    "meaning": "gửi bằng đường hàng không",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "エアメールいくら？",
+      "polite": "エアメールはおいくらですか？",
+      "reading": "えあめーるいくら？",
+      "romaji": "eame-ru ikura?",
+      "vietnamese": "gửi đường hàng không bao nhiêu tiền / airmail bao nhiêu",
+      "variants": [
+        "eame-ru wa ikura desu ka",
+        "airmail ikura"
+      ]
+    },
+    "answer": {
+      "short": "120円です。",
+      "reading": "ひゃくにじゅうえんです。",
+      "romaji": "hyakunijuuen desu.",
+      "vietnamese": "120 yên / giá 120 yên",
+      "variants": [
+        "hyakunijuuen",
+        "mot tram hai muoi yen",
+        "120 yen"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "オーストラリアまで、エアメールでお願いします。",
+        "vietnamese": "Xin gửi đường hàng không đến Úc."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "term": "船便",
+    "reading": "ふなびん",
+    "romaji": "funabin",
+    "meaning": "gửi bằng đường biển",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:mail",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "船便どのくらいかかる？",
+      "polite": "船便はどのくらいかかりますか？",
+      "reading": "ふなびんどのくらいかかる？",
+      "romaji": "funabin dono kurai kakaru?",
+      "vietnamese": "gửi đường biển mất bao lâu / đi đường biển hết bao lâu",
+      "variants": [
+        "funabin wa dono kurai kakarimasu ka",
+        "funabin dono kurai kakaru"
+      ]
+    },
+    "answer": {
+      "short": "2か月くらい。",
+      "reading": "にかげつくらい。",
+      "romaji": "nikagetsu kurai.",
+      "vietnamese": "khoảng hai tháng / tầm 2 tháng",
+      "variants": [
+        "nikagetsu kakarimasu",
+        "nikagetsu",
+        "hai thang",
+        "khoang hai thang"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "船便は、２か月かかります。",
+        "vietnamese": "Gửi bằng đường biển mất hai tháng."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "term": "両親",
+    "reading": "りょうしん",
+    "romaji": "ryoushin",
+    "meaning": "bố mẹ, phụ huynh",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "ご両親どこに住んでる？",
+      "polite": "ご両親はどちらにお住まいですか？",
+      "reading": "ごりょうしんどこにすんでる？",
+      "romaji": "goryoushin doko ni sunderu?",
+      "vietnamese": "bố mẹ bạn sống ở đâu / hai bác ở đâu",
+      "variants": [
+        "goryoushin wa doko ni sundeimasu ka",
+        "ryoushin doko ni sunderu"
+      ]
+    },
+    "answer": {
+      "short": "ハノイに住んでるよ。",
+      "reading": "はのいにすんでるよ。",
+      "romaji": "hanoi ni sunderu yo.",
+      "vietnamese": "sống ở hà nội / ở hà nội",
+      "variants": [
+        "hanoi ni sundeimasu",
+        "hanoi",
+        "o ha noi",
+        "song o ha noi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "両親は、田舎に住んでいます。",
+        "vietnamese": "Bố mẹ tôi sống ở quê."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "term": "兄弟",
+    "reading": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "anh chị em",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "兄弟は何人いる？",
+      "polite": "ご兄弟は何人いらっしゃいますか？",
+      "reading": "きょうだいはなんにんいる？",
+      "romaji": "kyoudai wa nannin iru?",
+      "vietnamese": "nhà có mấy anh chị em / có mấy anh em",
+      "variants": [
+        "kyoudai wa nannin imasu ka",
+        "gokyoudai wa nannin desu ka",
+        "kyoudai nannin"
+      ]
+    },
+    "answer": {
+      "short": "妹が１人いるよ。",
+      "reading": "いもうとがひとりいるよ。",
+      "romaji": "imouto ga hitori iru yo.",
+      "vietnamese": "có 1 em gái / một em gái",
+      "variants": [
+        "imouto ga hitori imasu",
+        "imouto hitori",
+        "co 1 em gai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "兄弟は、兄が１人います。",
+        "vietnamese": "Anh chị em thì tôi có một người anh trai."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "term": "兄",
+    "reading": "あに",
+    "romaji": "ani",
+    "meaning": "anh trai (của mình)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "兄は何してる？",
+      "polite": "お兄様は何をされていますか？",
+      "reading": "あにはなににしてる？",
+      "romaji": "ani wa nani shiteru?",
+      "vietnamese": "anh trai làm nghề gì / anh cậu làm gì",
+      "variants": [
+        "oniisan wa nani o shiteimasu ka",
+        "ani wa nani shiteru"
+      ]
+    },
+    "answer": {
+      "short": "会社員だよ。",
+      "reading": "かいしゃいんだよ。",
+      "romaji": "kaishain da yo.",
+      "vietnamese": "nhân viên công ty / đi làm công ty",
+      "variants": [
+        "kaishain desu",
+        "kaishain",
+        "nhan vien cong ty",
+        "di lam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "兄は、会社員です。",
+        "vietnamese": "Anh trai tôi là nhân viên công ty."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "term": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan",
+    "meaning": "anh trai (của người khác)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "この男の人、誰？",
+      "polite": "この男性はどなたですか？",
+      "reading": "このおとこのひと、だれ？",
+      "romaji": "kono otoko no hito, dare?",
+      "vietnamese": "người đàn ông này là ai / ai đây",
+      "variants": [
+        "kono otoko no hito wa dare desu ka",
+        "kono hito dare",
+        "dare desu ka"
+      ]
+    },
+    "answer": {
+      "short": "田中さんのお兄さん。",
+      "reading": "たなかさんのおにいさん。",
+      "romaji": "tanaka-san no oniisan.",
+      "vietnamese": "anh trai của anh tanaka / anh trai tanaka",
+      "variants": [
+        "tanaka san no oniisan desu",
+        "tanaka no oniisan",
+        "anh trai tanaka"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "あそこにいる人は、ミラーさんのお兄さんです。",
+        "vietnamese": "Người ở đằng kia là anh trai anh Miller."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "term": "姉",
+    "reading": "あね",
+    "romaji": "ane",
+    "meaning": "chị gái (của mình)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "誰と住んでるの？",
+      "polite": "どなたとお住まいですか？",
+      "reading": "だれとすんでるの？",
+      "romaji": "dare to sunderu no?",
+      "vietnamese": "đang sống với ai / cậu sống với ai",
+      "variants": [
+        "dare to sunde imasu ka",
+        "dare to sunderu",
+        "song voi ai"
+      ]
+    },
+    "answer": {
+      "short": "姉と住んでる。",
+      "reading": "あねとすんでる。",
+      "romaji": "ane to sunderu.",
+      "vietnamese": "sống cùng chị gái / ở với chị gái",
+      "variants": [
+        "ane to sunde imasu",
+        "ane to",
+        "song cung chi gai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "姉は、２５歳です。",
+        "vietnamese": "Chị gái tôi 25 tuổi."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "term": "お姉さん",
+    "reading": "おねえさん",
+    "romaji": "oneesan",
+    "meaning": "chị gái (của người khác)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "となりの女の人、誰？",
+      "polite": "お隣の女性はどなたですか？",
+      "reading": "となりのおんなのひと、だれ？",
+      "romaji": "tonari no onna no hito, dare?",
+      "vietnamese": "người phụ nữ bên cạnh là ai / ai bên cạnh",
+      "variants": [
+        "tonari no onna no hito wa dare desu ka",
+        "tonari no hito dare"
+      ]
+    },
+    "answer": {
+      "short": "佐藤さんのお姉さん。",
+      "reading": "さとうさんのおねえさん。",
+      "romaji": "satou-san no oneesan.",
+      "vietnamese": "chị gái của chị sato / chị gái sato",
+      "variants": [
+        "satou san no oneesan desu",
+        "satou no oneesan",
+        "chi gai sato"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "山田さんのお姉さんは、きれいです。",
+        "vietnamese": "Chị gái của anh Yamada rất đẹp."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "term": "弟",
+    "reading": "おとうと",
+    "romaji": "otouto",
+    "meaning": "em trai (của mình)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "弟いくつ？",
+      "polite": "弟さんはおいくつですか？",
+      "reading": "おとうといくつ？",
+      "romaji": "otouto ikutsu?",
+      "vietnamese": "em trai bao nhiêu tuổi / em cậu mấy tuổi",
+      "variants": [
+        "otoutosan wa oikutsu desu ka",
+        "otouto ikutsu"
+      ]
+    },
+    "answer": {
+      "short": "高校生だよ。",
+      "reading": "こうこうせいだよ。",
+      "romaji": "koukousei da yo.",
+      "vietnamese": "học sinh cấp ba / đang học cấp ba",
+      "variants": [
+        "koukousei desu",
+        "koukousei",
+        "cap ba",
+        "hoc cap ba"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "弟は、ハノイにいます。",
+        "vietnamese": "Em trai tôi đang ở Hà Nội."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "term": "弟さん",
+    "reading": "おとうとさん",
+    "romaji": "otoutosan",
+    "meaning": "em trai (của người khác)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "あの子、誰の弟？",
+      "polite": "あのお子様はどなたのご弟息ですか？",
+      "reading": "あのこ、だれのおとうと？",
+      "romaji": "ano ko, dare no otouto?",
+      "vietnamese": "cậu bé kia là em trai ai / em trai ai thế",
+      "variants": [
+        "ano ko wa dare no otouto desu ka",
+        "dare no otouto"
+      ]
+    },
+    "answer": {
+      "short": "鈴木さんの弟さん。",
+      "reading": "すずきさんのおとうとさん。",
+      "romaji": "suzuki-san no otoutosan.",
+      "vietnamese": "em trai của anh suzuki / em trai suzuki",
+      "variants": [
+        "suzuki san no otoutosan desu",
+        "suzuki no otoutosan",
+        "em trai suzuki"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "弟さんは、何歳ですか。",
+        "vietnamese": "Em trai bạn mấy tuổi?"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "term": "妹",
+    "reading": "いもうと",
+    "romaji": "imouto",
+    "meaning": "em gái (của mình)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "妹どこにいる？",
+      "polite": "妹さんはどちらにいらっしゃいますか？",
+      "reading": "いもうとどこにいる？",
+      "romaji": "imouto doko ni iru?",
+      "vietnamese": "em gái đang ở đâu / em gái đâu rồi",
+      "variants": [
+        "imoutosan wa doko ni imasu ka",
+        "imouto doko ni iru"
+      ]
+    },
+    "answer": {
+      "short": "部屋で勉強してる。",
+      "reading": "へやでべんきょうしてる。",
+      "romaji": "heya de benkyou shiteru.",
+      "vietnamese": "đang học trong phòng / ở trong phòng",
+      "variants": [
+        "heya ni imasu",
+        "heya de benkyou",
+        "o trong phong",
+        "dang hoc"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "妹が、１人います。",
+        "vietnamese": "Tôi có một cô em gái."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "term": "妹さん",
+    "reading": "いもうとさん",
+    "romaji": "imoutosan",
+    "meaning": "em gái (của người khác)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "あそこにいる女の子、誰？",
+      "polite": "あちらの女の子はどなたですか？",
+      "reading": "あそこにいるおんなのこ、だれ？",
+      "romaji": "asoko ni iru onna no ko, dare?",
+      "vietnamese": "bé gái đằng kia là ai / bé gái ở đó là ai",
+      "variants": [
+        "asoko ni iru onna no ko wa dare desu ka",
+        "ano onna no ko dare"
+      ]
+    },
+    "answer": {
+      "short": "山田さんの妹さん。",
+      "reading": "やまださんのいもうとさん。",
+      "romaji": "yamada-san no imoutosan.",
+      "vietnamese": "em gái của anh yamada / em gái yamada",
+      "variants": [
+        "yamada san no imoutosan desu",
+        "yamada no imoutosan",
+        "em gai yamada"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "田中さんの妹さんは、高校生です。",
+        "vietnamese": "Em gái của anh Tanaka là học sinh cấp ba."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "term": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "nước ngoài",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どこの国へ行ったことある？",
+      "polite": "どちらの国へいらっしゃったことがありますか？",
+      "reading": "どこのくにへいったことある？",
+      "romaji": "doko no kuni e itta koto aru?",
+      "vietnamese": "từng đi nước nào rồi / đi nước nào bao giờ chưa",
+      "variants": [
+        "doko no kuni e ikimashita ka",
+        "doko no kuni e itta",
+        "gaikoku doko itta"
+      ]
+    },
+    "answer": {
+      "short": "日本に行ったよ。",
+      "reading": "にほんにいったよ。",
+      "romaji": "nihon ni itta yo.",
+      "vietnamese": "từng đi nhật rồi / đi nhật",
+      "variants": [
+        "nihon ni ikimashita",
+        "nihon",
+        "tung di nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "外国へ、旅行に行きたいです。",
+        "vietnamese": "Tôi muốn đi du lịch nước ngoài."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "term": "〜時間",
+    "reading": "〜じかん",
+    "romaji": "~jikan",
+    "meaning": "~ tiếng, ~ giờ đồng hồ",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:health",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "毎日何時間寝る？",
+      "polite": "毎日何時間ぐらい寝ますか？",
+      "reading": "まいにちなんじかんねる？",
+      "romaji": "mainichi nanjikan neru?",
+      "vietnamese": "mỗi ngày ngủ mấy tiếng / ngủ bao nhiêu tiếng",
+      "variants": [
+        "mainichi nanjikan nemasu ka",
+        "mainichi nanjikan neru"
+      ]
+    },
+    "answer": {
+      "short": "7時間寝るよ。",
+      "reading": "ななじかんねるよ。",
+      "romaji": "nanajikan neru yo.",
+      "vietnamese": "ngủ bảy tiếng / 7 tiếng",
+      "variants": [
+        "nanajikan nemasu",
+        "nanajikan",
+        "bay tieng",
+        "7 tieng"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "毎日、８時間働きます。",
+        "vietnamese": "Mỗi ngày tôi làm việc 8 tiếng."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "term": "〜週間",
+    "reading": "〜しゅうかん",
+    "romaji": "~shuukan",
+    "meaning": "~ tuần",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "旅行どのくらい行く？",
+      "polite": "ご旅行はどのくらい行かれますか？",
+      "reading": "りょこうどのくらいいく？",
+      "romaji": "ryokou dono kurai iku?",
+      "vietnamese": "đi du lịch bao lâu / chuyến đi mấy tuần",
+      "variants": [
+        "ryokou wa dono kurai ikimasu ka",
+        "ryokou dono kurai iku"
+      ]
+    },
+    "answer": {
+      "short": "２週間行くよ。",
+      "reading": "にしゅうかんいくよ。",
+      "romaji": "nishuukan iku yo.",
+      "vietnamese": "đi hai tuần / khoảng hai tuần",
+      "variants": [
+        "nishuukan ikimasu",
+        "nishuukan",
+        "hai tuan",
+        "di hai tuan"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "２週間、国へ帰ります。",
+        "vietnamese": "Tôi về nước trong hai tuần."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "term": "〜か月",
+    "reading": "〜かげつ",
+    "romaji": "~kagetsu",
+    "meaning": "~ tháng",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:study",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "日本語どのくらい勉強した？",
+      "polite": "日本語をどのくらい勉強なさいましたか？",
+      "reading": "にほんごどのくらいべんきょうした？",
+      "romaji": "nihongo dono kurai benkyou shita?",
+      "vietnamese": "học tiếng nhật bao lâu rồi / học tiếng nhật mấy tháng rồi",
+      "variants": [
+        "nihongo o dono kurai benkyou shimashita ka",
+        "nihongo dono kurai benkyou shita"
+      ]
+    },
+    "answer": {
+      "short": "６か月勉強した。",
+      "reading": "ろっかげつべんきょうした。",
+      "romaji": "rokkagetsu benkyou shita.",
+      "vietnamese": "học được sáu tháng / sáu tháng",
+      "variants": [
+        "rokkagetsu benkyou shimashita",
+        "rokkagetsu",
+        "sau thang",
+        "hoc sau thang"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本で、６か月日本語を勉強しました。",
+        "vietnamese": "Tôi đã học tiếng Nhật sáu tháng ở Nhật."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "term": "〜年",
+    "reading": "〜ねん",
+    "romaji": "~nen",
+    "meaning": "~ năm",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:living",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "日本に何年住んでる？",
+      "polite": "日本に何年お住まいですか？",
+      "reading": "にほんになんねんすんでる？",
+      "romaji": "nihon ni nannen sunderu?",
+      "vietnamese": "sống ở nhật mấy năm rồi / ở nhật được bao nhiêu năm",
+      "variants": [
+        "nihon ni nannen sundeimasu ka",
+        "nihon ni nannen sunderu"
+      ]
+    },
+    "answer": {
+      "short": "３年住んでるよ。",
+      "reading": "さんねんすんでるよ。",
+      "romaji": "sannen sunderu yo.",
+      "vietnamese": "sống ba năm rồi / ba năm",
+      "variants": [
+        "sannen sundeimasu",
+        "sannen",
+        "ba nam",
+        "song ba nam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本に、３年います。",
+        "vietnamese": "Tôi ở Nhật ba năm."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "term": "〜ぐらい",
+    "reading": "〜ぐらい",
+    "romaji": "~gurai",
+    "meaning": "khoảng ~, tầm ~",
+    "level": "N5",
+    "type": "Trợ từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "駅からここまでどのくらい？",
+      "polite": "駅からここまでどのくらいかかりますか？",
+      "reading": "えきからここまでどのくらい？",
+      "romaji": "eki kara koko made dono kurai?",
+      "vietnamese": "từ ga đến đây bao lâu / mất khoảng bao lâu",
+      "variants": [
+        "eki kara koko made dono kurai kakarimasu ka",
+        "eki kara koko made dono kurai"
+      ]
+    },
+    "answer": {
+      "short": "歩いて10分ぐらい。",
+      "reading": "あるいてじゅっぷんぐらい。",
+      "romaji": "aruite juppun gurai.",
+      "vietnamese": "đi bộ tầm mười phút / khoảng 10 phút",
+      "variants": [
+        "aruite juppun kurai",
+        "juppun gurai",
+        "tam muoi phut",
+        "khoang 10 phut"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "学校まで、歩いて１０分ぐらいです。",
+        "vietnamese": "Đến trường đi bộ khoảng 10 phút."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "term": "どのくらい",
+    "reading": "どのくらい",
+    "romaji": "dono kurai",
+    "meaning": "bao lâu, bao nhiêu",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:time",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "待ち時間どのくらい？",
+      "polite": "待ち時間はどのくらいですか？",
+      "reading": "まちじかんどのくらい？",
+      "romaji": "machijikan dono kurai?",
+      "vietnamese": "chờ khoảng bao lâu / thời gian chờ bao lâu",
+      "variants": [
+        "machijikan wa dono kurai desu ka",
+        "machijikan dono kurai"
+      ]
+    },
+    "answer": {
+      "short": "15分くらい。",
+      "reading": "じゅうごふんくらい。",
+      "romaji": "juugofun kurai.",
+      "vietnamese": "tầm mười lăm phút / khoảng 15 phút",
+      "variants": [
+        "juugofun gurai",
+        "juugofun",
+        "muoi lam phut",
+        "tam 15 phut"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "どのくらい、日本語を勉強しましたか。",
+        "vietnamese": "Bạn đã học tiếng Nhật khoảng bao lâu?"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "term": "全部で",
+    "reading": "ぜんぶで",
+    "romaji": "zenbu de",
+    "meaning": "tổng cộng, tất cả",
+    "level": "N5",
+    "type": "Phó từ",
+    "tags": [
+      "topic:shopping",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "全部でおいくらですか？",
+      "polite": "全部でおいくらですか？",
+      "reading": "ぜんぶでおいくらですか？",
+      "romaji": "zenbu de oikura desu ka?",
+      "vietnamese": "tổng cộng hết bao nhiêu tiền / tất cả bao nhiêu",
+      "variants": [
+        "zenbu de ikura desu ka",
+        "zenbu de ikura"
+      ]
+    },
+    "answer": {
+      "short": "全部で1500円です。",
+      "reading": "ぜんぶでせんごひゃくえんです。",
+      "romaji": "zenbu de sengohyakuen desu.",
+      "vietnamese": "tất cả là 1500 yên / 1500 yên",
+      "variants": [
+        "sengohyakuen desu",
+        "sengohyakuen",
+        "1500 yen",
+        "nghin ruoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "全部で、５００円です。",
+        "vietnamese": "Tổng cộng là 500 yên."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "term": "みんな",
+    "reading": "みんな",
+    "romaji": "minna",
+    "meaning": "tất cả mọi người, toàn thể",
+    "level": "N5",
+    "type": "Phó từ",
+    "tags": [
+      "topic:meeting",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "誰がパーティーに来たの？",
+      "polite": "どなたがパーティーにいらっしゃいましたか？",
+      "reading": "だれがぱーてぃーにきたの？",
+      "romaji": "dare ga paatii ni kita no?",
+      "vietnamese": "ai đã đến bữa tiệc / ai đến thế",
+      "variants": [
+        "dare ga paatii ni kimashita ka",
+        "dare ga kita no",
+        "dare ga kita"
+      ]
+    },
+    "answer": {
+      "short": "クラスのみんな。",
+      "reading": "くらすのみんな。",
+      "romaji": "kurasu no minna.",
+      "vietnamese": "cả lớp / tất cả mọi người",
+      "variants": [
+        "kurasu no minna desu",
+        "minna",
+        "ca lop",
+        "moi nguoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "みんなで、ご飯を食べます。",
+        "vietnamese": "Mọi người cùng nhau ăn cơm."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "term": "〜だけ",
+    "reading": "〜だけ",
+    "romaji": "~dake",
+    "meaning": "chỉ ~",
+    "level": "N5",
+    "type": "Trợ từ",
+    "tags": [
+      "topic:work",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "休みはいつ？",
+      "polite": "お休みはいつでいらっしゃいますか？",
+      "reading": "やすみはいつ？",
+      "romaji": "yasumi wa itsu?",
+      "vietnamese": "được nghỉ khi nào / nghỉ ngày nào",
+      "variants": [
+        "yasumi wa itsu desu ka",
+        "oyasumi wa itsu desu ka",
+        "yasumi itsu"
+      ]
+    },
+    "answer": {
+      "short": "日曜日だけ。",
+      "reading": "にちようびだけ。",
+      "romaji": "nichiyoubi dake.",
+      "vietnamese": "chỉ mỗi chủ nhật / duy nhất chủ nhật",
+      "variants": [
+        "nichiyoubi dake desu",
+        "nichiyoubi",
+        "chi moi chu nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "休みは、日曜日だけです。",
+        "vietnamese": "Tôi chỉ được nghỉ vào Chủ Nhật."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "term": "いらっしゃいませ",
+    "reading": "いらっしゃいませ",
+    "romaji": "irasshaimase",
+    "meaning": "xin kính chào quý khách",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:restaurant",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "いらっしゃいませ！",
+      "polite": "いらっしゃいませ！何名様ですか？",
+      "reading": "いらっしゃいませ！",
+      "romaji": "irasshaimase!",
+      "vietnamese": "kính chào quý khách / xin mời vào",
+      "variants": [
+        "irasshaimase",
+        "irasshai"
+      ]
+    },
+    "answer": {
+      "short": "２人です。",
+      "reading": "ふたりです。",
+      "romaji": "futari desu.",
+      "vietnamese": "hai người / bọn tôi hai người",
+      "variants": [
+        "futari",
+        "hai nguoi",
+        "di hai nguoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "いらっしゃいませ。どうぞお入りください。",
+        "vietnamese": "Xin kính chào quý khách. Xin mời vào."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "term": "いい[お]天気ですね",
+    "reading": "いい[お]てんきですね",
+    "romaji": "ii [o]tenki desu ne",
+    "meaning": "trời đẹp quá nhỉ",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:weather",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "外の天気、どう？",
+      "polite": "外のお天気はいかがですか？",
+      "reading": "そとのてんき、どう？",
+      "romaji": "soto no tenki, dou?",
+      "vietnamese": "thời tiết bên ngoài thế nào / trời thế nào",
+      "variants": [
+        "soto no tenki wa dou desu ka",
+        "tenki wa dou",
+        "tenki dou"
+      ]
+    },
+    "answer": {
+      "short": "いい天気だよ！",
+      "reading": "いいてんきだよ！",
+      "romaji": "ii tenki da yo!",
+      "vietnamese": "đẹp trời lắm / thời tiết đẹp",
+      "variants": [
+        "ii tenki desu",
+        "ii tenki",
+        "dep troi lam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "いいお天気ですね。どこかへ行きますか。",
+        "vietnamese": "Trời đẹp quá nhỉ. Anh/Chị có đi đâu không?"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "term": "お出かけですか",
+    "reading": "おでかけですか",
+    "romaji": "odekake desu ka",
+    "meaning": "bác đi ra ngoài đấy à?",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:greeting",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "どこ行くの？",
+      "polite": "どちらへお出かけですか？",
+      "reading": "どこいくの？",
+      "romaji": "doko iku no?",
+      "vietnamese": "đi đâu đấy / bạn đi đâu vậy",
+      "variants": [
+        "doko e ikimasu ka",
+        "dochira e ikimasu ka",
+        "doko iku"
+      ]
+    },
+    "answer": {
+      "short": "ちょっとお出かけ。",
+      "reading": "ちょっとおでかけ。",
+      "romaji": "chotto odekake.",
+      "vietnamese": "ra ngoài có chút việc / ra ngoài",
+      "variants": [
+        "chotto odekake desu",
+        "odekake",
+        "ra ngoai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "お出かけですか。はい、ちょっと郵便局まで。",
+        "vietnamese": "Bác đi ra ngoài đấy à? Vâng, tôi đi ra bưu điện một chút."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "term": "ちょっと〜まで",
+    "reading": "ちょっと〜まで",
+    "romaji": "chotto ~ made",
+    "meaning": "tôi ra ~ một chút",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:leave",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どこ行くの？",
+      "polite": "どちらへお出かけですか？",
+      "reading": "どこいくの？",
+      "romaji": "doko iku no?",
+      "vietnamese": "đi đâu đấy / cậu đi đâu thế",
+      "variants": [
+        "doko e ikimasu ka",
+        "doko iku no"
+      ]
+    },
+    "answer": {
+      "short": "ちょっとコンビニまで。",
+      "reading": "ちょっとこんびにまで。",
+      "romaji": "chotto konbini made.",
+      "vietnamese": "ra cửa hàng tiện lợi một chút / ra cửa hàng tiện lợi",
+      "variants": [
+        "konbini made",
+        "chotto soko made",
+        "ra cua hang tien loi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ちょっと、コンビニまで行ってきます。",
+        "vietnamese": "Tôi ra cửa hàng tiện lợi một chút rồi về."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "term": "行ってらっしゃい",
+    "reading": "いってらっしゃい",
+    "romaji": "itterasshai",
+    "meaning": "anh/chị đi nhé (cẩn thận nhé)",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:greeting",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "行ってきます！",
+      "polite": "行ってまいります。",
+      "reading": "いってきます！",
+      "romaji": "ittekimasu!",
+      "vietnamese": "con đi đây nhé / tôi đi làm đây",
+      "variants": [
+        "ittekimasu",
+        "ittemairimasu"
+      ]
+    },
+    "answer": {
+      "short": "行ってらっしゃい、気をつけて！",
+      "reading": "いってらっしゃい、きをつけて！",
+      "romaji": "itterasshai, ki o tsukete!",
+      "vietnamese": "đi nhé, cẩn thận đấy / đi cẩn thận",
+      "variants": [
+        "itterasshai",
+        "ki o tsukete",
+        "di can than nhe"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "行ってらっしゃい。気をつけてね。",
+        "vietnamese": "Anh đi nhé. Cẩn thận đấy."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "term": "行ってまいります",
+    "reading": "いってまいります",
+    "romaji": "ittemairimasu",
+    "meaning": "tôi xin phép đi đây ạ",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:greeting",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "行ってまいります。",
+      "polite": "行ってまいります。",
+      "reading": "いってまいります。",
+      "romaji": "ittemairimasu.",
+      "vietnamese": "tôi xin phép đi ạ / con xin phép đi học",
+      "variants": [
+        "ittemairimasu",
+        "ittekimasu"
+      ]
+    },
+    "answer": {
+      "short": "いってらっしゃい！",
+      "reading": "いってらっしゃい！",
+      "romaji": "itterasshai!",
+      "vietnamese": "anh đi nhé / đi cẩn thận",
+      "variants": [
+        "itterasshai",
+        "di nhe",
+        "di can than"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "行ってまいります。はい、行ってらっしゃい。",
+        "vietnamese": "Tôi xin phép đi đây ạ. Vâng, anh đi nhé."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "term": "それから",
+    "reading": "それから",
+    "romaji": "sorekara",
+    "meaning": "sau đó, rồi thì",
+    "level": "N5",
+    "type": "Liên từ",
+    "tags": [
+      "topic:daily_life",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "朝起きて何した？",
+      "polite": "朝起きてから何をなさいましたか？",
+      "reading": "あさおきてなににした？",
+      "romaji": "asa okite nani shita?",
+      "vietnamese": "sáng dậy làm gì thế / dậy rồi làm gì",
+      "variants": [
+        "asa okite nani o shimashita ka",
+        "asa okite nani shita"
+      ]
+    },
+    "answer": {
+      "short": "シャワー浴びて、それから朝ごはん。",
+      "reading": "しゃわーあびて、それからあさごはん。",
+      "romaji": "shawa- abite, sorekara asagohan.",
+      "vietnamese": "tắm xong rồi ăn sáng / tắm rồi ăn sáng",
+      "variants": [
+        "sorekara asagohan",
+        "shawa- to asagohan",
+        "tam xong roi an sang"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "顔を洗いました。それから、朝ごはんを食べました。",
+        "vietnamese": "Tôi rửa mặt. Sau đó, tôi ăn bữa sáng."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "term": "オーストラリア",
+    "reading": "オーストラリア",
+    "romaji": "o-sutoraria",
+    "meaning": "nước Úc, Australia",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どこの国へ行きたい？",
+      "polite": "どちらの国へいらっしゃりたいですか？",
+      "reading": "どこのくにへいきたい？",
+      "romaji": "doko no kuni e ikitai?",
+      "vietnamese": "muốn đi nước nào / thích đi nước nào",
+      "variants": [
+        "doko no kuni e ikitai desu ka",
+        "doko ikitai",
+        "doko no kuni"
+      ]
+    },
+    "answer": {
+      "short": "オーストラリア！",
+      "reading": "おーすとらりあ！",
+      "romaji": "oosutoraria!",
+      "vietnamese": "nước úc / úc",
+      "variants": [
+        "oosutoraria desu",
+        "australia",
+        "nuoc uc"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "オーストラリアから、友だちが来ました。",
+        "vietnamese": "Bạn tôi từ nước Úc đã đến."
+      }
+    ]
+  }
+]

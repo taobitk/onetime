@@ -1,0 +1,18 @@
+# Runtime engines & generated files (too large / local-only)
+TTS/
+audio/
+logs/
+*.log
+
+# Rust build artifacts
+server_rs/target/
+**/target/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# OS / Editor
+.DS_Store
+Thumbs.db

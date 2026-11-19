@@ -1,0 +1,176 @@
+{
+  "bai": 5,
+  "chu_de": "IV. Giải thích ngữ pháp",
+  "ngu_phap": [
+    {
+      "stt": 1,
+      "mau_cau": "Danh từ (địa điểm) へ 行きます／来ます／帰ります",
+      "chi_tiet": [
+        {
+          "giai_thich": "Khi động từ chỉ sự di chuyển, thì trợ từ 「へ」 được dùng sau danh từ chỉ phương hướng hay địa điểm[cite: 7].",
+          "chu_y": "Trợ từ 「へ」 phát âm là 「え」[cite: 7].",
+          "vi_du": [
+            {
+              "so": 1,
+              "tieng_nhat": "京都へ 行きます。[cite: 7]",
+              "tieng_viet": "Tôi đi Kyoto.[cite: 7]"
+            },
+            {
+              "so": 2,
+              "tieng_nhat": "日本へ 来ました。[cite: 7]",
+              "tieng_viet": "Tôi đã đến Nhật Bản.[cite: 7]"
+            },
+            {
+              "so": 3,
+              "tieng_nhat": "うちへ 帰ります。[cite: 7]",
+              "tieng_viet": "Tôi về nhà.[cite: 7]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 2,
+      "mau_cau": "どこ [へ] も 行きません／行きませんでした",
+      "chi_tiet": [
+        {
+          "giai_thich": "Khi muốn phủ định hoàn toàn đối tượng (hoặc phạm vi) của từ nghi vấn thì dùng trợ từ 「も」[cite: 7]. Trong mẫu câu này thì động từ để ở dạng phủ định[cite: 7].",
+          "vi_du": [
+            {
+              "so": 4,
+              "tieng_nhat": "どこ [へ] も 行きません。[cite: 7]",
+              "tieng_viet": "Tôi không đi đâu cả.[cite: 7]"
+            },
+            {
+              "so": 5,
+              "tieng_nhat": "何も 食べません。[cite: 7]",
+              "tieng_viet": "Tôi không ăn gì cả. (Bài 6)[cite: 7]"
+            },
+            {
+              "so": 6,
+              "tieng_nhat": "だれも いません。[cite: 7]",
+              "tieng_viet": "Không có ai cả. (Bài 10)[cite: 7]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 3,
+      "mau_cau": "Danh từ (phương tiện giao thông) で 行きます／来ます／帰ります",
+      "chi_tiet": [
+        {
+          "giai_thich": "Trợ từ 「で」 biểu thị phương tiện hay cách thức tiến hành một việc gì đó[cite: 7]. Khi dùng trợ từ này sau danh từ chỉ phương tiện giao thông và dùng kèm với động từ di chuyển (いきます, きます, かえります, v.v.) thì nó biểu thị cách thức di chuyển[cite: 7].",
+          "vi_du": [
+            {
+              "so": 7,
+              "tieng_nhat": "電車で 行きます。[cite: 7]",
+              "tieng_viet": "Tôi đi bằng tàu điện.[cite: 7]"
+            },
+            {
+              "so": 8,
+              "tieng_nhat": "タクシーで 来ました。[cite: 7]",
+              "tieng_viet": "Tôi đã đến bằng tắc-xi.[cite: 7]"
+            }
+          ],
+          "chu_y": {
+            "giai_thich": "Trong trường hợp đi bộ thì dùng 「あるいて」 mà không kèm theo trợ từ 「で」[cite: 7].",
+            "vi_du": [
+              {
+                "so": 9,
+                "tieng_nhat": "駅から 歩いて 帰りました。[cite: 7]",
+                "tieng_viet": "Tôi đã đi bộ từ ga về nhà.[cite: 7]"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stt": 4,
+      "mau_cau": "Danh từ (người/động vật) と Động từ",
+      "chi_tiet": [
+        {
+          "giai_thich": "Chúng ta dùng trợ từ 「と」 để biểu thị một đối tượng nào đó (người hoặc động vật) cùng thực hiện hành động[cite: 7].",
+          "vi_du": [
+            {
+              "so": 10,
+              "tieng_nhat": "家族と 日本へ 来ました。[cite: 7]",
+              "tieng_viet": "Tôi đã đến Nhật Bản cùng với gia đình.[cite: 7]"
+            }
+          ],
+          "chu_y": {
+            "giai_thich": "Trong trường hợp thực hiện hành động một mình thì dùng 「ひとりで」[cite: 7]. Trường hợp này thì không dùng trợ từ 「と」[cite: 7].",
+            "vi_du": [
+              {
+                "so": 11,
+                "tieng_nhat": "一人で 東京へ 行きます。[cite: 7]",
+                "tieng_viet": "Tôi đi Tokyo một mình.[cite: 7]"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stt": 5,
+      "mau_cau": "いつ",
+      "chi_tiet": [
+        {
+          "giai_thich": "Khi muốn hỏi về thời điểm thực hiện một hành động nào đó thì ngoài cách dùng từ nghi vấn 「なん」 như 「なんじ」「なんようび」「なんがつなんにち」, còn có thể dùng từ nghi vấn 「いつ (khi nào)」[cite: 8]. Đối với 「いつ」 thì không dùng trợ từ 「に」 ở sau[cite: 8].",
+          "vi_du": [
+            {
+              "so": 12,
+              "hoi": {
+                "tieng_nhat": "いつ 日本へ 来ましたか。[cite: 8]",
+                "tieng_viet": "Bạn đến Nhật bao giờ?[cite: 8]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…3月 25日に 来ました。[cite: 8]",
+                "tieng_viet": "…Tôi đến Nhật vào ngày 25 tháng 3.[cite: 8]"
+              }
+            },
+            {
+              "so": 13,
+              "hoi": {
+                "tieng_nhat": "いつ 広島へ 行きますか。[cite: 8]",
+                "tieng_viet": "Bao giờ bạn sẽ đi Hiroshima?[cite: 8]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…来週 行きます。[cite: 8]",
+                "tieng_viet": "…Tuần sau tôi sẽ đi.[cite: 8]"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 6,
+      "mau_cau": "Câu よ",
+      "chi_tiet": [
+        {
+          "giai_thich": "Từ 「よ」 được đặt ở cuối câu để nhấn mạnh một thông tin nào đó mà người nghe chưa biết, hoặc để nhấn mạnh ý kiến hoặc sự phán đoán của người nói đối với người nghe[cite: 8].",
+          "vi_du": [
+            {
+              "so": 14,
+              "hoi": {
+                "tieng_nhat": "この 電車は 甲子園へ 行きますか。[cite: 8]",
+                "tieng_viet": "Tàu điện này có đi đến Koshien không?[cite: 8]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…いいえ、行きません。次の 普通ですよ。[cite: 8]",
+                "tieng_viet": "…Không, không đi. Chuyến tàu thường tiếp theo mới đi cơ.[cite: 8]"
+              }
+            },
+            {
+              "so": 15,
+              "tieng_nhat": "無理な ダイエットは 体に よくたいですよ。[cite: 8]",
+              "tieng_viet": "Chế độ giảm cân không hợp lý sẽ có hại cho sức khỏe đấy. (Bài 19)[cite: 8]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

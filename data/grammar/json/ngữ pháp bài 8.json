@@ -1,0 +1,179 @@
+{
+  "lesson": 8,
+  "title": "Giải thích ngữ pháp Bài 8 - Minna no Nihongo",
+  "grammar_points": [
+    {
+      "id": 1,
+      "title": "Phân loại tính từ",
+      "summary": "Tính từ dùng làm vị ngữ hoặc bổ nghĩa cho danh từ, chia làm 2 nhóm căn cứ theo cách biến đổi.",
+      "types": [
+        {
+          "type_name": "Tính từ đuôi い (い-adjective)",
+          "description": "Kết thúc bằng đuôi 〜い."
+        },
+        {
+          "type_name": "Tính từ đuôi な (な-adjective)",
+          "description": "Khi đứng một mình kết thúc bằng đuôi [な], khi làm vị ngữ thường bỏ [な]."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Câu vị ngữ tính từ (Thời hiện tại / Tương lai)",
+      "patterns": {
+        "affirmative": {
+          "structure": [
+            "Danh từ は [Tính từ đuôi な (bỏ な)] です",
+            "Danh từ は [Tính từ đuôi い] です"
+          ],
+          "usage": "Biểu thị thái độ lịch sự của người nói. Dùng trong câu khẳng định, không phải thời quá khứ.",
+          "examples": [
+            {
+              "japanese": "ワット先生は親切です。",
+              "vietnamese": "Thầy Watt tốt bụng."
+            },
+            {
+              "japanese": "富士山は高いです。",
+              "vietnamese": "Núi Phú Sĩ cao."
+            }
+          ]
+        },
+        "negative": {
+          "structure": [
+            "Tính từ đuôi な: [Tính từ đuôi な (bỏ な)] じゃ ありません / では ありません",
+            "Tính từ đuôi い: [Tính từ đuôi い (bỏ い)] ＋ くないです"
+          ],
+          "notes": "Trường hợp đặc biệt: 「いいです」 phủ định là 「よくないです」.",
+          "examples": [
+            {
+              "japanese": "あそこは静かじゃありません。",
+              "vietnamese": "Chỗ kia không yên tĩnh."
+            },
+            {
+              "japanese": "この本はおもしろくないです。",
+              "vietnamese": "Quyển sách này không hay."
+            }
+          ]
+        },
+        "interrogative": {
+          "structure": "Danh từ は [Tính từ] ですか",
+          "notes": "Khi trả lời cần lặp lại tính từ, không dùng 「そうです」 hoặc 「そうじゃありません」.",
+          "examples": [
+            {
+              "japanese": "ペキンは寒いですか。…はい、寒いです。",
+              "vietnamese": "Bắc Kinh có lạnh không? …Có, có lạnh."
+            },
+            {
+              "japanese": "琵琶湖の水はきれいですか。…いいえ、きれいじゃありません。",
+              "vietnamese": "Nước Hồ Biwa có sạch không? …Không, không sạch."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "title": "Tính từ bổ nghĩa cho danh từ",
+      "structure": [
+        "Tính từ đuôi な ＋ な ＋ Danh từ",
+        "Tính từ đuôi い ＋ Danh từ"
+      ],
+      "usage": "Tính từ đặt trước danh từ để bổ nghĩa cho danh từ đó. Đối với tính từ đuôi な thì giữ nguyên từ [な] đứng trước danh từ.",
+      "examples": [
+        {
+          "japanese": "ワット先生は親切な先生です。",
+          "vietnamese": "Thầy Watt là thầy giáo tốt bụng."
+        },
+        {
+          "japanese": "富士山は高い山です。",
+          "vietnamese": "Núi Phú Sĩ là núi cao."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Phó từ chỉ mức độ: とても và あまり",
+      "usage": "Là phó từ biểu thị mức độ, đặt trước tính từ để bổ nghĩa.",
+      "details": [
+        {
+          "word": "とても",
+          "meaning": "Rất",
+          "rule": "Đi với câu khẳng định.",
+          "examples": [
+            {
+              "japanese": "ペキンはとても寒いです。",
+              "vietnamese": "Bắc Kinh rất lạnh."
+            },
+            {
+              "japanese": "これはとても有名な映画です。",
+              "vietnamese": "Đây là bộ phim rất nổi tiếng."
+            }
+          ]
+        },
+        {
+          "word": "あまり",
+          "meaning": "Không ~ lắm",
+          "rule": "Đi với câu phủ định.",
+          "examples": [
+            {
+              "japanese": "シャンハイはあまり寒くないです。",
+              "vietnamese": "Thượng Hải không lạnh lắm."
+            },
+            {
+              "japanese": "さくら大学はあまり有名な大学じゃありません。",
+              "vietnamese": "Trường Đại học Sakura không phải là trường nổi tiếng lắm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Danh từ は どうですか",
+      "meaning": "Danh từ thì thế nào?",
+      "usage": "Dùng để hỏi về ấn tượng, ý kiến hoặc cảm tưởng của một ai đó về một việc đã làm, về một địa điểm đã đến thăm hay một người đã gặp.",
+      "examples": [
+        {
+          "japanese": "日本の生活はどうですか。…楽しいです。",
+          "vietnamese": "Cuộc sống của anh/chị ở Nhật thế nào? …Vui."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Danh từ 1 は どんな Danh từ 2 ですか",
+      "meaning": "Danh từ 1 là Danh từ 2 như thế nào?",
+      "usage": "Dùng khi người nói muốn người nghe mô tả hoặc giải thích về đối tượng trong Danh từ 1. Danh từ 2 chỉ phạm trù mà Danh từ 1 thuộc về. 「どんな」 luôn được đặt trước danh từ.",
+      "examples": [
+        {
+          "japanese": "奈良はどんな町ですか。…古い町です。",
+          "vietnamese": "Nara là thành phố như thế nào? …Là thành phố cổ."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Câu 1 が、Câu 2",
+      "meaning": "Câu 1 nhưng Câu 2",
+      "usage": "「が」 là trợ từ nối tiếp có nghĩa là 'nhưng', dùng để nối hai câu (mệnh đề) có ý nghĩa trái ngược nhau lại thành một câu.",
+      "examples": [
+        {
+          "japanese": "日本の食べ物はおいしいですが、高いです。",
+          "vietnamese": "Món ăn Nhật ngon nhưng đắt."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "どれ",
+      "meaning": "Cái nào",
+      "usage": "Từ để hỏi dùng khi người nói muốn yêu cầu người nghe xác định một vật cụ thể trong một nhóm từ hai vật trở lên.",
+      "examples": [
+        {
+          "japanese": "ミラーさんの傘はどれですか。…あの青い傘です。",
+          "vietnamese": "Cái ô của anh Miller là cái nào? …Là cái màu xanh da trời kia."
+        }
+      ]
+    }
+  ]
+}

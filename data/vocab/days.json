@@ -1,0 +1,591 @@
+[
+  {
+    "id": 1,
+    "term": "１日",
+    "reading": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "Ngày mồng 1",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "５月１日は休みです。",
+      "vietnamese": "Ngày mồng 1 tháng 5 là ngày nghỉ.",
+      "ruby": "５<ruby>月<rt>がつ</rt></ruby>１<ruby>日<rt>ついたち</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みです。"
+    }
+  },
+  {
+    "id": 2,
+    "term": "２日",
+    "reading": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "Ngày mồng 2, 2 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２日に会議があります。",
+      "vietnamese": "Ngày mồng 2 có cuộc họp.",
+      "ruby": "２<ruby>日<rt>ふつか</rt></ruby>に<ruby>会<rt>かい</rt>議<rt>ぎ</rt></ruby>があります。"
+    }
+  },
+  {
+    "id": 3,
+    "term": "３日",
+    "reading": "みっか",
+    "romaji": "mikka",
+    "meaning": "Ngày mồng 3, 3 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "３日に京都へ行きます。",
+      "vietnamese": "Ngày mồng 3 tôi đi Kyoto.",
+      "ruby": "３<ruby>日<rt>みっか</rt></ruby>に<ruby>京<rt>きょう</rt>都<rt>と</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 4,
+    "term": "４日",
+    "reading": "よっか",
+    "romaji": "yokka",
+    "meaning": "Ngày mồng 4, 4 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "来月の４日にテストがあります。",
+      "vietnamese": "Ngày mồng 4 tháng sau có bài kiểm tra.",
+      "ruby": "<ruby>来<rt>らい</rt>月<rt>げつ</rt></ruby>の４<ruby>日<rt>よっか</rt></ruby>にテストがあります。"
+    }
+  },
+  {
+    "id": 5,
+    "term": "５日",
+    "reading": "いつか",
+    "romaji": "itsuka",
+    "meaning": "Ngày mồng 5, 5 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "５日に国へ帰ります。",
+      "vietnamese": "Ngày mồng 5 tôi về nước.",
+      "ruby": "５<ruby>日<rt>いつか</rt></ruby>に<ruby>国<rt>くに</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。"
+    }
+  },
+  {
+    "id": 6,
+    "term": "６日",
+    "reading": "むいか",
+    "romaji": "muika",
+    "meaning": "Ngày mồng 6, 6 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "６日は日曜日です。",
+      "vietnamese": "Ngày mồng 6 là chủ nhật.",
+      "ruby": "６<ruby>日<rt>むいか</rt></ruby>は<ruby>日<rt>にち</rt>曜<rt>よう</rt>日<rt>び</rt></ruby>です。"
+    }
+  },
+  {
+    "id": 7,
+    "term": "７日",
+    "reading": "なのか",
+    "romaji": "nanoka",
+    "meaning": "Ngày mồng 7, 7 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "７日に友達と会います。",
+      "vietnamese": "Ngày mồng 7 tôi gặp bạn bè.",
+      "ruby": "７<ruby>日<rt>なのか</rt></ruby>に<ruby>友<rt>とも</rt>達<rt>だち</rt></ruby>と<ruby>会<rt>あ</rt></ruby>います。"
+    }
+  },
+  {
+    "id": 8,
+    "term": "８日",
+    "reading": "ようか",
+    "romaji": "youka",
+    "meaning": "Ngày mồng 8, 8 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "８日にデパートへ行きます。",
+      "vietnamese": "Ngày mồng 8 tôi đi bách hóa.",
+      "ruby": "８<ruby>日<rt>ようか</rt></ruby>にデパートへ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 9,
+    "term": "９日",
+    "reading": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "Ngày mồng 9, 9 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "９日は仕事が休みです。",
+      "vietnamese": "Ngày mồng 9 là ngày nghỉ làm.",
+      "ruby": "９<ruby>日<rt>ここのか</rt></ruby>は<ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby>が<ruby>休<rt>やす</rt></ruby>みです。"
+    }
+  },
+  {
+    "id": 10,
+    "term": "１０日",
+    "reading": "とおか",
+    "romaji": "tooka",
+    "meaning": "Ngày mồng 10, 10 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１０日に日本へ来ました。",
+      "vietnamese": "Tôi đã đến Nhật Bản vào ngày mồng 10.",
+      "ruby": "１０<ruby>日<rt>とおか</rt></ruby>に<ruby>日<rt>に</rt>本<rt>ほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。"
+    }
+  },
+  {
+    "id": 11,
+    "term": "１１日",
+    "reading": "じゅういちにち",
+    "romaji": "juuichinichi",
+    "meaning": "Ngày 11, 11 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１１日に大阪へ行きます。",
+      "vietnamese": "Ngày 11 tôi đi Osaka.",
+      "ruby": "１１<ruby>日<rt>じゅういちにち</rt></ruby>に<ruby>大<rt>おお</rt>阪<rt>さか</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 12,
+    "term": "１２日",
+    "reading": "じゅうににち",
+    "romaji": "juuninichi",
+    "meaning": "Ngày 12, 12 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１２日に荷物が届きます。",
+      "vietnamese": "Ngày 12 hành lý sẽ đến nơi.",
+      "ruby": "１２<ruby>日<rt>じゅうににち</rt></ruby>に<ruby>荷<rt>に</rt>物<rt>もつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 13,
+    "term": "１３日",
+    "reading": "じゅうさんにち",
+    "romaji": "juusannichi",
+    "meaning": "Ngày 13, 13 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１３日に病院へ行きます。",
+      "vietnamese": "Ngày 13 tôi đi bệnh viện.",
+      "ruby": "１３<ruby>日<rt>じゅうさんにち</rt></ruby>に<ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 14,
+    "term": "１４日",
+    "reading": "じゅうよっか",
+    "romaji": "juuyokka",
+    "meaning": "Ngày 14, 14 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "来月の１４日は休みです。",
+      "vietnamese": "Ngày 14 tháng sau là ngày nghỉ.",
+      "ruby": "<ruby>来<rt>らい</rt>月<rt>げつ</rt></ruby>の１４<ruby>日<rt>じゅうよっか</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みです。"
+    }
+  },
+  {
+    "id": 15,
+    "term": "１５日",
+    "reading": "じゅうごにち",
+    "romaji": "juugonichi",
+    "meaning": "Ngày 15, 15 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "毎月１５日は給料日です。",
+      "vietnamese": "Ngày 15 hàng tháng là ngày nhận lương.",
+      "ruby": "<ruby>毎<rt>まい</rt>月<rt>つき</rt></ruby>１５<ruby>日<rt>じゅうごにち</rt></ruby>は<ruby>給<rt>きゅう</rt>料<rt>りょう</rt>日<rt>び</rt></ruby>です。"
+    }
+  },
+  {
+    "id": 16,
+    "term": "１６日",
+    "reading": "じゅうろくにち",
+    "romaji": "juurokunichi",
+    "meaning": "Ngày 16, 16 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１６日に友達の結婚式があります。",
+      "vietnamese": "Ngày 16 có đám cưới của bạn tôi.",
+      "ruby": "１６<ruby>日<rt>じゅうろくにち</rt></ruby>に<ruby>友<rt>とも</rt>達<rt>だち</rt></ruby>の<ruby>結<rt>けっ</rt>婚<rt>こん</rt>式<rt>しき</rt></ruby>があります。"
+    }
+  },
+  {
+    "id": 17,
+    "term": "１７日",
+    "reading": "じゅうしちにち",
+    "romaji": "juushichinichi",
+    "meaning": "Ngày 17, 17 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１７日に家族と旅行します。",
+      "vietnamese": "Ngày 17 tôi đi du lịch với gia đình.",
+      "ruby": "１７<ruby>日<rt>じゅうしちにち</rt></ruby>に<ruby>家<rt>か</rt>族<rt>ぞく</rt></ruby>と<ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby>します。"
+    }
+  },
+  {
+    "id": 18,
+    "term": "１８日",
+    "reading": "じゅうはちにち",
+    "romaji": "juuhachinichi",
+    "meaning": "Ngày 18, 18 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１８日に本を返します。",
+      "vietnamese": "Ngày 18 tôi trả sách.",
+      "ruby": "１８<ruby>日<rt>じゅうはちにち</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>します。"
+    }
+  },
+  {
+    "id": 19,
+    "term": "１９日",
+    "reading": "じゅうくにち",
+    "romaji": "juukunichi",
+    "meaning": "Ngày 19, 19 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１９日に飛行機の切符を買います。",
+      "vietnamese": "Ngày 19 tôi mua vé máy bay.",
+      "ruby": "１９<ruby>日<rt>じゅうくにち</rt></ruby>に<ruby>飛<rt>ひ</rt>行<rt>こう</rt>機<rt>き</rt></ruby>の<ruby>切<rt>きっ</rt>符<rt>ぷ</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。"
+    }
+  },
+  {
+    "id": 20,
+    "term": "２０日",
+    "reading": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "Ngày 20, 20 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２０日に友達が来ます。",
+      "vietnamese": "Ngày 20 bạn tôi sẽ đến.",
+      "ruby": "２０<ruby>日<rt>はつか</rt></ruby>に<ruby>友<rt>とも</rt>達<rt>だち</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。"
+    }
+  },
+  {
+    "id": 21,
+    "term": "２１日",
+    "reading": "にじゅういちにち",
+    "romaji": "nijuuichinichi",
+    "meaning": "Ngày 21, 21 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２１日から夏休みが始まります。",
+      "vietnamese": "Kỳ nghỉ hè bắt đầu từ ngày 21.",
+      "ruby": "２１<ruby>日<rt>にじゅういちにち</rt></ruby>から<ruby>夏<rt>なつ</rt>休<rt>やす</rt></ruby>みが<ruby>始<rt>はじ</rt></ruby>まります。"
+    }
+  },
+  {
+    "id": 22,
+    "term": "２２日",
+    "reading": "にじゅうににち",
+    "romaji": "nijuuninichi",
+    "meaning": "Ngày 22, 22 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２２日に新幹線で東京へ行きます。",
+      "vietnamese": "Ngày 22 tôi đi Tokyo bằng tàu Shinkansen.",
+      "ruby": "２２<ruby>日<rt>にじゅうににち</rt></ruby>に<ruby>新<rt>しん</rt>幹<rt>かん</rt>線<rt>せん</rt></ruby>で<ruby>東<rt>とう</rt>京<rt>きょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 23,
+    "term": "２３日",
+    "reading": "にじゅうさんにち",
+    "romaji": "nijuusannichi",
+    "meaning": "Ngày 23, 23 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２３日は祝日です。",
+      "vietnamese": "Ngày 23 là ngày lễ.",
+      "ruby": "２３<ruby>日<rt>にじゅうさんにち</rt></ruby>は<ruby>祝<rt>しゅく</rt>日<rt>じつ</rt></ruby>です。"
+    }
+  },
+  {
+    "id": 24,
+    "term": "２４日",
+    "reading": "にじゅうよっか",
+    "romaji": "nijuuyokka",
+    "meaning": "Ngày 24, 24 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２４日に病院へ行きます。",
+      "vietnamese": "Ngày 24 tôi đi bệnh viện.",
+      "ruby": "２４<ruby>日<rt>にじゅうよっか</rt></ruby>に<ruby>病<rt>びょう</rt>院<rt>いん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 25,
+    "term": "２５日",
+    "reading": "にじゅうごにち",
+    "romaji": "nijuugonichi",
+    "meaning": "Ngày 25, 25 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１２月２５日はクリスマスです。",
+      "vietnamese": "Ngày 25 tháng 12 là Giáng sinh.",
+      "ruby": "１２<ruby>月<rt>がつ</rt></ruby>２５<ruby>日<rt>にじゅうごにち</rt></ruby>はクリスマスです。"
+    }
+  },
+  {
+    "id": 26,
+    "term": "２６日",
+    "reading": "にじゅうろくにち",
+    "romaji": "nijuurokunichi",
+    "meaning": "Ngày 26, 26 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２６日にレポートを出します。",
+      "vietnamese": "Ngày 26 tôi sẽ nộp báo cáo.",
+      "ruby": "２６<ruby>日<rt>にじゅうろくにち</rt></ruby>にレポートを<ruby>出<rt>だ</rt></ruby>します。"
+    }
+  },
+  {
+    "id": 27,
+    "term": "２７日",
+    "reading": "にじゅうしちにち",
+    "romaji": "nijuushichinichi",
+    "meaning": "Ngày 27, 27 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２７日に部屋を掃除します。",
+      "vietnamese": "Ngày 27 tôi dọn dẹp phòng.",
+      "ruby": "２７<ruby>日<rt>にじゅうしちにち</rt></ruby>に<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>を<ruby>掃<rt>そう</rt>除<rt>じ</rt></ruby>します。"
+    }
+  },
+  {
+    "id": 28,
+    "term": "２８日",
+    "reading": "にじゅうはちにち",
+    "romaji": "nijuuhachinichi",
+    "meaning": "Ngày 28, 28 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２８日に映画を見に行きます。",
+      "vietnamese": "Ngày 28 tôi đi xem phim.",
+      "ruby": "２８<ruby>日<rt>にじゅうはちにち</rt></ruby>に<ruby>映<rt>えい</rt>画<rt>が</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。"
+    }
+  },
+  {
+    "id": 29,
+    "term": "２９日",
+    "reading": "にじゅうくにち",
+    "romaji": "nijuukunichi",
+    "meaning": "Ngày 29, 29 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "２９日は母の誕生日です。",
+      "vietnamese": "Ngày 29 là sinh nhật của mẹ tôi.",
+      "ruby": "２９<ruby>日<rt>にじゅうくにち</rt></ruby>は<ruby>母<rt>はは</rt></ruby>の<ruby>誕<rt>たん</rt>生<rt>じょう</rt>日<rt>び</rt></ruby>です。"
+    }
+  },
+  {
+    "id": 30,
+    "term": "３０日",
+    "reading": "さんじゅうにち",
+    "romaji": "sanjuunichi",
+    "meaning": "Ngày 30, 30 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "３０日に荷物を整理します。",
+      "vietnamese": "Ngày 30 tôi sắp xếp lại đồ đạc.",
+      "ruby": "３０<ruby>日<rt>さんじゅうにち</rt></ruby>に<ruby>荷<rt>に</rt>物<rt>もつ</rt></ruby>を<ruby>整<rt>せい</rt>理<rt>り</rt></ruby>します。"
+    }
+  },
+  {
+    "id": 31,
+    "term": "３１日",
+    "reading": "さんじゅういちにち",
+    "romaji": "sanjuuichinichi",
+    "meaning": "Ngày 31, 31 ngày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:time",
+      "time:date",
+      "tone:polite"
+    ],
+    "example": {
+      "japanese": "１２月３１日は大晦日です。",
+      "vietnamese": "Ngày 31 tháng 12 là ngày giao thừa (cuối năm).",
+      "ruby": "１２<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>さんじゅういちにち</rt></ruby>は<ruby>大<rt>おお</rt>晦<rt>み</rt>日<rt>そか</rt></ruby>です。"
+    }
+  }
+]

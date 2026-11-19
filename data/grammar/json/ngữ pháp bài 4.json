@@ -1,0 +1,179 @@
+{
+  "bai_hoc": "Bài 4",
+  "ngu_phap": [
+    {
+      "stt": 1,
+      "mau_cau": "今 ―時―分です",
+      "cach_dung": "Dùng để biểu thị thời gian bằng cách thêm số đếm vào trước danh từ chỉ thời gian 「時 (giờ)」 và 「分 (phút)」.",
+      "chi_tiet": {
+        "quy_tac_doc": "「分」 đọc là 「ふん」 với các số 2, 5, 7, 9; đọc là 「ぷん」 với các số 1, 3, 4, 6, 8, 10. Trước 「ぷん」, các số 1, 6, 8, 10 biến âm thành 「いっ」「ろっ」「はっ」「じゅっ (じっ)」.",
+        "cau_hoi": "Để hỏi thời gian, dùng 「なん」 đặt trước danh từ chỉ thời gian (なんじ: mấy giờ, なんぷん: mấy phút).",
+        "chu_y": "Trợ từ 「は」 có thể đặt sau danh từ chỉ địa điểm để làm chủ đề câu."
+      },
+      "vi_du": [
+        {
+          "so": 1,
+          "tieng_nhat": "今 何時ですか。…7時10分です。",
+          "tieng_viet": "Bây giờ là mấy giờ? …7 giờ 10 phút."
+        },
+        {
+          "so": 2,
+          "tieng_nhat": "ニューヨークは 今 何時ですか。…午前4時です。",
+          "tieng_viet": "Ở New York bây giờ là mấy giờ? …4 giờ sáng."
+        }
+      ]
+    },
+    {
+      "stt": 2,
+      "mau_cau": "Động từ ます",
+      "cach_dung": [
+        "Cấu thành vị ngữ của câu.",
+        "Thể hiện thái độ lịch sự của người nói đối với người nghe."
+      ],
+      "vi_du": [
+        {
+          "so": 3,
+          "tieng_nhat": "わたしは 毎日 勉強します。",
+          "tieng_viet": "Tôi học hàng ngày."
+        }
+      ]
+    },
+    {
+      "stt": 3,
+      "mau_cau": "Động từ ます / Động từ ません / Động từ ました / Động từ ませんでした",
+      "cach_dung": [
+        "「Động từ ます」 dùng để nói về thói quen ở hiện tại, một sự thật hiển nhiên hoặc sự việc sẽ xảy ra trong tương lai.",
+        "Thể nghi vấn: Thêm trợ từ 「か」 vào cuối câu. Khi trả lời, nhắc lại động từ trong câu hỏi, không dùng 「そうです」 hoặc 「そうじゃ ありません」."
+      ],
+      "bang_chia_thi": {
+        "hien_tai_tuong_lai": {
+          "khang_dinh": "(おき)ます",
+          "phu_dinh": "(おき)ません"
+        },
+        "qua_khu": {
+          "khang_dinh": "(おき)ました",
+          "phu_dinh": "(おき)ませんでした"
+        }
+      },
+      "vi_du": [
+        {
+          "so": 4,
+          "tieng_nhat": "毎朝 6時に 起きます。",
+          "tieng_viet": "Hàng sáng tôi dậy vào lúc 6 giờ."
+        },
+        {
+          "so": 5,
+          "tieng_nhat": "あした 6時に 起きます。",
+          "tieng_viet": "Ngày mai tôi (sẽ) dậy vào lúc 6 giờ."
+        },
+        {
+          "so": 6,
+          "tieng_nhat": "けさ 6時に 起きました。",
+          "tieng_viet": "Sáng nay tôi (đã) dậy vào lúc 6 giờ."
+        },
+        {
+          "so": 7,
+          "tieng_nhat": "きのう 勉強しましたか。…はい、勉強しました。／…いいえ、勉強しませんでした。",
+          "tieng_viet": "Hôm qua anh/chị có học không? …Có, hôm qua tôi có học. / …Không, hôm qua tôi không học."
+        }
+      ]
+    },
+    {
+      "stt": 4,
+      "mau_cau": "Danh từ (thời gian) に Động từ",
+      "cach_dung": "Dùng trợ từ 「に」 sau danh từ chỉ thời gian để biểu thị thời điểm hành động xảy ra (hành động diễn ra trong thời gian ngắn).",
+      "quy_tac": [
+        "Dùng 「に」 khi danh từ thời gian có con số cụ thể đi kèm.",
+        "Không dùng 「に」 khi danh từ thời gian không có con số đi kèm.",
+        "Đối với các thứ trong tuần thì có thể dùng hoặc không dùng 「に」."
+      ],
+      "vi_du": [
+        {
+          "so": 9,
+          "tieng_nhat": "6時半に 起きます。",
+          "tieng_viet": "Tôi dậy vào lúc 6 giờ (rưỡi)."
+        },
+        {
+          "so": 10,
+          "tieng_nhat": "7月2日に 日本へ 来ました。",
+          "tieng_viet": "Tôi (đã) đến Nhật Bản vào ngày mồng 2 tháng 7."
+        },
+        {
+          "so": 11,
+          "tieng_nhat": "日曜日[に] 奈良へ 行きます。",
+          "tieng_viet": "Chủ nhật tôi (sẽ) đi Nara."
+        },
+        {
+          "so": 12,
+          "tieng_nhat": "きのう 勉強しました。",
+          "tieng_viet": "Hôm qua tôi (đã) học."
+        }
+      ]
+    },
+    {
+      "stt": 5,
+      "mau_cau": "Danh từ 1 から Danh từ 2 まで",
+      "cach_dung": [
+        "「から」 biểu thị điểm bắt đầu, 「まで」 biểu thị điểm kết thúc của thời gian hoặc địa điểm.",
+        "「から」 và 「まで」 không nhất thiết phải đi cùng nhau mà có thể đứng độc lập.",
+        "Có thể kết hợp với 「です」 ở dạng: 「～から」, 「～まで」, hoặc 「～から ～まで」."
+      ],
+      "vi_du": [
+        {
+          "so": 13,
+          "tieng_nhat": "9時から 5時まで 働きます。",
+          "tieng_viet": "Tôi làm việc từ 9 giờ đến 5 giờ."
+        },
+        {
+          "so": 14,
+          "tieng_nhat": "大阪から 東京まで 3時間 かかります。",
+          "tieng_viet": "Từ Osaka đến Tokyo mất 3 tiếng."
+        },
+        {
+          "so": 15,
+          "tieng_nhat": "9時から 働きます。",
+          "tieng_viet": "Tôi làm việc từ 9 giờ."
+        },
+        {
+          "so": 16,
+          "tieng_nhat": "銀行は 9時から 3時までです。",
+          "tieng_viet": "Ngân hàng mở cửa từ 9 giờ đến 3 giờ."
+        },
+        {
+          "so": 17,
+          "tieng_nhat": "昼休みは 12時からです。",
+          "tieng_viet": "Giờ nghỉ trưa bắt đầu từ 12 giờ."
+        }
+      ]
+    },
+    {
+      "stt": 6,
+      "mau_cau": "Danh từ 1 と Danh từ 2",
+      "cach_dung": "Dùng trợ từ 「と」 để nối hai danh từ với nhau (mang nghĩa là 'và').",
+      "vi_du": [
+        {
+          "so": 18,
+          "tieng_nhat": "銀行の 休みは 土曜日と 日曜日です。",
+          "tieng_viet": "Ngân hàng đóng cửa vào thứ bảy và chủ nhật."
+        }
+      ]
+    },
+    {
+      "stt": 7,
+      "mau_cau": "Câu ね",
+      "cach_dung": "Trợ từ 「ね」 đặt ở cuối câu để biểu thị sự đồng tình, thông cảm hoặc tìm kiếm sự xác nhận, đồng ý từ người nghe.",
+      "vi_du": [
+        {
+          "so": 19,
+          "tieng_nhat": "毎日 10時ごろまで 勉強します。…大変ですね。",
+          "tieng_viet": "Hàng ngày tôi học đến khoảng 10 giờ. …Vất vả quá!"
+        },
+        {
+          "so": 20,
+          "tieng_nhat": "山田さんの 電話番号は 871の 6813です。…871の 6813ですね。",
+          "tieng_viet": "Số điện thoại của ông Yamada là 871-6813. …871-6813 đúng không ạ."
+        }
+      ]
+    }
+  ]
+}

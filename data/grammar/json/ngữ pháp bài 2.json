@@ -1,0 +1,212 @@
+{
+  "bai": 2,
+  "chu_de": "IV. Giải thích ngữ pháp",
+  "ngu_phap": [
+    {
+      "stt": 1,
+      "mau_cau": "これ / それ / あれ",
+      "chi_tiet": [
+        {
+          "giai_thich": "「これ」「それ」và 「あれ」là những đại từ chỉ thị[cite: 3]. Về mặt ngữ pháp chúng được dùng như những danh từ[cite: 3]. 「これ」dùng để chỉ một vật ở gần người nói, 「それ」dùng để chỉ một vật ở gần người nghe[cite: 3]. 「あれ」dùng để chỉ một vật ở xa cả người nói và người nghe[cite: 3].",
+          "vi_du": [
+            {
+              "so": 1,
+              "tieng_nhat": "それは 辞書ですか。[cite: 3]",
+              "tieng_viet": "Đó có phải là quyển từ điển không?[cite: 3]"
+            },
+            {
+              "so": 2,
+              "tieng_nhat": "これを ください。[cite: 3]",
+              "tieng_viet": "Cho tôi cái này. (Bài 3)[cite: 3]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 2,
+      "mau_cau": "この Danh từ / その Danh từ / あの Danh từ",
+      "chi_tiet": [
+        {
+          "giai_thich": "「この」「その」và 「あの」bổ nghĩa cho danh từ[cite: 3]. 「この Danh từ」dùng để nói tới một vật hay một người nào đó ở gần người nói[cite: 3]. 「その Danh từ」dùng để nói tới một vật hay một người nào đó ở gần người nghe[cite: 3]. 「あの Danh từ」dùng để nói tới một vật hay một người nào đó ở xa cả người nói và người nghe[cite: 3].",
+          "vi_du": [
+            {
+              "so": 3,
+              "tieng_nhat": "この 本は わたしのです。[cite: 3]",
+              "tieng_viet": "Quyển sách này là của tôi.[cite: 3]"
+            },
+            {
+              "so": 4,
+              "tieng_nhat": "あの 方は どなたですか。[cite: 3]",
+              "tieng_viet": "Vị kia là ai?[cite: 3]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 3,
+      "mau_cau": "そうです / そうじゃ ありません",
+      "chi_tiet": [
+        {
+          "giai_thich": "「そうです／そうじゃ ありません」hay được dùng trong câu nghi vấn danh từ để xác nhận xem một nội dung nào đó là đúng hay sai[cite: 3]. Khi đúng thì trả lời là 「はい、そうです」, khi sai thì là 「いいえ、そうじゃ ありません」[cite: 3].",
+          "vi_du": [
+            {
+              "so": 5,
+              "hoi": {
+                "tieng_nhat": "それは テレホンカードですか。[cite: 3]",
+                "tieng_viet": "Đó có phải là thẻ điện thoại không?[cite: 3]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…はい、そうです。[cite: 3]",
+                "tieng_viet": "…Vâng, phải.[cite: 3]"
+              }
+            },
+            {
+              "so": 6,
+              "hoi": {
+                "tieng_nhat": "それは テレホンカードですか。[cite: 3]",
+                "tieng_viet": "Đó có phải là thẻ điện thoại không?[cite: 3]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…いいえ、そうじゃ ありません。[cite: 3]",
+                "tieng_viet": "…Không, không phải.[cite: 3]"
+              }
+            }
+          ],
+          "chu_y": {
+            "giai_thich": "Đôi lúc động từ 「違います」(sai, nhầm, không phải) được dùng với nghĩa tương đương với 「そうじゃ ありません」[cite: 3].",
+            "vi_du": [
+              {
+                "so": 7,
+                "hoi": {
+                  "tieng_nhat": "それは テレホンカードですか。[cite: 3]",
+                  "tieng_viet": "Đó có phải là thẻ điện thoại không?[cite: 3]"
+                },
+                "tra_loi": {
+                  "tieng_nhat": "…いいえ、違います。[cite: 3]",
+                  "tieng_viet": "…Không, không phải.[cite: 3]"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stt": 4,
+      "mau_cau": "Câu 1 か、Câu 2 か",
+      "chi_tiet": [
+        {
+          "giai_thich": "Mẫu câu nghi vấn này dùng để hỏi về sự lựa chọn của người nghe[cite: 4]. Người nghe sẽ lựa chọn Câu 1 hoặc Câu 2[cite: 4]. Đối với câu nghi vấn loại này, khi trả lời không dùng 「はい」hay 「いいえ」mà để nguyên câu lựa chọn[cite: 4].",
+          "vi_du": [
+            {
+              "so": 8,
+              "hoi": {
+                "tieng_nhat": "これは「９」ですか、「７」ですか。[cite: 4]",
+                "tieng_viet": "Đây là \"9\" hay \"7\"?[cite: 4]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…「９」です。[cite: 4]",
+                "tieng_viet": "…Đó là \"9\".[cite: 4]"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 5,
+      "mau_cau": "Danh từ 1 の Danh từ 2",
+      "chi_tiet": [
+        {
+          "giai_thich_chung": "Ở Bài 1, chúng ta đã học từ 「の」dùng để nối hai danh từ, khi Danh từ 1 bổ nghĩa cho Danh từ 2[cite: 4]. Ở bài này chúng ta sẽ học hai cách dùng khác của 「の」[cite: 4].",
+          "nhom": [
+            {
+              "muc": "1) Danh từ 1 giải thích Danh từ 2 nói về cái gì[cite: 4]",
+              "vi_du": [
+                {
+                  "so": 9,
+                  "tieng_nhat": "これは コンピューターの 本です。[cite: 4]",
+                  "tieng_viet": "Đây là quyển sách về máy vi tính.[cite: 4]"
+                }
+              ]
+            },
+            {
+              "muc": "2) Danh từ 1 giải thích Danh từ 2 thuộc sở hữu của ai[cite: 4]",
+              "chu_y": "Danh từ 2 thường được giản lược trong trường hợp đã rõ nghĩa[cite: 4]. Tuy nhiên, nếu Danh từ 2 là danh từ chỉ người thì không giản lược được[cite: 4].",
+              "vi_du": [
+                {
+                  "so": 10,
+                  "tieng_nhat": "これは わたしの 本です。[cite: 4]",
+                  "tieng_viet": "Đây là quyển sách của tôi.[cite: 4]"
+                },
+                {
+                  "so": 11,
+                  "hoi": {
+                    "tieng_nhat": "あれは だれの かばんですか。[cite: 4]",
+                    "tieng_viet": "Kia là cái cặp sách của ai?[cite: 4]"
+                  },
+                  "tra_loi": {
+                    "tieng_nhat": "…佐藤さんのです。[cite: 4]",
+                    "tieng_viet": "…Đó là cái cặp sách của chị Sato.[cite: 4]"
+                  }
+                },
+                {
+                  "so": 12,
+                  "hoi": {
+                    "tieng_nhat": "この かばんは あなたのですか。[cite: 4]",
+                    "tieng_viet": "Cái cặp sách này có phải là của chị không?[cite: 4]"
+                  },
+                  "tra_loi": {
+                    "tieng_nhat": "…いいえ、わたしのじゃ ありません。[cite: 4]",
+                    "tieng_viet": "…Không, không phải là của tôi.[cite: 4]"
+                  }
+                },
+                {
+                  "so": 13,
+                  "hoi": {
+                    "tieng_nhat": "ミラーさんは IMCの 社員ですか。[cite: 4]",
+                    "tieng_viet": "Anh Miller có phải là nhân viên Công ty IMC không?[cite: 4]"
+                  },
+                  "tra_loi": {
+                    "tieng_nhat": "…はい、IMCの 社員です。[cite: 4]",
+                    "tieng_viet": "…Vâng, anh ấy là nhân viên Công ty IMC.[cite: 4]"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 6,
+      "mau_cau": "そうですか",
+      "chi_tiet": [
+        {
+          "giai_thich": "「そうですか」được dùng khi người nói tiếp nhận được thông tin mới nào đó và muốn bày thái độ tiếp nhận của mình đối với thông tin đó[cite: 4].",
+          "hoi_thoai_vi_du": [
+            {
+              "so": 14,
+              "cac_cau": [
+                {
+                  "tieng_nhat": "この 傘は あなたのですか。[cite: 4]",
+                  "tieng_viet": "Cái ô này có phải của anh không?[cite: 4]"
+                },
+                {
+                  "tieng_nhat": "…いいえ、違います。シュミットさんのです。[cite: 4]",
+                  "tieng_viet": "…Không, không phải. Của anh Schmidt.[cite: 4]"
+                },
+                {
+                  "tieng_nhat": "そうですか。[cite: 4]",
+                  "tieng_viet": "Thế à.[cite: 4]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

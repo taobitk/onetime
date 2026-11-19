@@ -1,0 +1,2181 @@
+[
+  {
+    "term": "ここ",
+    "reading": "ここ",
+    "romaji": "koko",
+    "meaning": "chỗ này, đây",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:location",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "ここは、教室です。",
+        "vietnamese": "Đây là phòng học."
+      },
+      {
+        "japanese": "ここに、座ってください。",
+        "vietnamese": "Xin hãy ngồi ở chỗ này."
+      }
+    ],
+    "id": 1,
+    "question": {
+      "short": "ここはどこ？",
+      "polite": "ここはどこですか？",
+      "reading": "ここはどこ？",
+      "romaji": "koko wa doko?",
+      "vietnamese": "Chỗ này là ở đâu?",
+      "variants": [
+        "koko wa doko",
+        "ここはどこですか？",
+        "cho nay la o dau"
+      ]
+    },
+    "answer": {
+      "short": "教室だよ！",
+      "reading": "きょうしつだよ！",
+      "romaji": "kyoushitsu da yo!",
+      "vietnamese": "Là phòng học đấy!",
+      "variants": [
+        "kyoushitsu da yo",
+        "kyoushitsu",
+        "koko",
+        "cho nay day",
+        "la phong hoc day"
+      ]
+    }
+  },
+  {
+    "term": "そこ",
+    "reading": "そこ",
+    "romaji": "soko",
+    "meaning": "chỗ đó, đó",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:location",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "そこは、食堂です。",
+        "vietnamese": "Đó là nhà ăn."
+      },
+      {
+        "japanese": "そこに、本を、置いてください。",
+        "vietnamese": "Hãy đặt cuốn sách ở đó."
+      }
+    ],
+    "id": 2,
+    "question": {
+      "short": "そこは何の場所？",
+      "polite": "そこは何の場所ですか？",
+      "reading": "そこはなんのばしょ？",
+      "romaji": "soko wa nan no basho?",
+      "vietnamese": "Chỗ đó là nơi gì?",
+      "variants": [
+        "soko wa nan no basho",
+        "そこは何の場所ですか？",
+        "cho do la noi gi"
+      ]
+    },
+    "answer": {
+      "short": "食堂だよ！",
+      "reading": "しょくどうだよ！",
+      "romaji": "shokudou da yo!",
+      "vietnamese": "Là nhà ăn đấy!",
+      "variants": [
+        "shokudou da yo",
+        "shokudou",
+        "soko",
+        "cho do do",
+        "la nha an day"
+      ]
+    }
+  },
+  {
+    "term": "あそこ",
+    "reading": "あそこ",
+    "romaji": "asoko",
+    "meaning": "chỗ kia, kia",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:location",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "あそこは、図書館です。",
+        "vietnamese": "Đằng kia là thư viện."
+      },
+      {
+        "japanese": "山田さんは、あそこに、います。",
+        "vietnamese": "Anh Yamada đang ở đằng kia."
+      }
+    ],
+    "id": 3,
+    "question": {
+      "short": "あそこは何？",
+      "polite": "あそこは何ですか？",
+      "reading": "あそこはなに？",
+      "romaji": "asoko wa nani?",
+      "vietnamese": "Đằng kia là cái gì?",
+      "variants": [
+        "asoko wa nani",
+        "あそこは何ですか？",
+        "dang kia la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "図書館だよ！",
+      "reading": "としょかんだよ！",
+      "romaji": "toshokan da yo!",
+      "vietnamese": "Là thư viện đấy!",
+      "variants": [
+        "toshokan da yo",
+        "toshokan",
+        "asoko",
+        "cho kia kia",
+        "la thu vien day"
+      ]
+    }
+  },
+  {
+    "term": "どこ",
+    "reading": "どこ",
+    "romaji": "doko",
+    "meaning": "chỗ nào, đâu",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:question",
+      "topic:location",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "お手洗いは、どこですか。",
+        "vietnamese": "Nhà vệ sinh ở đâu vậy?"
+      },
+      {
+        "japanese": "あなたの会社は、どこですか。",
+        "vietnamese": "Công ty của bạn ở đâu?"
+      }
+    ],
+    "id": 4,
+    "question": {
+      "short": "どこが良い？",
+      "polite": "どこがよろしいですか？",
+      "reading": "どこがいい？",
+      "romaji": "doko ga ii?",
+      "vietnamese": "chỗ nào, đâu thì được?",
+      "variants": [
+        "doko ga ii",
+        "どこがよろしいですか？",
+        "cho nao dau thi duoc"
+      ]
+    },
+    "answer": {
+      "short": "どこでもいいよ！",
+      "reading": "どこでもいいよ！",
+      "romaji": "doko demo ii yo!",
+      "vietnamese": "chỗ nào, đâu cũng được!",
+      "variants": [
+        "doko demo ii yo",
+        "doko demo ii",
+        "doko",
+        "cho nao dau",
+        "cho nao dau cung duoc"
+      ]
+    }
+  },
+  {
+    "term": "こちら",
+    "reading": "こちら",
+    "romaji": "kochira",
+    "meaning": "phía này, đằng này, chỗ này, đây (cách nói lịch sự của 「ここ」)",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:direction",
+      "topic:location",
+      "tone:formal"
+    ],
+    "examples": [
+      {
+        "japanese": "どうぞ、こちらへ、お入りください。",
+        "vietnamese": "Xin mời bạn vào phía bên này."
+      },
+      {
+        "japanese": "こちらは、ミラーさんです。",
+        "vietnamese": "Đây là anh Miller."
+      }
+    ],
+    "id": 5,
+    "question": {
+      "short": "ここはどこ？",
+      "polite": "ここはどこですか？",
+      "reading": "ここはどこ？",
+      "romaji": "koko wa doko?",
+      "vietnamese": "Chỗ này là ở đâu?",
+      "variants": [
+        "koko wa doko",
+        "ここはどこですか？",
+        "cho nay la o dau"
+      ]
+    },
+    "answer": {
+      "short": "教室だよ！",
+      "reading": "きょうしつだよ！",
+      "romaji": "kyoushitsu da yo!",
+      "vietnamese": "Là phòng học đấy!",
+      "variants": [
+        "kyoushitsu da yo",
+        "kyoushitsu",
+        "kochira",
+        "phia nay dang nay cho nay day",
+        "la phong hoc day"
+      ]
+    }
+  },
+  {
+    "term": "そちら",
+    "reading": "そちら",
+    "romaji": "sochira",
+    "meaning": "phía đó, đằng đó, chỗ đó, đó (cách nói lịch sự của 「そこ」)",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:direction",
+      "topic:location",
+      "tone:formal"
+    ],
+    "examples": [
+      {
+        "japanese": "そちらは、会議室です。",
+        "vietnamese": "Phía đó là phòng họp."
+      },
+      {
+        "japanese": "そちらの天気は、どうですか。",
+        "vietnamese": "Thời tiết ở phía bên bạn thế nào?"
+      }
+    ],
+    "id": 6,
+    "question": {
+      "short": "そこは何の場所？",
+      "polite": "そこは何の場所ですか？",
+      "reading": "そこはなんのばしょ？",
+      "romaji": "soko wa nan no basho?",
+      "vietnamese": "Chỗ đó là nơi gì?",
+      "variants": [
+        "soko wa nan no basho",
+        "そこは何の場所ですか？",
+        "cho do la noi gi"
+      ]
+    },
+    "answer": {
+      "short": "食堂だよ！",
+      "reading": "しょくどうだよ！",
+      "romaji": "shokudou da yo!",
+      "vietnamese": "Là nhà ăn đấy!",
+      "variants": [
+        "shokudou da yo",
+        "shokudou",
+        "sochira",
+        "phia do dang do cho do do",
+        "la nha an day"
+      ]
+    }
+  },
+  {
+    "term": "あちら",
+    "reading": "あちら",
+    "romaji": "achira",
+    "meaning": "phía kia, đằng kia, chỗ kia, kia (cách nói lịch sự của 「あそこ」)",
+    "level": "N5",
+    "type": "Đại từ",
+    "tags": [
+      "topic:direction",
+      "topic:location",
+      "tone:formal"
+    ],
+    "examples": [
+      {
+        "japanese": "エレベーターは、あちらで、ございます。",
+        "vietnamese": "Thang máy ở phía đằng kia ạ."
+      },
+      {
+        "japanese": "あちらへ、行きましょう。",
+        "vietnamese": "Chúng ta cùng đi về phía kia nhé."
+      }
+    ],
+    "id": 7,
+    "question": {
+      "short": "あそこは何？",
+      "polite": "あそこは何ですか？",
+      "reading": "あそこはなに？",
+      "romaji": "asoko wa nani?",
+      "vietnamese": "Đằng kia là cái gì?",
+      "variants": [
+        "asoko wa nani",
+        "あそこは何ですか？",
+        "dang kia la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "図書館だよ！",
+      "reading": "としょかんだよ！",
+      "romaji": "toshokan da yo!",
+      "vietnamese": "Là thư viện đấy!",
+      "variants": [
+        "toshokan da yo",
+        "toshokan",
+        "achira",
+        "phia kia dang kia cho kia kia",
+        "la thu vien day"
+      ]
+    }
+  },
+  {
+    "term": "どちら",
+    "reading": "どちら",
+    "romaji": "dochira",
+    "meaning": "phía nào, đằng nào, chỗ nào, đâu (cách nói lịch sự của 「どこ」)",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:question",
+      "topic:direction",
+      "tone:formal"
+    ],
+    "examples": [
+      {
+        "japanese": "お国は、どちらですか。",
+        "vietnamese": "Đất nước của bạn ở đâu vậy ạ?"
+      },
+      {
+        "japanese": "事務所は、どちらですか。",
+        "vietnamese": "Văn phòng ở phía nào vậy ạ?"
+      }
+    ],
+    "id": 8,
+    "question": {
+      "short": "どちらが良い？",
+      "polite": "どちらがよろしいですか？",
+      "reading": "どちらがいい？",
+      "romaji": "dochira ga ii?",
+      "vietnamese": "phía nào, đằng nào, chỗ nào, đâu thì được?",
+      "variants": [
+        "dochira ga ii",
+        "どちらがよろしいですか？",
+        "phia nao dang nao cho nao dau thi duoc"
+      ]
+    },
+    "answer": {
+      "short": "どちらでもいいよ！",
+      "reading": "どちらでもいいよ！",
+      "romaji": "dochira demo ii yo!",
+      "vietnamese": "phía nào, đằng nào, chỗ nào, đâu cũng được!",
+      "variants": [
+        "dochira demo ii yo",
+        "dochira demo ii",
+        "dochira",
+        "phia nao dang nao cho nao dau",
+        "phia nao dang nao cho nao dau cung duoc"
+      ]
+    }
+  },
+  {
+    "term": "教室",
+    "reading": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "lớp học, phòng học",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:education",
+      "where:room",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "ここは、日本語の、教室です。",
+        "vietnamese": "Đây là phòng học tiếng Nhật."
+      },
+      {
+        "japanese": "教室に、先生が、います。",
+        "vietnamese": "Trong phòng học có giáo viên."
+      }
+    ],
+    "id": 9,
+    "question": {
+      "short": "教室はどこ？",
+      "polite": "教室はどこですか？",
+      "reading": "きょうしつはどこ？",
+      "romaji": "kyoushitsu wa doko?",
+      "vietnamese": "lớp học, phòng học ở đâu?",
+      "variants": [
+        "kyoushitsu wa doko",
+        "教室はどこですか？",
+        "lop hoc phong hoc o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "kyoushitsu",
+        "lop hoc phong hoc",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "食堂",
+    "reading": "しょくどう",
+    "romaji": "shokudou",
+    "meaning": "nhà ăn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "where:room",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "食堂で、お昼ごはんを、食べます。",
+        "vietnamese": "Tôi ăn cơm trưa ở nhà ăn."
+      },
+      {
+        "japanese": "会社の食堂は、あそこです。",
+        "vietnamese": "Nhà ăn của công ty ở đằng kia."
+      }
+    ],
+    "id": 10,
+    "question": {
+      "short": "食堂はどこ？",
+      "polite": "食堂はどこですか？",
+      "reading": "しょくどうはどこ？",
+      "romaji": "shokudou wa doko?",
+      "vietnamese": "nhà ăn ở đâu?",
+      "variants": [
+        "shokudou wa doko",
+        "食堂はどこですか？",
+        "nha an o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "shokudou",
+        "nha an",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "事務所",
+    "reading": "じむしょ",
+    "romaji": "jimusho",
+    "meaning": "văn phòng",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:work",
+      "where:office",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "事務所は、2階に、あります。",
+        "vietnamese": "Văn phòng ở tầng 2."
+      },
+      {
+        "japanese": "田中さんは、事務所に、います。",
+        "vietnamese": "Anh Tanaka đang ở văn phòng."
+      }
+    ],
+    "id": 11,
+    "question": {
+      "short": "事務所はどこ？",
+      "polite": "事務所はどこですか？",
+      "reading": "じむしょはどこ？",
+      "romaji": "jimusho wa doko?",
+      "vietnamese": "văn phòng ở đâu?",
+      "variants": [
+        "jimusho wa doko",
+        "事務所はどこですか？",
+        "van phong o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "jimusho",
+        "van phong",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "会議室",
+    "reading": "かいぎしつ",
+    "romaji": "kaigishitsu",
+    "meaning": "phòng họp",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:work",
+      "where:room",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "会議室で、会議を、します。",
+        "vietnamese": "Chúng tôi họp ở phòng họp."
+      },
+      {
+        "japanese": "会議室は、どちらですか。",
+        "vietnamese": "Phòng họp ở phía nào vậy ạ?"
+      }
+    ],
+    "id": 12,
+    "question": {
+      "short": "会議室はどこ？",
+      "polite": "会議室はどこですか？",
+      "reading": "かいぎしつはどこ？",
+      "romaji": "kaigishitsu wa doko?",
+      "vietnamese": "phòng họp ở đâu?",
+      "variants": [
+        "kaigishitsu wa doko",
+        "会議室はどこですか？",
+        "phong hop o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "kaigishitsu",
+        "phong hop",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "受付",
+    "reading": "うけつけ",
+    "romaji": "uketsuke",
+    "meaning": "bộ phận tiếp tân, phòng thường trực",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:work",
+      "where:place",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "受付は、1階に、あります。",
+        "vietnamese": "Quầy tiếp tân ở tầng 1."
+      },
+      {
+        "japanese": "受付で、名前を、書きました。",
+        "vietnamese": "Tôi đã viết tên ở quầy tiếp tân."
+      }
+    ],
+    "id": 13,
+    "question": {
+      "short": "受付はどこ？",
+      "polite": "受付はどこですか？",
+      "reading": "うけつけはどこ？",
+      "romaji": "uketsuke wa doko?",
+      "vietnamese": "bộ phận tiếp tân, phòng thường trực ở đâu?",
+      "variants": [
+        "uketsuke wa doko",
+        "受付はどこですか？",
+        "bo phan tiep tan phong thuong truc o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "uketsuke",
+        "bo phan tiep tan phong thuong truc",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "ロビー",
+    "reading": "ロビー",
+    "romaji": "robii",
+    "meaning": "hành lang, đại sảnh",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "where:place",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "ホテルのロビーで、友達を、待ちます。",
+        "vietnamese": "Tôi đợi bạn ở sảnh khách sạn."
+      },
+      {
+        "japanese": "ロビーは、とても、広いです。",
+        "vietnamese": "Đại sảnh rất rộng rãi."
+      }
+    ],
+    "id": 14,
+    "question": {
+      "short": "ロビーはどこ？",
+      "polite": "ロビーはどこですか？",
+      "reading": "ロビーはどこ？",
+      "romaji": "robii wa doko?",
+      "vietnamese": "hành lang, đại sảnh ở đâu?",
+      "variants": [
+        "robii wa doko",
+        "ロビーはどこですか？",
+        "hanh lang dai sanh o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "robii",
+        "hanh lang dai sanh",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "部屋",
+    "reading": "へや",
+    "romaji": "heya",
+    "meaning": "căn phòng",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:house",
+      "where:room",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "私の部屋は、ここです。",
+        "vietnamese": "Phòng của tôi ở đây."
+      },
+      {
+        "japanese": "この部屋は、とても、静かです。",
+        "vietnamese": "Căn phòng này rất yên tĩnh."
+      }
+    ],
+    "id": 15,
+    "question": {
+      "short": "部屋はどこ？",
+      "polite": "部屋はどこですか？",
+      "reading": "へやはどこ？",
+      "romaji": "heya wa doko?",
+      "vietnamese": "căn phòng ở đâu?",
+      "variants": [
+        "heya wa doko",
+        "部屋はどこですか？",
+        "can phong o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "heya",
+        "can phong",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "トイレ（お手洗い）",
+    "reading": "トイレ（おてあらい）",
+    "romaji": "toire (otearai)",
+    "meaning": "nhà vệ sinh, phòng vệ sinh, toa-lét",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "where:room",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "すみません、トイレは、どこですか。",
+        "vietnamese": "Xin lỗi, nhà vệ sinh ở đâu vậy?"
+      },
+      {
+        "japanese": "お手洗いは、あちらで、ございます。",
+        "vietnamese": "Phòng vệ sinh ở phía đằng kia ạ."
+      }
+    ],
+    "id": 16,
+    "question": {
+      "short": "トイレお手洗いはどこ？",
+      "polite": "トイレお手洗いはどこですか？",
+      "reading": "トイレおてあらいはどこ？",
+      "romaji": "toire (otearai) wa doko?",
+      "vietnamese": "nhà vệ sinh, phòng vệ sinh, toa-lét ở đâu?",
+      "variants": [
+        "toire (otearai) wa doko",
+        "トイレお手洗いはどこですか？",
+        "nha ve sinh phong ve sinh toa let o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "toire (otearai)",
+        "nha ve sinh phong ve sinh toa let",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "階段",
+    "reading": "かいだん",
+    "romaji": "kaidan",
+    "meaning": "cầu thang",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "階段で、3階へ、上がります。",
+        "vietnamese": "Tôi đi bộ lên tầng 3 bằng cầu thang."
+      },
+      {
+        "japanese": "階段の隣に、電話が、あります。",
+        "vietnamese": "Bên cạnh cầu thang có điện thoại."
+      }
+    ],
+    "id": 17,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "階段だよ！",
+      "reading": "かいだんだよ！",
+      "romaji": "kaidan da yo!",
+      "vietnamese": "Là cầu thang đấy!",
+      "variants": [
+        "kaidan da yo",
+        "kaidan",
+        "cau thang",
+        "la cau thang day"
+      ]
+    }
+  },
+  {
+    "term": "エレベーター",
+    "reading": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "thang máy",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "item:facility",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "エレベーターで、上へ、行きます。",
+        "vietnamese": "Tôi đi lên trên bằng thang máy."
+      },
+      {
+        "japanese": "エレベーターは、あそこに、あります。",
+        "vietnamese": "Thang máy ở đằng kia."
+      }
+    ],
+    "id": 18,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "エレベーターだよ！",
+      "reading": "エレベーターだよ！",
+      "romaji": "erebeetaa da yo!",
+      "vietnamese": "Là thang máy đấy!",
+      "variants": [
+        "erebeetaa da yo",
+        "erebeetaa",
+        "thang may",
+        "la thang may day"
+      ]
+    }
+  },
+  {
+    "term": "エスカレーター",
+    "reading": "エスカレーター",
+    "romaji": "esukareetaa",
+    "meaning": "thang cuốn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "item:facility",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "エスカレーターは、あちらです。",
+        "vietnamese": "Thang cuốn ở phía đằng kia."
+      },
+      {
+        "japanese": "エスカレーターで、地下へ、降ります。",
+        "vietnamese": "Tôi đi xuống tầng hầm bằng thang cuốn."
+      }
+    ],
+    "id": 19,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "エスカレーターだよ！",
+      "reading": "エスカレーターだよ！",
+      "romaji": "esukareetaa da yo!",
+      "vietnamese": "Là thang cuốn đấy!",
+      "variants": [
+        "esukareetaa da yo",
+        "esukareetaa",
+        "thang cuon",
+        "la thang cuon day"
+      ]
+    }
+  },
+  {
+    "term": "[お]国",
+    "reading": "[お]くに",
+    "romaji": "[o]kuni",
+    "meaning": "đất nước (của anh/chị)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:society",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "お国は、どちらですか。",
+        "vietnamese": "Đất nước của bạn ở đâu vậy ạ?"
+      },
+      {
+        "japanese": "私の国は、ベトナムです。",
+        "vietnamese": "Đất nước của tôi là Việt Nam."
+      }
+    ],
+    "id": 20,
+    "question": {
+      "short": "お国はどこ？",
+      "polite": "お国はどこですか？",
+      "reading": "おくにはどこ？",
+      "romaji": "[o]kuni wa doko?",
+      "vietnamese": "đất nước ở đâu?",
+      "variants": [
+        "[o]kuni wa doko",
+        "お国はどこですか？",
+        "dat nuoc o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "[o]kuni",
+        "dat nuoc",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "công ty",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:work",
+      "where:place",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "私の会社は、ハノイに、あります。",
+        "vietnamese": "Công ty của tôi ở Hà Nội."
+      },
+      {
+        "japanese": "毎朝、8時に、会社へ、行きます。",
+        "vietnamese": "Mỗi sáng tôi đến công ty lúc 8 giờ."
+      }
+    ],
+    "id": 21,
+    "question": {
+      "short": "会社はどこ？",
+      "polite": "会社はどこですか？",
+      "reading": "かいしゃはどこ？",
+      "romaji": "kaisha wa doko?",
+      "vietnamese": "công ty ở đâu?",
+      "variants": [
+        "kaisha wa doko",
+        "会社はどこですか？",
+        "cong ty o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "kaisha",
+        "cong ty",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "うち",
+    "reading": "うち",
+    "romaji": "uchi",
+    "meaning": "nhà",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:house",
+      "where:home",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "5時に、うちへ、帰ります。",
+        "vietnamese": "Tôi về nhà lúc 5 giờ."
+      },
+      {
+        "japanese": "私のうちは、静かな所に、あります。",
+        "vietnamese": "Nhà của tôi ở một nơi yên tĩnh."
+      }
+    ],
+    "id": 22,
+    "question": {
+      "short": "うちはどこ？",
+      "polite": "うちはどこですか？",
+      "reading": "うちはどこ？",
+      "romaji": "uchi wa doko?",
+      "vietnamese": "nhà ở đâu?",
+      "variants": [
+        "uchi wa doko",
+        "うちはどこですか？",
+        "nha o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "uchi",
+        "nha",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa",
+    "meaning": "máy điện thoại, điện thoại",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:communication",
+      "item:tool",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "事務所に、電話が、あります。",
+        "vietnamese": "Trong văn phòng có điện thoại."
+      },
+      {
+        "japanese": "友達に、電話を、かけます。",
+        "vietnamese": "Tôi gọi điện thoại cho bạn bè."
+      }
+    ],
+    "id": 23,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "電話だよ！",
+      "reading": "でんわだよ！",
+      "romaji": "denwa da yo!",
+      "vietnamese": "Là máy điện thoại, điện thoại đấy!",
+      "variants": [
+        "denwa da yo",
+        "denwa",
+        "may dien thoai dien thoai",
+        "la may dien thoai dien thoai day"
+      ]
+    }
+  },
+  {
+    "term": "靴",
+    "reading": "くつ",
+    "romaji": "kutsu",
+    "meaning": "giày",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:fashion",
+      "item:clothing",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "デパートで、新しい靴を、買いました。",
+        "vietnamese": "Tôi đã mua một đôi giày mới ở trung tâm thương mại."
+      },
+      {
+        "japanese": "これは、イタリアの、靴です。",
+        "vietnamese": "Đây là giày của nước Ý."
+      }
+    ],
+    "id": 24,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "靴だよ！",
+      "reading": "くつだよ！",
+      "romaji": "kutsu da yo!",
+      "vietnamese": "Là giày đấy!",
+      "variants": [
+        "kutsu da yo",
+        "kutsu",
+        "giay",
+        "la giay day"
+      ]
+    }
+  },
+  {
+    "term": "ネクタイ",
+    "reading": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "cà-vạt",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:fashion",
+      "item:clothing",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "すてきなネクタイですね。",
+        "vietnamese": "Cà vạt đẹp quá nhỉ."
+      },
+      {
+        "japanese": "青いネクタイを、買います。",
+        "vietnamese": "Tôi mua chiếc cà vạt màu xanh."
+      }
+    ],
+    "id": 25,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "ネクタイだよ！",
+      "reading": "ネクタイだよ！",
+      "romaji": "nekutai da yo!",
+      "vietnamese": "Là cà-vạt đấy!",
+      "variants": [
+        "nekutai da yo",
+        "nekutai",
+        "ca vat",
+        "la ca vat day"
+      ]
+    }
+  },
+  {
+    "term": "ワイン",
+    "reading": "ワイン",
+    "romaji": "wain",
+    "meaning": "rượu vang",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "item:beverage",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "フランスのワインは、おいしいです。",
+        "vietnamese": "Rượu vang của Pháp rất ngon."
+      },
+      {
+        "japanese": "ワイン売り場は、地下に、あります。",
+        "vietnamese": "Quầy bán rượu vang ở dưới tầng hầm."
+      }
+    ],
+    "id": 26,
+    "question": {
+      "short": "ワインの味はどう？",
+      "polite": "ワインのお味はいかがですか？",
+      "reading": "ワインのあじはどう？",
+      "romaji": "wain no aji wa dou?",
+      "vietnamese": "Hương vị của rượu vang thế nào?",
+      "variants": [
+        "wain no aji wa dou",
+        "ワインのお味はいかがですか？",
+        "huong vi cua ruou vang the nao"
+      ]
+    },
+    "answer": {
+      "short": "とても美味しいよ！",
+      "reading": "とてもおいしいよ！",
+      "romaji": "totemo oishii yo!",
+      "vietnamese": "Ngon lắm đấy!",
+      "variants": [
+        "totemo oishii yo",
+        "totemo oishii",
+        "wain",
+        "ruou vang",
+        "ngon lam day"
+      ]
+    }
+  },
+  {
+    "term": "たばこ",
+    "reading": "たばこ",
+    "romaji": "tabako",
+    "meaning": "thuốc lá",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:goods",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "ここで、たばこを、吸わないでください。",
+        "vietnamese": "Xin đừng hút thuốc ở đây."
+      },
+      {
+        "japanese": "たばこ売り場は、どこですか。",
+        "vietnamese": "Quầy bán thuốc lá ở đâu vậy?"
+      }
+    ],
+    "id": 27,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "たばこだよ！",
+      "reading": "たばこだよ！",
+      "romaji": "tabako da yo!",
+      "vietnamese": "Là thuốc lá đấy!",
+      "variants": [
+        "tabako da yo",
+        "tabako",
+        "thuoc la",
+        "la thuoc la day"
+      ]
+    }
+  },
+  {
+    "term": "売り場",
+    "reading": "うりば",
+    "romaji": "uriba",
+    "meaning": "quầy bán (trong một bách hóa)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:shop",
+      "where:place",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "靴の売り場は、どこですか。",
+        "vietnamese": "Quầy bán giày ở đâu vậy?"
+      },
+      {
+        "japanese": "ワイン売り場は、地下1階です。",
+        "vietnamese": "Quầy bán rượu vang ở tầng hầm 1."
+      }
+    ],
+    "id": 28,
+    "question": {
+      "short": "売り場はどこ？",
+      "polite": "売り場はどこですか？",
+      "reading": "うりばはどこ？",
+      "romaji": "uriba wa doko?",
+      "vietnamese": "quầy bán ở đâu?",
+      "variants": [
+        "uriba wa doko",
+        "売り場はどこですか？",
+        "quay ban o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "uriba",
+        "quay ban",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "地下",
+    "reading": "ちか",
+    "romaji": "chika",
+    "meaning": "tầng hầm, dưới mặt đất",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "where:place",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "地下に、スーパーが、あります。",
+        "vietnamese": "Dưới tầng hầm có siêu thị."
+      },
+      {
+        "japanese": "地下へ、降りましょう。",
+        "vietnamese": "Chúng ta cùng xuống tầng hầm nhé."
+      }
+    ],
+    "id": 29,
+    "question": {
+      "short": "地下はどこ？",
+      "polite": "地下はどこですか？",
+      "reading": "ちかはどこ？",
+      "romaji": "chika wa doko?",
+      "vietnamese": "tầng hầm, dưới mặt đất ở đâu?",
+      "variants": [
+        "chika wa doko",
+        "地下はどこですか？",
+        "tang ham duoi mat dat o dau"
+      ]
+    },
+    "answer": {
+      "short": "あそこだよ！",
+      "reading": "あそこだよ！",
+      "romaji": "asoko da yo!",
+      "vietnamese": "Ở đằng kia kìa!",
+      "variants": [
+        "asoko da yo",
+        "asoko",
+        "chika",
+        "tang ham duoi mat dat",
+        "o dang kia kia"
+      ]
+    }
+  },
+  {
+    "term": "－階（－がい）",
+    "reading": "－かい（－がい）",
+    "romaji": "-kai (-gai)",
+    "meaning": "tầng thứ －",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:building",
+      "topic:counter",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "事務所は、3階に、あります。",
+        "vietnamese": "Văn phòng ở tầng 3."
+      },
+      {
+        "japanese": "会議室は、5階です。",
+        "vietnamese": "Phòng họp ở tầng 5."
+      }
+    ],
+    "id": 30,
+    "question": {
+      "short": "数はどのくらい？",
+      "polite": "数はどのくらいですか？",
+      "reading": "かずはどのくらい？",
+      "romaji": "kazu wa dono kurai?",
+      "vietnamese": "Số lượng khoảng bao nhiêu?",
+      "variants": [
+        "kazu wa dono kurai",
+        "数はどのくらいですか？",
+        "so luong khoang bao nhieu"
+      ]
+    },
+    "answer": {
+      "short": "ちょうど－階－がいだよ！",
+      "reading": "ちょうど－かい－がいだよ！",
+      "romaji": "choudo -kai (-gai) da yo!",
+      "vietnamese": "Vừa đúng tầng thứ － đấy!",
+      "variants": [
+        "choudo -kai (-gai) da yo",
+        "choudo -kai (-gai)",
+        "-kai (-gai)",
+        "tang thu",
+        "vua dung tang thu day"
+      ]
+    }
+  },
+  {
+    "term": "何階",
+    "reading": "なんがい",
+    "romaji": "nangai",
+    "meaning": "tầng mấy",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:question",
+      "topic:building",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "食堂は、何階ですか。",
+        "vietnamese": "Nhà ăn ở tầng mấy vậy?"
+      },
+      {
+        "japanese": "カメラ売り場は、何階に、ありますか。",
+        "vietnamese": "Quầy bán máy ảnh ở tầng mấy vậy?"
+      }
+    ],
+    "id": 31,
+    "question": {
+      "short": "何階が良い？",
+      "polite": "何階がよろしいですか？",
+      "reading": "なんがいがいい？",
+      "romaji": "nangai ga ii?",
+      "vietnamese": "tầng mấy thì được?",
+      "variants": [
+        "nangai ga ii",
+        "何階がよろしいですか？",
+        "tang may thi duoc"
+      ]
+    },
+    "answer": {
+      "short": "何階でもいいよ！",
+      "reading": "なんがいでもいいよ！",
+      "romaji": "nangai demo ii yo!",
+      "vietnamese": "tầng mấy cũng được!",
+      "variants": [
+        "nangai demo ii yo",
+        "nangai demo ii",
+        "nangai",
+        "tang may",
+        "tang may cung duoc"
+      ]
+    }
+  },
+  {
+    "term": "－円",
+    "reading": "－えん",
+    "romaji": "-en",
+    "meaning": "－ yên",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:money",
+      "item:currency",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "このパンは、100円です。",
+        "vietnamese": "Cái bánh mì này giá 100 yên."
+      },
+      {
+        "japanese": "この傘は、1500円です。",
+        "vietnamese": "Chiếc ô này giá 1500 yên."
+      }
+    ],
+    "id": 32,
+    "question": {
+      "short": "数はどのくらい？",
+      "polite": "数はどのくらいですか？",
+      "reading": "かずはどのくらい？",
+      "romaji": "kazu wa dono kurai?",
+      "vietnamese": "Số lượng khoảng bao nhiêu?",
+      "variants": [
+        "kazu wa dono kurai",
+        "数はどのくらいですか？",
+        "so luong khoang bao nhieu"
+      ]
+    },
+    "answer": {
+      "short": "ちょうど－円だよ！",
+      "reading": "ちょうど－えんだよ！",
+      "romaji": "choudo -en da yo!",
+      "vietnamese": "Vừa đúng － yên đấy!",
+      "variants": [
+        "choudo -en da yo",
+        "choudo -en",
+        "-en",
+        "yen",
+        "vua dung yen day"
+      ]
+    }
+  },
+  {
+    "term": "いくら",
+    "reading": "いくら",
+    "romaji": "ikura",
+    "meaning": "bao nhiêu tiền",
+    "level": "N5",
+    "type": "Từ để hỏi",
+    "tags": [
+      "topic:question",
+      "topic:money",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "このネクタイは、いくらですか。",
+        "vietnamese": "Chiếc cà vạt này bao nhiêu tiền?"
+      },
+      {
+        "japanese": "その時計は、いくらでしたか。",
+        "vietnamese": "Chiếc đồng hồ đó giá bao nhiêu tiền vậy?"
+      }
+    ],
+    "id": 33,
+    "question": {
+      "short": "いくらが良い？",
+      "polite": "いくらがよろしいですか？",
+      "reading": "いくらがいい？",
+      "romaji": "ikura ga ii?",
+      "vietnamese": "bao nhiêu tiền thì được?",
+      "variants": [
+        "ikura ga ii",
+        "いくらがよろしいですか？",
+        "bao nhieu tien thi duoc"
+      ]
+    },
+    "answer": {
+      "short": "いくらでもいいよ！",
+      "reading": "いくらでもいいよ！",
+      "romaji": "ikura demo ii yo!",
+      "vietnamese": "bao nhiêu tiền cũng được!",
+      "variants": [
+        "ikura demo ii yo",
+        "ikura demo ii",
+        "ikura",
+        "bao nhieu tien",
+        "bao nhieu tien cung duoc"
+      ]
+    }
+  },
+  {
+    "term": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "trăm",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:number",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "りんごは、百円です。",
+        "vietnamese": "Táo có giá 100 yên."
+      },
+      {
+        "japanese": "三百円の、コーヒーを、飲みます。",
+        "vietnamese": "Tôi uống tách cà phê giá 300 yên."
+      }
+    ],
+    "id": 34,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "百だよ！",
+      "reading": "ひゃくだよ！",
+      "romaji": "hyaku da yo!",
+      "vietnamese": "Là trăm đấy!",
+      "variants": [
+        "hyaku da yo",
+        "hyaku",
+        "tram",
+        "la tram day"
+      ]
+    }
+  },
+  {
+    "term": "千",
+    "reading": "せん",
+    "romaji": "sen",
+    "meaning": "nghìn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:number",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "千円札を、出します。",
+        "vietnamese": "Tôi đưa tờ 1000 yên."
+      },
+      {
+        "japanese": "この本は、二千円です。",
+        "vietnamese": "Cuốn sách này giá 2000 yên."
+      }
+    ],
+    "id": 35,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "千だよ！",
+      "reading": "せんだよ！",
+      "romaji": "sen da yo!",
+      "vietnamese": "Là nghìn đấy!",
+      "variants": [
+        "sen da yo",
+        "sen",
+        "nghin",
+        "la nghin day"
+      ]
+    }
+  },
+  {
+    "term": "万",
+    "reading": "まん",
+    "romaji": "man",
+    "meaning": "mười nghìn, vạn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:number",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "一万円の、靴を、買いました。",
+        "vietnamese": "Tôi đã mua đôi giày một vạn (10.000) yên."
+      },
+      {
+        "japanese": "このカメラは、三万円です。",
+        "vietnamese": "Chiếc máy ảnh này giá ba vạn (30.000) yên."
+      }
+    ],
+    "id": 36,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "万だよ！",
+      "reading": "まんだよ！",
+      "romaji": "man da yo!",
+      "vietnamese": "Là mười nghìn, vạn đấy!",
+      "variants": [
+        "man da yo",
+        "man",
+        "muoi nghin van",
+        "la muoi nghin van day"
+      ]
+    }
+  },
+  {
+    "term": "すみません。",
+    "reading": "すみません。",
+    "romaji": "sumimasen.",
+    "meaning": "Xin lỗi.",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:conversation",
+      "topic:greeting",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "すみません、その時計を、見せてください。",
+        "vietnamese": "Xin lỗi, làm ơn cho tôi xem chiếc đồng hồ đó."
+      },
+      {
+        "japanese": "すみません、駅は、どちらですか。",
+        "vietnamese": "Xin lỗi, nhà ga ở phía nào vậy ạ?"
+      }
+    ],
+    "id": 37,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "すみません。だよ！",
+      "reading": "すみません。だよ！",
+      "romaji": "sumimasen. da yo!",
+      "vietnamese": "Là Xin lỗi. đấy!",
+      "variants": [
+        "sumimasen da yo",
+        "sumimasen",
+        "sumimasen.",
+        "xin loi",
+        "la xin loi day"
+      ]
+    }
+  },
+  {
+    "term": "～で ございます。",
+    "reading": "～で ございます。",
+    "romaji": "~de gozaimasu.",
+    "meaning": "cách nói lịch sự của 「です」",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:conversation",
+      "tone:formal"
+    ],
+    "examples": [
+      {
+        "japanese": "ワイン売り場は、地下1階で、ございます。",
+        "vietnamese": "Quầy bán rượu vang ở tầng hầm 1 ạ."
+      },
+      {
+        "japanese": "こちらは、3000円で、ございます。",
+        "vietnamese": "Món này có giá là 3000 yên ạ."
+      }
+    ],
+    "id": 38,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "～で ございます。だよ！",
+      "reading": "～で ございます。だよ！",
+      "romaji": "~de gozaimasu. da yo!",
+      "vietnamese": "Là cách nói lịch sự của 「です」 đấy!",
+      "variants": [
+        "~de gozaimasu da yo",
+        "~de gozaimasu",
+        "~de gozaimasu.",
+        "cach noi lich su cua",
+        "la cach noi lich su cua day"
+      ]
+    }
+  },
+  {
+    "term": "[～を] 見せて ください。",
+    "reading": "[～を] みせて ください。",
+    "romaji": "[~o] misete kudasai.",
+    "meaning": "Cho tôi xem [~].",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:conversation",
+      "topic:shop",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "そのワインを、見せてください。",
+        "vietnamese": "Làm ơn cho tôi xem chai rượu vang đó."
+      },
+      {
+        "japanese": "あのかばんを、見せてください。",
+        "vietnamese": "Làm ơn cho tôi xem chiếc cặp kia."
+      }
+    ],
+    "id": 39,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "～を 見せて ください。だよ！",
+      "reading": "～を みせて ください。だよ！",
+      "romaji": "[~o] misete kudasai. da yo!",
+      "vietnamese": "Là Cho tôi xem [~]. đấy!",
+      "variants": [
+        "[~o] misete kudasai da yo",
+        "[~o] misete kudasai",
+        "[~o] misete kudasai.",
+        "cho toi xem",
+        "la cho toi xem day"
+      ]
+    }
+  },
+  {
+    "term": "じゃ",
+    "reading": "じゃ",
+    "romaji": "ja",
+    "meaning": "thế thì, vậy thì",
+    "level": "N5",
+    "type": "Liên từ",
+    "tags": [
+      "topic:conversation",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "じゃ、これを、ください。",
+        "vietnamese": "Thế thì, cho tôi lấy cái này nhé."
+      },
+      {
+        "japanese": "じゃ、また、明日。",
+        "vietnamese": "Vậy thì, hẹn ngày mai gặp lại nhé."
+      }
+    ],
+    "id": 40,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "じゃだよ！",
+      "reading": "じゃだよ！",
+      "romaji": "ja da yo!",
+      "vietnamese": "Là thế thì, vậy thì đấy!",
+      "variants": [
+        "ja da yo",
+        "ja",
+        "the thi vay thi",
+        "la the thi vay thi day"
+      ]
+    }
+  },
+  {
+    "term": "[～を] ください。",
+    "reading": "[～を] ください。",
+    "romaji": "[~o] kudasai.",
+    "meaning": "Cho tôi [~].",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:conversation",
+      "topic:shop",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "この靴を、ください。",
+        "vietnamese": "Làm ơn cho tôi lấy đôi giày này."
+      },
+      {
+        "japanese": "コーヒーを、一杯、ください。",
+        "vietnamese": "Làm ơn cho tôi một tách cà phê."
+      }
+    ],
+    "id": 41,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "～を ください。だよ！",
+      "reading": "～を ください。だよ！",
+      "romaji": "[~o] kudasai. da yo!",
+      "vietnamese": "Là Cho tôi [~]. đấy!",
+      "variants": [
+        "[~o] kudasai da yo",
+        "[~o] kudasai",
+        "[~o] kudasai.",
+        "cho toi",
+        "la cho toi day"
+      ]
+    }
+  },
+  {
+    "term": "新大阪",
+    "reading": "しんおおさか",
+    "romaji": "shin'oosaka",
+    "meaning": "tên một nhà ga ở Osaka",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:geography",
+      "where:station",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "新大阪まで、新幹線で、行きます。",
+        "vietnamese": "Tôi đi tàu Shinkansen đến ga Shin-Osaka."
+      },
+      {
+        "japanese": "新大阪は、大きな駅です。",
+        "vietnamese": "Shin-Osaka là một nhà ga lớn."
+      }
+    ],
+    "id": 42,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "新大阪だよ！",
+      "reading": "しんおおさかだよ！",
+      "romaji": "shin'oosaka da yo!",
+      "vietnamese": "Là tên một nhà ga ở Osaka đấy!",
+      "variants": [
+        "shin'oosaka da yo",
+        "shin'oosaka",
+        "ten mot nha ga o osaka",
+        "la ten mot nha ga o osaka day"
+      ]
+    }
+  },
+  {
+    "term": "イタリア",
+    "reading": "イタリア",
+    "romaji": "itaria",
+    "meaning": "Ý",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:geography",
+      "where:country",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "これは、イタリアの、車です。",
+        "vietnamese": "Đây là chiếc ô tô của nước Ý."
+      },
+      {
+        "japanese": "いつか、イタリアへ、旅行に行きたいです。",
+        "vietnamese": "Một ngày nào đó, tôi muốn đi du lịch đến nước Ý."
+      }
+    ],
+    "id": 43,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "イタリアだよ！",
+      "reading": "イタリアだよ！",
+      "romaji": "itaria da yo!",
+      "vietnamese": "Là Ý đấy!",
+      "variants": [
+        "itaria da yo",
+        "itaria",
+        "y",
+        "la y day"
+      ]
+    }
+  },
+  {
+    "term": "スイス",
+    "reading": "スイス",
+    "romaji": "suisu",
+    "meaning": "Thụy Sĩ",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:geography",
+      "where:country",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "これは、スイスの、時計です。",
+        "vietnamese": "Đây là chiếc đồng hồ của Thụy Sĩ."
+      },
+      {
+        "japanese": "スイスの山は、きれいです。",
+        "vietnamese": "Núi ở Thụy Sĩ rất đẹp."
+      }
+    ],
+    "id": 44,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "スイスだよ！",
+      "reading": "スイスだよ！",
+      "romaji": "suisu da yo!",
+      "vietnamese": "Là Thụy Sĩ đấy!",
+      "variants": [
+        "suisu da yo",
+        "suisu",
+        "thuy si",
+        "la thuy si day"
+      ]
+    }
+  },
+  {
+    "term": "MT／ヨーネン／アキックス",
+    "reading": "MT／ヨーネン／アキックス",
+    "romaji": "MT / yoonen / akikku su",
+    "meaning": "tên các công ty giả tưởng",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:company",
+      "tone:polite"
+    ],
+    "examples": [
+      {
+        "japanese": "サントスさんは、アキックスの、社員です。",
+        "vietnamese": "Anh Santos là nhân viên của công ty Akikkusu."
+      },
+      {
+        "japanese": "MTは、有名な会社です。",
+        "vietnamese": "MT là một công ty nổi tiếng."
+      }
+    ],
+    "id": 45,
+    "question": {
+      "short": "これは何？",
+      "polite": "これは何ですか？",
+      "reading": "これはなに？",
+      "romaji": "kore wa nani?",
+      "vietnamese": "Cái này là cái gì?",
+      "variants": [
+        "kore wa nani",
+        "これは何ですか？",
+        "cai nay la cai gi"
+      ]
+    },
+    "answer": {
+      "short": "MT／ヨーネン／アキックスだよ！",
+      "reading": "MT／ヨーネン／アキックスだよ！",
+      "romaji": "MT / yoonen / akikku su da yo!",
+      "vietnamese": "Là tên các công ty giả tưởng đấy!",
+      "variants": [
+        "MT / yoonen / akikku su da yo",
+        "MT / yoonen / akikku su",
+        "ten cac cong ty gia tuong",
+        "la ten cac cong ty gia tuong day"
+      ]
+    }
+  }
+]

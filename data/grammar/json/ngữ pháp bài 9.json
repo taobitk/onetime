@@ -1,0 +1,231 @@
+{
+  "bai_hoc": "Bài 9[cite: 2]",
+  "tieu_de": "IV. Giải thích ngữ pháp[cite: 2]",
+  "cac_diem_ngu_phap": [
+    {
+      "muc": 1,
+      "trang": "64[cite: 2]",
+      "mau_cau": [
+        "Danh từ が あります／わかります",
+        "Danh từ が 好きです／嫌いです／上手です／下手です"
+      ],
+      "giai_thich": "Đối với những ngoại động từ có tân ngữ thì về nguyên tắc chúng ta đặt trợ từ「を」để biểu thị tân ngữ đó. Thế nhưng đối với các động từ「あります」và「わかります」thì chúng ta dùng trợ từ「が」để biểu thị đối tượng (tân ngữ). Ngoài ra, những tính từ như「すきです」,「きらいです」,「じょうずです」,「へたです」thì cần thiết phải có đối tượng, nên đối với những đối tượng này thì chúng ta cũng dùng「が」để biểu thị. Những động từ và tính từ có dùng trợ từ「が」để biểu thị đối tượng (tân ngữ) thường là những từ chỉ sở thích, ham muốn, năng lực, sở hữu v.v..",
+      "vi_du": [
+        {
+          "stt": 1,
+          "tieng_nhat": "わたしは イタリア料理が 好きです。",
+          "tieng_viet": "Tôi thích món ăn Ý."
+        },
+        {
+          "stt": 2,
+          "tieng_nhat": "わたしは 日本語が わかります。",
+          "tieng_viet": "Tôi hiểu tiếng Nhật"
+        },
+        {
+          "stt": 3,
+          "tieng_nhat": "わたしは 車が あります。",
+          "tieng_viet": "Tôi có một cái xe ô-tô."
+        }
+      ]
+    },
+    {
+      "muc": 2,
+      "trang": "64[cite: 2]",
+      "mau_cau": "どんな Danh từ",
+      "giai_thich": "Ngoài cách dùng như đã học ở Bài 8, chúng ta còn có thể dùng「どんな」để hỏi về tên cụ thể của một vật hay một việc nào đó ở trong một phạm trù rộng hơn.",
+      "vi_du": [
+        {
+          "stt": 4,
+          "hoi": {
+            "tieng_nhat": "どんな スポーツが 好きですか。",
+            "tieng_viet": "Anh/Chị thích môn thể thao nào?"
+          },
+          "tra_loi": {
+            "tieng_nhat": "…サッカーが 好きです。",
+            "tieng_viet": "…Tôi thích môn bóng đá."
+          }
+        }
+      ]
+    },
+    {
+      "muc": 3,
+      "trang": "64[cite: 2], 65[cite: 1]",
+      "mau_cau": "よく／だいたい／たくさん／少し／あまり／全然",
+      "giai_thich": "Đây là những phó từ, được đặt ở trước động từ để bổ nghĩa cho động từ. Bảng dưới đây tóm tắt cách dùng những phó từ này.",
+      "bang_tong_hop": {
+        "muc_do": {
+          "khang_dinh": [
+            {
+              "muc": "Lớn",
+              "pho_tu": "よく",
+              "dong_tu": "わかります"
+            },
+            {
+              "muc": "Trung bình",
+              "pho_tu": "だいたい",
+              "dong_tu": "わかります"
+            },
+            {
+              "muc": "Nhỏ",
+              "pho_tu": "すこし",
+              "dong_tu": "わかります"
+            }
+          ],
+          "phu_dinh": [
+            {
+              "muc": "Trung bình",
+              "pho_tu": "あまり",
+              "dong_tu": "わかりません"
+            },
+            {
+              "muc": "Nhỏ",
+              "pho_tu": "ぜんぜん",
+              "dong_tu": "わかりません"
+            }
+          ]
+        },
+        "so_luong": {
+          "khang_dinh": [
+            {
+              "muc": "Nhiều",
+              "pho_tu": "たくさん",
+              "dong_tu": "あります"
+            },
+            {
+              "muc": "Ít",
+              "pho_tu": "すこし",
+              "dong_tu": "あります"
+            }
+          ],
+          "phu_dinh": [
+            {
+              "muc": "Ít",
+              "pho_tu": "あまり",
+              "dong_tu": "ありません"
+            },
+            {
+              "muc": "Rất ít / Không có",
+              "pho_tu": "ぜんぜん",
+              "dong_tu": "ありません"
+            }
+          ]
+        }
+      },
+      "vi_du": [
+        {
+          "stt": 5,
+          "tieng_nhat": "英語が よく わかります。",
+          "tieng_viet": "Tôi hiểu tiếng Anh tốt."
+        },
+        {
+          "stt": 6,
+          "tieng_nhat": "英語が 少し わかります。",
+          "tieng_viet": "Tôi hiểu tiếng Anh một chút."
+        },
+        {
+          "stt": 7,
+          "tieng_nhat": "英語が あまり わかりません。",
+          "tieng_viet": "Tôi không hiểu tiếng Anh lắm."
+        },
+        {
+          "stt": 8,
+          "tieng_nhat": "お金が たくさん あります。",
+          "tieng_viet": "Tôi có nhiều tiền."
+        },
+        {
+          "stt": 9,
+          "tieng_nhat": "お金が 全然 ありません。",
+          "tieng_viet": "Tôi không có đồng nào cả."
+        }
+      ],
+      "chu_y": {
+        "noi_dung": "「すこし」,「ぜんぜん」còn có thể được dùng để bổ nghĩa cho tính từ.",
+        "vi_du": [
+          {
+            "stt": 10,
+            "tieng_nhat": "ここは 少し 寒いです。",
+            "tieng_viet": "Ở đây hơi lạnh."
+          },
+          {
+            "stt": 11,
+            "tieng_nhat": "あの 映画は 全然 おもしろくないです。",
+            "tieng_viet": "Bộ phim đó không hay chút nào."
+          }
+        ]
+      }
+    },
+    {
+      "muc": 4,
+      "trang": "65[cite: 1]",
+      "mau_cau": "Câu₁ から、Câu₂",
+      "giai_thich": "「から」được dùng để nối hai câu thành một câu. Câu₁ biểu thị lý do cho Câu₂.",
+      "vi_du": [
+        {
+          "stt": 12,
+          "tieng_nhat": "時間が ありませんから、新聞を 読みません。",
+          "tieng_viet": "Vì không có thời gian nên tôi không đọc báo."
+        }
+      ],
+      "mo_rong": {
+        "ghi_chu": "Cũng có thể nói Câu₂ trước, sau đó nói Câu₁ kèm theo「から」.",
+        "vi_du": [
+          {
+            "stt": 13,
+            "hoi": {
+              "tieng_nhat": "毎朝 新聞を 読みますか。",
+              "tieng_viet": "Anh/Chị có đọc báo hàng sáng không?"
+            },
+            "tra_loi": {
+              "tieng_nhat": "…いいえ、読みません。時間が ありませんから。",
+              "tieng_viet": "…Không, tôi không đọc. Vì tôi không có thời gian."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "muc": 5,
+      "trang": "65[cite: 1]",
+      "mau_cau": "どうして",
+      "giai_thich": "Từ nghi vấn「どうして」được dùng để hỏi lý do. Khi trả lời chúng ta thêm「から」vào cuối câu.",
+      "vi_du": [
+        {
+          "stt": 14,
+          "hoi": {
+            "tieng_nhat": "どうして 朝 新聞を 読みませんか。",
+            "tieng_viet": "Tại sao anh/chị không đọc báo vào buổi sáng?"
+          },
+          "tra_loi": {
+            "tieng_nhat": "…時間が ありませんから。",
+            "tieng_viet": "…Vì tôi không có thời gian."
+          }
+        }
+      ],
+      "mo_rong": {
+        "ghi_chu": "Khi muốn hỏi lý do về một điều gì đó mà người nghe nói trước đó, thì thay vì phải nhắc lại câu nói đó, chúng ta có thể dùng「どうしてですか」.",
+        "vi_du": [
+          {
+            "stt": 15,
+            "hoi_thoai": [
+              {
+                "nguoi_noi": "Người A",
+                "tieng_nhat": "きょうは 早く 帰ります。",
+                "tieng_viet": "Hôm nay tôi sẽ về sớm."
+              },
+              {
+                "nguoi_noi": "Người B",
+                "tieng_nhat": "…どうしてですか。",
+                "tieng_viet": "…Tại sao?"
+              },
+              {
+                "nguoi_noi": "Người A",
+                "tieng_nhat": "子どもの 誕生日ですから。",
+                "tieng_viet": "Vì hôm nay là sinh nhật con tôi."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "bai": 7,
+  "chu_de": "IV. Giải thích ngữ pháp",
+  "ngu_phap": [
+    {
+      "stt": 1,
+      "mau_cau": "Danh từ (công cụ/phương tiện) で Động từ",
+      "chi_tiet": [
+        {
+          "giai_thich": "Trợ từ 「で」 biểu thị phương tiện hay cách thức tiến hành một việc gì đó[cite: 9].",
+          "vi_du": [
+            {
+              "so": 1,
+              "tieng_nhat": "はしで 食べます。[cite: 9]",
+              "tieng_viet": "Tôi ăn cơm bằng đũa.[cite: 9]"
+            },
+            {
+              "so": 2,
+              "tieng_nhat": "日本語で レポートを 書きます。[cite: 9]",
+              "tieng_viet": "Tôi viết báo cáo bằng tiếng Nhật.[cite: 9]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 2,
+      "mau_cau": "\"Từ/câu\" は ～語で 何ですか",
+      "chi_tiet": [
+        {
+          "giai_thich": "Mẫu câu này dùng để hỏi một từ, một ngữ hoặc một câu được nói như thế nào bằng một ngôn ngữ khác[cite: 9].",
+          "vi_du": [
+            {
+              "so": 3,
+              "hoi": {
+                "tieng_nhat": "「ありがとう」は 英語で 何ですか。[cite: 9]",
+                "tieng_viet": "\"ありがとう\" tiếng Anh nói thế nào?[cite: 9]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…「Thank you」です。[cite: 9]",
+                "tieng_viet": "…Tiếng Anh nói là \"Thank you\".[cite: 9]"
+              }
+            },
+            {
+              "so": 4,
+              "hoi": {
+                "tieng_nhat": "「Thank you」は 日本語で 何ですか。[cite: 9]",
+                "tieng_viet": "\"Thank you\" tiếng Nhật nói thế nào?[cite: 9]"
+              },
+              "tra_loi": {
+                "tieng_nhat": "…「ありがとう」です。[cite: 9]",
+                "tieng_viet": "…Tiếng Nhật nói là \"ありがとう\".[cite: 9]"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "stt": 3,
+      "mau_cau": "Danh từ (người) に あげます、v.v.",
+      "chi_tiet": [
+        {
+          "giai_thich": "Những động từ như 「あげます」、「かします」、「おしえます」 cần người làm đối tượng[cite: 9]. Chúng ta đặt trợ từ 「に」 sau danh từ chỉ đối tượng này[cite: 9].",
+          "vi_du": [
+            {
+              "so": 5,
+              "tieng_nhat": "山田さんは 木村さんに 花を あげました。[cite: 9]",
+              "tieng_viet": "Ông Yamada tặng hoa cho chị Kimura.[cite: 9]"
+            },
+            {
+              "so": 6,
+              "tieng_nhat": "イーさんに 本を 貸しました。[cite: 9]",
+              "tieng_viet": "Tôi cho chị Lee mượn sách.[cite: 9]"
+            },
+            {
+              "so": 7,
+              "tieng_nhat": "太郎君に 英語を 教えます。[cite: 9]",
+              "tieng_viet": "Tôi dạy tiếng Anh cho cậu Taro.[cite: 9]"
+            }
+          ],
+          "chu_y": {
+            "giai_thich": "Đối với những động từ như 「おくります」、「でんわを かけます」 thì đối tượng không chỉ là người mà còn có thể là địa điểm (danh từ)[cite: 9]. Trong trường hợp đó, ngoài trợ từ 「に」, chúng ta còn có thể dùng trợ từ 「へ」[cite: 9].",
+            "vi_du": [
+              {
+                "so": 8,
+                "tieng_nhat": "会社に (へ) 電話を かけます。[cite: 9]",
+                "tieng_viet": "Tôi gọi điện thoại đến công ty.[cite: 9]"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stt": 4,
+      "mau_cau": "Danh từ (người) に もらいます、v.v.",
+      "chi_tiet": [
+        {
+          "giai_thich": "Các động từ như 「もらいます」、「かります」、「ならいます」 biểu thị hành động từ phía người tiếp nhận[cite: 10]. Khi dùng những động từ này trong câu mà chủ ngữ là người tiếp nhận thì chúng ta thêm 「に」 vào sau danh từ chỉ đối tác[cite: 10].",
+          "vi_du": [
+            {
+              "so": 9,
+              "tieng_nhat": "木村さんは 山田さんに 花を もらいました。[cite: 10]",
+              "tieng_viet": "Chị Kimura đã nhận hoa từ ông Yamada.[cite: 10]"
+            },
+            {
+              "so": 10,
+              "tieng_nhat": "カリナさんに CDを 借りました。[cite: 10]",
+              "tieng_viet": "Tôi đã mượn đĩa CD từ chị Karina.[cite: 10]"
+            },
+            {
+              "so": 11,
+              "tieng_nhat": "ワンさんに 中国語を 習います。[cite: 10]",
+              "tieng_viet": "Tôi học tiếng Trung từ ông Wang.[cite: 10]"
+            }
+          ],
+          "chu_y": {
+            "giai_thich": "Trong mẫu câu này, chúng ta có thể dùng trợ từ 「から」 thay cho 「に」[cite: 10]. Đặc biệt là khi đối tác không phải là người mà là một tổ chức nào đó (ví dụ: công ty hoặc trường học) thì không dùng 「に」 mà dùng 「から」[cite: 10].",
+            "vi_du": [
+              {
+                "so": 12,
+                "tieng_nhat": "木村さんは 山田さんから 花を もらいました。[cite: 10]",
+                "tieng_viet": "Chị Kimura đã nhận hoa từ ông Yamada.[cite: 10]"
+              },
+              {
+                "so": 13,
+                "tieng_nhat": "銀行から お金を 借りました。[cite: 10]",
+                "tieng_viet": "Tôi đã vay tiền từ ngân hàng.[cite: 10]"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "stt": 5,
+      "mau_cau": "もう Động từ ました",
+      "chi_tiet": [
+        {
+          "giai_thich": "「もう」 có nghĩa là \"đã/rồi\", và được dùng với động từ ở thời quá khứ 「Động từ ました」[cite: 10]. Trong trường hợp này thì động từ ở thời quá khứ 「Động từ ました」 biểu thị một hành động nào đó đã kết thúc ở thời điểm hiện tại[cite: 10].",
+          "vi_du_hoi_thoai": [
+            {
+              "so": 14,
+              "cau_hoi": {
+                "tieng_nhat": "もう 荷物を 送りましたか。[cite: 10]",
+                "tieng_viet": "Anh/Chị đã gửi đồ chưa?[cite: 10]"
+              },
+              "tra_loi_khang_dinh": {
+                "tieng_nhat": "…はい、[もう] 送りました。[cite: 10]",
+                "tieng_viet": "…Rồi, tôi đã gửi rồi.[cite: 10]"
+              },
+              "tra_loi_phu_dinh": {
+                "tieng_nhat": "…いいえ、まだです。[cite: 10]",
+                "tieng_viet": "…Chưa, tôi chưa gửi.[cite: 10]"
+              }
+            }
+          ],
+          "chu_y": "Khi câu trả lời đối với câu hỏi theo mẫu này là câu phủ định thì chúng ta không dùng 「Động từ ませでした」[cite: 10]. Lý do là vì 「Động từ ませでした」 có nghĩa là ai đó đã không làm một việc gì trong quá khứ, chứ không mang nghĩa là chưa làm việc đó[cite: 10]."
+        }
+      ]
+    }
+  ]
+}

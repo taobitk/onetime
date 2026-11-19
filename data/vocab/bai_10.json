@@ -1,0 +1,2186 @@
+[
+  {
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "có, ở (tồn tại, dùng cho người và động vật) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:existence",
+      "action:exist",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "あそこに、男の人がいます。",
+        "vietnamese": "Ở đằng kia có một người đàn ông."
+      }
+    ],
+    "question": {
+      "short": "庭に誰がいるの？",
+      "polite": "お庭にはどなたがいらっしゃいますか？",
+      "reading": "にわにだれがいるの？",
+      "romaji": "niwa ni dare ga iru no?",
+      "vietnamese": "ngoài sân vườn có ai ở đó thế / ai ở trong vườn",
+      "variants": [
+        "niwa ni dare ga iru no",
+        "dare ga iru no"
+      ]
+    },
+    "answer": {
+      "short": "元気な子どもたちがいるよ！",
+      "reading": "げんきなこどもたちがいるよ！",
+      "romaji": "genki na kodomotachi ga iru yo!",
+      "vietnamese": "có những đứa trẻ khỏe mạnh ở đó / có lũ trẻ",
+      "variants": [
+        "genki na kodomotachi ga iru yo",
+        "kodomotachi ga iru yo",
+        "iru yo",
+        "co tre con",
+        "co lu tre"
+      ]
+    }
+  },
+  {
+    "term": "ある",
+    "reading": "ある",
+    "romaji": "aru",
+    "meaning": "có (tồn tại, dùng cho đồ vật) [Nhóm 1: あります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:existence",
+      "action:exist",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "机の上に、本があります。",
+        "vietnamese": "Trên bàn có một cuốn sách."
+      }
+    ],
+    "question": {
+      "short": "机の上に何があるの？",
+      "polite": "机の上には何がございますか？",
+      "reading": "つくえのうえになにがあるの？",
+      "romaji": "tsukue no ue ni nani ga aru no?",
+      "vietnamese": "trên bàn có cái gì thế / có gì trên bàn",
+      "variants": [
+        "tsukue no ue ni nani ga aru no",
+        "nani ga aru no"
+      ]
+    },
+    "answer": {
+      "short": "新しいパソコンと本があるよ！",
+      "reading": "あたらしいぱそこんとほんがあるよ！",
+      "romaji": "atarashii pasokon to hon ga aru yo!",
+      "vietnamese": "có máy tính mới và cuốn sách / có máy tính và sách",
+      "variants": [
+        "atarashii pasokon to hon ga aru yo",
+        "pasokon to hon ga aru yo",
+        "aru yo",
+        "co may tinh va sach",
+        "co sach"
+      ]
+    }
+  },
+  {
+    "term": "いろいろ[な]",
+    "reading": "いろいろ[な]",
+    "romaji": "iroiro[na]",
+    "meaning": "nhiều, đa dạng",
+    "level": "N5",
+    "type": "Tính từ -na",
+    "tags": [
+      "topic:variety",
+      "tone:polite"
+    ],
+    "id": 3,
+    "examples": [
+      {
+        "japanese": "店には、いろいろな物があります。",
+        "vietnamese": "Trong cửa hàng có nhiều đồ vật đa dạng."
+      }
+    ],
+    "question": {
+      "short": "スーパーの棚にどんな品物が並んでる？",
+      "polite": "棚にはどのような品物が並んでいますか？",
+      "reading": "すーぱーのたなにどんなしなものがならんでる？",
+      "romaji": "su-pa- no tana ni donna shinamono ga naranderu?",
+      "vietnamese": "trên kệ siêu thị bày những mặt hàng thế nào / có những món đồ gì",
+      "variants": [
+        "su-pa- no tana ni donna shinamono ga naranderu",
+        "donna shinamono ga aru"
+      ]
+    },
+    "answer": {
+      "short": "色々な美味しい商品が並んでるよ！",
+      "reading": "いろいろなおいしいしょうひんがならんでるよ！",
+      "romaji": "iroiro na oishii shouhin ga naranderu yo!",
+      "vietnamese": "bày rất nhiều mặt hàng phong phú thơm ngon / rất nhiều loại",
+      "variants": [
+        "iroiro na oishii shouhin ga naranderu yo",
+        "iroiro na shouhin ga aru yo",
+        "iroiro da yo",
+        "iroiro",
+        "nhieu loai",
+        "da dang"
+      ]
+    }
+  },
+  {
+    "term": "男の人",
+    "reading": "おとこのひと",
+    "romaji": "otoko no hito",
+    "meaning": "người đàn ông",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:people",
+      "people:man",
+      "tone:polite"
+    ],
+    "id": 4,
+    "examples": [
+      {
+        "japanese": "あの男の人は、誰ですか。",
+        "vietnamese": "Người đàn ông kia là ai vậy?"
+      }
+    ],
+    "question": {
+      "short": "受付に立っているあの人は誰？",
+      "polite": "受付にいらっしゃるあの方はどなたですか？",
+      "reading": "うけつけにたっているあのひとはだれ？",
+      "romaji": "uketsuke ni tatte iru ano hito wa dare?",
+      "vietnamese": "người đang đứng ở quầy lễ tân kia là ai / người ở lễ tân là ai",
+      "variants": [
+        "uketsuke ni tatte iru ano hito wa dare",
+        "ano hito wa dare"
+      ]
+    },
+    "answer": {
+      "short": "スーツを着た背の高い男の人だよ！",
+      "reading": "すーつをきたせのたかいおとこのひとだよ！",
+      "romaji": "su-tsu o kita se no takai otoko no hito da yo!",
+      "vietnamese": "là một người đàn ông cao lớn mặc vest / người đàn ông",
+      "variants": [
+        "su-tsu o kita se no takai otoko no hito da yo",
+        "otoko no hito da yo",
+        "otoko no hito",
+        "nguoi dan ong",
+        "dan ong"
+      ]
+    }
+  },
+  {
+    "term": "女の人",
+    "reading": "おんなのひと",
+    "romaji": "onna no hito",
+    "meaning": "người đàn bà",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:people",
+      "people:woman",
+      "tone:polite"
+    ],
+    "id": 5,
+    "examples": [
+      {
+        "japanese": "あそこに、女の人がいます。",
+        "vietnamese": "Ở đằng kia có một người phụ nữ."
+      }
+    ],
+    "question": {
+      "short": "窓のそばで本を読んでいる人は誰？",
+      "polite": "窓際で読書なさっている方はどなたですか？",
+      "reading": "まどのそばでほんをよんでいるひとはだれ？",
+      "romaji": "mado no soba de hon o yonde iru hito wa dare?",
+      "vietnamese": "người đang đọc sách bên cửa sổ là ai / ai đọc sách bên cửa sổ",
+      "variants": [
+        "mado no soba de hon o yonde iru hito wa dare",
+        "yonde iru hito dare"
+      ]
+    },
+    "answer": {
+      "short": "髪の長いきれいな女の人だよ！",
+      "reading": "かみのながいきれいなおんなのひとだよ！",
+      "romaji": "kami no nagai kirei na onna no hito da yo!",
+      "vietnamese": "là một người phụ nữ xinh đẹp tóc dài / người phụ nữ",
+      "variants": [
+        "kami no nagai kirei na onna no hito da yo",
+        "onna no hito da yo",
+        "onna no hito",
+        "nguoi phu nu",
+        "phu nu"
+      ]
+    }
+  },
+  {
+    "term": "男の子",
+    "reading": "おとこのこ",
+    "romaji": "otoko no ko",
+    "meaning": "cậu con trai",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:people",
+      "people:boy",
+      "tone:polite"
+    ],
+    "id": 6,
+    "examples": [
+      {
+        "japanese": "公園に、男の子がいます。",
+        "vietnamese": "Ở công viên có một bé trai."
+      }
+    ],
+    "question": {
+      "short": "砂場で元気に遊んでいる子は誰？",
+      "polite": "砂場で遊んでいるお子様はどなたですか？",
+      "reading": "すなばでげんきにあそんでいるこはだれ？",
+      "romaji": "sunaba de genki ni asonde iru ko wa dare?",
+      "vietnamese": "đứa bé đang chơi trong hố cát là ai thế / cậu bé kia là ai",
+      "variants": [
+        "sunaba de genki ni asonde iru ko wa dare",
+        "asonde iru ko dare"
+      ]
+    },
+    "answer": {
+      "short": "帽子をかぶった可愛い男の子だよ！",
+      "reading": "ぼうしをかぶったかわいいおとこのこだよ！",
+      "romaji": "boushi o kabutta kawaii otoko no ko da yo!",
+      "vietnamese": "là một cậu bé đội mũ rất đáng yêu / bé trai",
+      "variants": [
+        "boushi o kabutta kawaii otoko no ko da yo",
+        "otoko no ko da yo",
+        "otoko no ko",
+        "cau be",
+        "be trai"
+      ]
+    }
+  },
+  {
+    "term": "女の子",
+    "reading": "おんなのこ",
+    "romaji": "onna no ko",
+    "meaning": "cô con gái",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:people",
+      "people:girl",
+      "tone:polite"
+    ],
+    "id": 7,
+    "examples": [
+      {
+        "japanese": "あそこに、可愛い女の子がいます。",
+        "vietnamese": "Ở đằng kia có một bé gái dễ thương."
+      }
+    ],
+    "question": {
+      "short": "赤い風船を持っている子は誰？",
+      "polite": "赤い風船をお持ちのお子様はどなたですか？",
+      "reading": "あかいふうせんをもっているこはだれ？",
+      "romaji": "akai fuusen o motte iru ko wa dare?",
+      "vietnamese": "đứa bé đang cầm quả bóng bay đỏ là ai thế / cô bé kia là ai",
+      "variants": [
+        "akai fuusen o motte iru ko wa dare",
+        "motte iru ko dare"
+      ]
+    },
+    "answer": {
+      "short": "ピンクの服を着た可愛い女の子だよ！",
+      "reading": "ぴんくのふくをきたかわいいおんなのこだよ！",
+      "romaji": "pinku no fuku o kita kawaii onna no ko da yo!",
+      "vietnamese": "là một bé gái đáng yêu mặc áo hồng / bé gái",
+      "variants": [
+        "pinku no fuku o kita kawaii onna no ko da yo",
+        "onna no ko da yo",
+        "onna no ko",
+        "be gai",
+        "co be"
+      ]
+    }
+  },
+  {
+    "term": "犬",
+    "reading": "いぬ",
+    "romaji": "inu",
+    "meaning": "chó",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:animal",
+      "item:pet",
+      "tone:polite"
+    ],
+    "id": 8,
+    "examples": [
+      {
+        "japanese": "庭に、犬がいます。",
+        "vietnamese": "Trong sân có một con chó."
+      }
+    ],
+    "question": {
+      "short": "庭の小屋で元気に吠えている動物、何？",
+      "polite": "お庭にいる動物は何ですか？",
+      "reading": "にわのこやでげんきにほえているどうぶつ、なに？",
+      "romaji": "niwa no koya de genki ni hoete iru doubutsu, nani?",
+      "vietnamese": "con vật đang sủa ở chuồng ngoài sân là con gì / con gì ở ngoài sân",
+      "variants": [
+        "niwa no koya de genki ni hoete iru doubutsu, nani",
+        "doubutsu nani"
+      ]
+    },
+    "answer": {
+      "short": "しっぽを振っている茶色い犬だよ！",
+      "reading": "しっぽをふっているちゃいろいいぬだよ！",
+      "romaji": "shippo o futte iru chairoi inu da yo!",
+      "vietnamese": "là chú chó màu nâu đang vẫy đuôi / con chó",
+      "variants": [
+        "shippo o futte iru chairoi inu da yo",
+        "chairoi inu da yo",
+        "inu da yo",
+        "inu",
+        "chu cho",
+        "con cho"
+      ]
+    }
+  },
+  {
+    "term": "猫",
+    "reading": "ねこ",
+    "romaji": "neko",
+    "meaning": "mèo",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:animal",
+      "item:pet",
+      "tone:polite"
+    ],
+    "id": 9,
+    "examples": [
+      {
+        "japanese": "部屋に、猫がいます。",
+        "vietnamese": "Trong phòng có một con mèo."
+      }
+    ],
+    "question": {
+      "short": "日なたで気持ちよさそうに寝ている動物、何？",
+      "polite": "あちらで寝ている動物は何ですか？",
+      "reading": "ひなたできもちよさそうにねているどうぶつ、なに？",
+      "romaji": "hinata de kimochiyosasou ni nete iru doubutsu, nani?",
+      "vietnamese": "con vật đang nằm ngủ sưởi nắng là con gì / con gì đang ngủ",
+      "variants": [
+        "hinata de kimochiyosasou ni nete iru doubutsu, nani",
+        "doubutsu nani"
+      ]
+    },
+    "answer": {
+      "short": "ニャーと鳴く可愛い白猫だよ！",
+      "reading": "にゃーとなくかわいいしろねこだよ！",
+      "romaji": "nya- to naku kawaii shironeko da yo!",
+      "vietnamese": "là chú mèo trắng kêu meo meo đáng yêu / con mèo",
+      "variants": [
+        "nya- to naku kawaii shironeko da yo",
+        "shironeko da yo",
+        "neko da yo",
+        "neko",
+        "chu meo",
+        "con meo"
+      ]
+    }
+  },
+  {
+    "term": "木",
+    "reading": "き",
+    "romaji": "ki",
+    "meaning": "cây, gỗ",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:nature",
+      "item:plant",
+      "tone:polite"
+    ],
+    "id": 10,
+    "examples": [
+      {
+        "japanese": "公園に、大きい木があります。",
+        "vietnamese": "Trong công viên có một cái cây to."
+      }
+    ],
+    "question": {
+      "short": "庭の真ん中に大きく立っているの、何？",
+      "polite": "お庭の中央にあるものは何ですか？",
+      "reading": "にわのまんなかにおおきくたっているの、なに？",
+      "romaji": "niwa no mannaka ni ookiku tatte iru no, nani?",
+      "vietnamese": "thứ đang đứng sừng sững giữa sân vườn là gì / cái gì giữa sân vườn",
+      "variants": [
+        "niwa no mannaka ni ookiku tatte iru no, nani",
+        "mannaka ni aru no nani"
+      ]
+    },
+    "answer": {
+      "short": "樹齢100年の大きな桜の木だよ！",
+      "reading": "じゅれいひゃくねんのおおきなさくらのきだよ！",
+      "romaji": "jurei hyakunen no ookina sakura no ki da yo!",
+      "vietnamese": "là cây hoa anh đào lớn trăm tuổi / cây anh đào",
+      "variants": [
+        "jurei hyakunen no ookina sakura no ki da yo",
+        "sakura no ki da yo",
+        "ki da yo",
+        "ki",
+        "cay anh dao",
+        "cai cay"
+      ]
+    }
+  },
+  {
+    "term": "物",
+    "reading": "もの",
+    "romaji": "mono",
+    "meaning": "vật, đồ vật",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:object",
+      "tone:polite"
+    ],
+    "id": 11,
+    "examples": [
+      {
+        "japanese": "箱の中に、いろいろな物があります。",
+        "vietnamese": "Trong hộp có nhiều đồ vật khác nhau."
+      }
+    ],
+    "question": {
+      "short": "箱の中に何が入っているの？",
+      "polite": "箱の中には何が入っていますか？",
+      "reading": "はこのなかになにがはいっているの？",
+      "romaji": "hako no naka ni nani ga haitte iru no?",
+      "vietnamese": "trong chiếc hộp có chứa cái gì thế / trong hộp đựng gì",
+      "variants": [
+        "hako no naka ni nani ga haitte iru no",
+        "nani ga haitte iru no"
+      ]
+    },
+    "answer": {
+      "short": "いろいろな思い出の物が入ってるよ！",
+      "reading": "いろいろなおもいでのものがはいってるよ！",
+      "romaji": "iroiro na omoide no mono ga haitteru yo!",
+      "vietnamese": "có rất nhiều món đồ kỷ niệm bên trong / đồ đạc",
+      "variants": [
+        "iroiro na omoide no mono ga haitteru yo",
+        "omoide no mono da yo",
+        "mono da yo",
+        "mono",
+        "do ky niem",
+        "do vat"
+      ]
+    }
+  },
+  {
+    "term": "フィルム",
+    "reading": "フィルム",
+    "romaji": "firumu",
+    "meaning": "phim",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:tool",
+      "tone:polite"
+    ],
+    "id": 12,
+    "examples": [
+      {
+        "japanese": "カメラのフィルムを、買いました。",
+        "vietnamese": "Tôi đã mua một cuộn phim chụp ảnh."
+      }
+    ],
+    "question": {
+      "short": "昔のカメラに何を入れて写真を撮ったの？",
+      "polite": "カメラには何を入れていらっしゃいましたか？",
+      "reading": "むかしのかめらになにをいれてしゃしんをとったの？",
+      "romaji": "mukashi no kamera ni nani o irete shashin o totta no?",
+      "vietnamese": "máy ảnh ngày xưa lắp cái gì vào để chụp ảnh / máy ảnh lắp gì",
+      "variants": [
+        "mukashi no kamera ni nani o irete shashin o totta no",
+        "nani o irete totta no"
+      ]
+    },
+    "answer": {
+      "short": "現像するためのカメラのフィルムだよ！",
+      "reading": "げんぞうするためのかめらのふぃるむだよ！",
+      "romaji": "genzou suru tame no kamera no firumu da yo!",
+      "vietnamese": "là cuộn phim máy ảnh để đem đi rửa ảnh / cuộn phim",
+      "variants": [
+        "genzou suru tame no kamera no firumu da yo",
+        "kamera no firumu da yo",
+        "firumu da yo",
+        "firumu",
+        "cuon phim",
+        "phim chup anh"
+      ]
+    }
+  },
+  {
+    "term": "電池",
+    "reading": "でんち",
+    "romaji": "denchi",
+    "meaning": "pin",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:tool",
+      "tone:polite"
+    ],
+    "id": 13,
+    "examples": [
+      {
+        "japanese": "時計の電池を、替えます。",
+        "vietnamese": "Tôi thay pin đồng hồ."
+      }
+    ],
+    "question": {
+      "short": "テレビのリモコンが動かないとき、何を交換する？",
+      "polite": "リモコンには何を交換なさいますか？",
+      "reading": "てれびのりもこんがうごかないとき、なにをこうかんする？",
+      "romaji": "terebi no rimokon ga ugokanai toki, nani o koukan suru?",
+      "vietnamese": "điều khiển tivi không hoạt động thì thay cái gì / thay cái gì cho điều khiển",
+      "variants": [
+        "terebi no rimokon ga ugokanai toki, nani o koukan suru",
+        "nani o koukan suru"
+      ]
+    },
+    "answer": {
+      "short": "単3サイズの乾電池を交換するよ！",
+      "reading": "たんさんさいずのかんでんちをこうかんするよ！",
+      "romaji": "tansan saizu no kandentchi o koukan suru yo!",
+      "vietnamese": "thay pin tiểu cỡ 2A / thay pin",
+      "variants": [
+        "tansan saizu no kandentchi o koukan suru yo",
+        "denchi o koukan suru yo",
+        "denchi da yo",
+        "denchi",
+        "cuc pin",
+        "thay pin"
+      ]
+    }
+  },
+  {
+    "term": "箱",
+    "reading": "はこ",
+    "romaji": "hako",
+    "meaning": "hộp",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:container",
+      "tone:polite"
+    ],
+    "id": 14,
+    "examples": [
+      {
+        "japanese": "箱の中に、何がありますか。",
+        "vietnamese": "Trong chiếc hộp có cái gì vậy?"
+      }
+    ],
+    "question": {
+      "short": "プレゼントを何に入れてラッピングする？",
+      "polite": "プレゼントは何にお入れになりますか？",
+      "reading": "ぷれぜんとをなににいれてらっぴんぐする？",
+      "romaji": "purezento o nani ni irete rappingu suru?",
+      "vietnamese": "cho quà vào trong cái gì để gói quà / gói quà bằng gì",
+      "variants": [
+        "purezento o nani ni irete rappingu suru",
+        "nani ni ireru"
+      ]
+    },
+    "answer": {
+      "short": "リボン付きのきれいな箱に入れるよ！",
+      "reading": "りぼんつきのきれいなはこにいれるよ！",
+      "romaji": "ribontsuki no kirei na hako ni ireru yo!",
+      "vietnamese": "cho vào chiếc hộp đẹp có thắt nơ / cho vào hộp",
+      "variants": [
+        "ribontsuki no kirei na hako ni ireru yo",
+        "kirei na hako ni ireru yo",
+        "hako ni ireru yo",
+        "hako",
+        "chiec hop",
+        "hop qua"
+      ]
+    }
+  },
+  {
+    "term": "スイッチ",
+    "reading": "スイッチ",
+    "romaji": "suicchi",
+    "meaning": "công tắc",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily_life",
+      "item:device",
+      "tone:polite"
+    ],
+    "id": 15,
+    "examples": [
+      {
+        "japanese": "電気のスイッチを、押します。",
+        "vietnamese": "Tôi bật (bấm) công tắc đèn."
+      }
+    ],
+    "question": {
+      "short": "部屋の電気をつけるとき、何を押すの？",
+      "polite": "照明は何を押しておつけになりますか？",
+      "reading": "へやのでんきをつけるとき、なにをおすの？",
+      "romaji": "heya no denki o tsukeru toki, nani o osu no?",
+      "vietnamese": "khi bật đèn phòng thì bấm cái gì / bật đèn bằng cái gì",
+      "variants": [
+        "heya no denki o tsukeru toki, nani o osu no",
+        "nani o osu no"
+      ]
+    },
+    "answer": {
+      "short": "壁にある丸いスイッチを押すよ！",
+      "reading": "かべにあるまるいすいっちをおすよ！",
+      "romaji": "kabe ni aru marui suicchi o osu yo!",
+      "vietnamese": "bấm công tắc tròn ở trên tường / công tắc",
+      "variants": [
+        "kabe ni aru marui suicchi o osu yo",
+        "suicchi o osu yo",
+        "suicchi da yo",
+        "suicchi",
+        "cong tac",
+        "nut bat"
+      ]
+    }
+  },
+  {
+    "term": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaning": "tủ lạnh",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:appliance",
+      "item:furniture",
+      "tone:polite"
+    ],
+    "id": 16,
+    "examples": [
+      {
+        "japanese": "冷蔵庫の中に、ビールがあります。",
+        "vietnamese": "Trong tủ lạnh có bia."
+      }
+    ],
+    "question": {
+      "short": "冷たい牛乳やアイス、どこに入れて冷やす？",
+      "polite": "食品はどちらにお入れになりますか？",
+      "reading": "つめたいぎゅうにゅうやあいす、どこにいれてひやす？",
+      "romaji": "tsumetai gyuunyuu ya aisu, doko ni irete hiyasu?",
+      "vietnamese": "sữa tươi và kem để vào đâu làm mát / cất đồ ăn ở đâu",
+      "variants": [
+        "tsumetai gyuunyuu ya aisu, doko ni irete hiyasu",
+        "doko ni ireru"
+      ]
+    },
+    "answer": {
+      "short": "キッチンの大きな冷蔵庫に入れるよ！",
+      "reading": "きっちんのおおきなれいぞうこにいれるよ！",
+      "romaji": "kicchin no ookina reizouko ni ireru yo!",
+      "vietnamese": "cho vào chiếc tủ lạnh to trong bếp / tủ lạnh",
+      "variants": [
+        "kicchin no ookina reizouko ni ireru yo",
+        "reizouko ni ireru yo",
+        "reizouko da yo",
+        "reizouko",
+        "tu lanh",
+        "trong tu lanh"
+      ]
+    }
+  },
+  {
+    "term": "テーブル",
+    "reading": "テーブル",
+    "romaji": "teeburu",
+    "meaning": "bàn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:furniture",
+      "item:furniture",
+      "tone:polite"
+    ],
+    "id": 17,
+    "examples": [
+      {
+        "japanese": "テーブルの上に、本があります。",
+        "vietnamese": "Trên bàn có quyển sách."
+      }
+    ],
+    "question": {
+      "short": "みんなで料理を並べて食べる場所、何？",
+      "polite": "お食事をお召し上がりになる台は何ですか？",
+      "reading": "みんなでりょうりをならべてたべるばしょ、なに？",
+      "romaji": "minna de ryouri o narabete taberu basho, nani?",
+      "vietnamese": "nơi mọi người bày đồ ăn ra ngồi ăn là cái gì / bày đồ ăn lên đâu",
+      "variants": [
+        "minna de ryouri o narabete taberu basho, nani",
+        "doko ni naraberu"
+      ]
+    },
+    "answer": {
+      "short": "木製のダイニングテーブルだよ！",
+      "reading": "もくせいのだいにんぐてーぶるだよ！",
+      "romaji": "mokusei no dainingu te-buru da yo!",
+      "vietnamese": "là chiếc bàn ăn bằng gỗ / bàn ăn",
+      "variants": [
+        "mokusei no dainingu te-buru da yo",
+        "te-buru da yo",
+        "te-buru",
+        "ban an",
+        "chiec ban"
+      ]
+    }
+  },
+  {
+    "term": "ベッド",
+    "reading": "ベッド",
+    "romaji": "beddo",
+    "meaning": "giường",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:furniture",
+      "item:furniture",
+      "tone:polite"
+    ],
+    "id": 18,
+    "examples": [
+      {
+        "japanese": "部屋に、ベッドがあります。",
+        "vietnamese": "Trong phòng có giường ngủ."
+      }
+    ],
+    "question": {
+      "short": "寝室でぐっすり眠るための家具、何？",
+      "polite": "お休みになる家具は何でございますか？",
+      "reading": "しんしつでぐっすりねむるためのかぐ、なに？",
+      "romaji": "shinshitsu de gussuri nemuru tame no kagu, nani?",
+      "vietnamese": "đồ nội thất để ngủ say trong phòng ngủ là gì / nằm ngủ trên cái gì",
+      "variants": [
+        "shinshitsu de gussuri nemuru tame no kagu, nani",
+        "kagu nani"
+      ]
+    },
+    "answer": {
+      "short": "ふかふかのスプリングベッドだよ！",
+      "reading": "ふかふかのすぷりんぐべっどだよ！",
+      "romaji": "fukafuka no supuringu beddo da yo!",
+      "vietnamese": "là chiếc giường đệm lò xo êm ái / chiếc giường",
+      "variants": [
+        "fukafuka no supuringu beddo da yo",
+        "beddo da yo",
+        "beddo",
+        "chiec giuong",
+        "giuong ngu"
+      ]
+    }
+  },
+  {
+    "term": "棚",
+    "reading": "たな",
+    "romaji": "tana",
+    "meaning": "giá sách",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:furniture",
+      "item:furniture",
+      "tone:polite"
+    ],
+    "id": 19,
+    "examples": [
+      {
+        "japanese": "棚の上に、時計があります。",
+        "vietnamese": "Trên giá có cái đồng hồ."
+      }
+    ],
+    "question": {
+      "short": "たくさんの本や書類をどこに並べる？",
+      "polite": "本はどちらにお並べになりますか？",
+      "reading": "たくさんのほんやしょるいをどこにならべる？",
+      "romaji": "takusan no hon ya shorui o doko ni naraberu?",
+      "vietnamese": "xếp nhiều sách và tài liệu lên đâu / sách xếp ở đâu",
+      "variants": [
+        "takusan no hon ya shorui o doko ni naraberu",
+        "doko ni naraberu"
+      ]
+    },
+    "answer": {
+      "short": "壁際の木製の本棚に並べるよ！",
+      "reading": "かべぎわのもくせいのほんだなにならべるよ！",
+      "romaji": "kabegiwa no mokusei no hondana ni naraberu yo!",
+      "vietnamese": "xếp lên giá sách gỗ sát tường / giá sách / kệ tủ",
+      "variants": [
+        "kabegiwa no mokusei no hondana ni naraberu yo",
+        "hondana ni naraberu yo",
+        "tana da yo",
+        "tana",
+        "gia sach",
+        "ke tu"
+      ]
+    }
+  },
+  {
+    "term": "ドア",
+    "reading": "ドア",
+    "romaji": "doa",
+    "meaning": "cửa",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:house",
+      "item:architecture",
+      "tone:polite"
+    ],
+    "id": 20,
+    "examples": [
+      {
+        "japanese": "ドアを、開けます。",
+        "vietnamese": "Tôi mở cửa."
+      }
+    ],
+    "question": {
+      "short": "部屋に入るとき、何を開けて入るの？",
+      "polite": "お部屋に入られる際は何をお開けになりますか？",
+      "reading": "へやにはいるとき、なにをあけてはいるの？",
+      "romaji": "heya ni hairu toki, nani o akete hairu no?",
+      "vietnamese": "khi vào phòng thì mở cái gì ra để vào / mở cái gì vào phòng",
+      "variants": [
+        "heya ni hairu toki, nani o akete hairu no",
+        "nani o akeru no"
+      ]
+    },
+    "answer": {
+      "short": "玄関の正面のドアを開けるよ！",
+      "reading": "げんかんのしょうめんのどあをあけるよ！",
+      "romaji": "genkan no shoumen no doa o akeru yo!",
+      "vietnamese": "mở cánh cửa chính diện ra vào / cánh cửa",
+      "variants": [
+        "genkan no shoumen no doa o akeru yo",
+        "doa o akeru yo",
+        "doa da yo",
+        "doa",
+        "canh cua",
+        "cua ra vao"
+      ]
+    }
+  },
+  {
+    "term": "窓",
+    "reading": "まど",
+    "romaji": "mado",
+    "meaning": "cửa sổ",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:house",
+      "item:architecture",
+      "tone:polite"
+    ],
+    "id": 21,
+    "examples": [
+      {
+        "japanese": "窓の近くに、机があります。",
+        "vietnamese": "Gần cửa sổ có một chiếc bàn."
+      }
+    ],
+    "question": {
+      "short": "部屋の空気を入れ換えるとき、何を開ける？",
+      "polite": "換気の際、何をお開けになりますか？",
+      "reading": "へやのくうきをいれかえるとき、なにをあける？",
+      "romaji": "heya no kuuki o irekaeru toki, nani o akeru?",
+      "vietnamese": "khi thông gió đổi không khí phòng thì mở cái gì / mở cái gì cho thoáng",
+      "variants": [
+        "heya no kuuki o irekaeru toki, nani o akeru",
+        "nani o akeru"
+      ]
+    },
+    "answer": {
+      "short": "風通しの良い大きな窓を開けるよ！",
+      "reading": "かぜとおしのよいおおきなまどをあけるよ！",
+      "romaji": "kazetooshi no yoi ookina mado o akeru yo!",
+      "vietnamese": "mở khung cửa sổ lớn thoáng gió / cửa sổ",
+      "variants": [
+        "kazetooshi no yoi ookina mado o akeru yo",
+        "mado o akeru yo",
+        "mado da yo",
+        "mado",
+        "cua so",
+        "khung cua so"
+      ]
+    }
+  },
+  {
+    "term": "ポスト",
+    "reading": "ポスト",
+    "romaji": "posuto",
+    "meaning": "hộp thư, hòm thư",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:communication",
+      "item:box",
+      "tone:polite"
+    ],
+    "id": 22,
+    "examples": [
+      {
+        "japanese": "ポストに、手紙を入れました。",
+        "vietnamese": "Tôi đã bỏ thư vào hòm thư."
+      }
+    ],
+    "question": {
+      "short": "手紙やハガキを出すとき、どこに投函する？",
+      "polite": "お手紙はどちらにご投函なさいますか？",
+      "reading": "てがみやはがきをだすとき、どこにとうかんする？",
+      "romaji": "tegami ya hagaki o dasu toki, doko ni toukan suru?",
+      "vietnamese": "gửi thư hoặc bưu thiếp thì bỏ vào đâu / thả thư vào đâu",
+      "variants": [
+        "tegami ya hagaki o dasu toki, doko ni toukan suru",
+        "doko ni toukan suru"
+      ]
+    },
+    "answer": {
+      "short": "街角の赤い郵便ポストに入れるよ！",
+      "reading": "まちかどのあかいゆうびんぽすとにいれるよ！",
+      "romaji": "machikado no akai yuubin posuto ni ireru yo!",
+      "vietnamese": "bỏ vào hòm thư bưu điện màu đỏ ở góc phố / hòm thư",
+      "variants": [
+        "machikado no akai yuubin posuto ni ireru yo",
+        "posuto ni ireru yo",
+        "posuto da yo",
+        "posuto",
+        "hom thu",
+        "thung thu"
+      ]
+    }
+  },
+  {
+    "term": "ビル",
+    "reading": "ビル",
+    "romaji": "biru",
+    "meaning": "tòa nhà",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:building",
+      "where:place",
+      "tone:polite"
+    ],
+    "id": 23,
+    "examples": [
+      {
+        "japanese": "駅の前に、高いビルがあります。",
+        "vietnamese": "Trước nhà ga có tòa nhà cao tầng."
+      }
+    ],
+    "question": {
+      "short": "駅前に高くそびえ立っている建物、何？",
+      "polite": "駅前の高層建築は何でございますか？",
+      "reading": "えきまえにたかくそびえたっているたてもの、なに？",
+      "romaji": "ekimae ni takaku sobietatte iru tatemono, nani?",
+      "vietnamese": "tòa công trình sừng sững trước ga là gì / tòa nhà trước ga là gì",
+      "variants": [
+        "ekimae ni takaku sobietatte iru tatemono, nani",
+        "tatemono nani"
+      ]
+    },
+    "answer": {
+      "short": "ガラス張りの高層オフィスビルだよ！",
+      "reading": "がらすばりのこうそうおふぃすびるだよ！",
+      "romaji": "garasubari no kousou ofisu biru da yo!",
+      "vietnamese": "là tòa nhà văn phòng cao tầng ốp kính / tòa nhà",
+      "variants": [
+        "garasubari no kousou ofisu biru da yo",
+        "ofisu biru da yo",
+        "biru da yo",
+        "biru",
+        "toa nha",
+        "cao oc"
+      ]
+    }
+  },
+  {
+    "term": "公園",
+    "reading": "こうえん",
+    "romaji": "kouen",
+    "meaning": "công viên",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:place",
+      "where:park",
+      "tone:polite"
+    ],
+    "id": 24,
+    "examples": [
+      {
+        "japanese": "公園へ、散歩に行きます。",
+        "vietnamese": "Tôi đi dạo ở công viên."
+      }
+    ],
+    "question": {
+      "short": "緑が多くて散歩やランニングができる場所、どこ？",
+      "polite": "お散歩ができる場所はどちらですか？",
+      "reading": "みどりがおおくてさんぽやらんにんぐができるばしょ、どこ？",
+      "romaji": "midori ga ookute sanpo ya ranningu ga dekiru basho, doko?",
+      "vietnamese": "nơi nhiều cây xanh có thể đi dạo và chạy bộ là đâu / đi dạo ở đâu",
+      "variants": [
+        "midori ga ookute sanpo ya ranningu ga dekiru basho, doko",
+        "basho doko"
+      ]
+    },
+    "answer": {
+      "short": "池がある大きな市民公園だよ！",
+      "reading": "いけがあるおおきなしみんこうえんだよ！",
+      "romaji": "ike ga aru ookina shimin kouen da yo!",
+      "vietnamese": "là công viên công cộng lớn có hồ nước / công viên",
+      "variants": [
+        "ike ga aru ookina shimin kouen da yo",
+        "shimin kouen da yo",
+        "kouen da yo",
+        "kouen",
+        "cong vien",
+        "o cong vien"
+      ]
+    }
+  },
+  {
+    "term": "喫茶店",
+    "reading": "きっさてん",
+    "romaji": "kissaten",
+    "meaning": "quán giải khát, quán cà-phê",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:place",
+      "where:cafe",
+      "tone:polite"
+    ],
+    "id": 25,
+    "examples": [
+      {
+        "japanese": "喫茶店で、コーヒーを飲みます。",
+        "vietnamese": "Tôi uống cà phê ở quán giải khát."
+      }
+    ],
+    "question": {
+      "short": "静かにコーヒーを飲みながら話す場所、どこへ行く？",
+      "polite": "お茶を召し上がる場所はどちらへ行かれますか？",
+      "reading": "しずかにこーひーをのみながらはなすばしょ、どこへいく？",
+      "romaji": "shizuka ni ko-hi- o nominagara hanasu basho, doko e iku?",
+      "vietnamese": "đi đâu uống cà phê yên tĩnh trò chuyện / uống cà phê ở đâu",
+      "variants": [
+        "shizuka ni ko-hi- o nominagara hanasu basho, doko e iku",
+        "doko e iku"
+      ]
+    },
+    "answer": {
+      "short": "レトロな落ち着く喫茶店へ行くよ！",
+      "reading": "れとろなおちつくきっさてんへいくよ！",
+      "romaji": "retoro na ochitsuku kissaten e iku yo!",
+      "vietnamese": "đi quán cà phê hoài cổ thư thái / quán cà phê",
+      "variants": [
+        "retoro na ochitsuku kissaten e iku yo",
+        "kissaten e iku yo",
+        "kissaten da yo",
+        "kissaten",
+        "quan ca phe",
+        "quan nuoc"
+      ]
+    }
+  },
+  {
+    "term": "本屋",
+    "reading": "ほんや",
+    "romaji": "hon'ya",
+    "meaning": "hiệu sách",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:place",
+      "where:shop",
+      "tone:polite"
+    ],
+    "id": 26,
+    "examples": [
+      {
+        "japanese": "本屋で、日本の本を買いました。",
+        "vietnamese": "Tôi đã mua sách tiếng Nhật ở hiệu sách."
+      }
+    ],
+    "question": {
+      "short": "最新の雑誌や漫画を買いにどこへ行く？",
+      "polite": "雑誌はお買い求めにどちらへ行かれますか？",
+      "reading": "さいしんのざっしやまんなをかいにどこへいく？",
+      "romaji": "saishin no zasshi ya manga o kai ni doko e iku?",
+      "vietnamese": "mua truyện tranh và tạp chí mới nhất ở đâu / mua sách ở đâu",
+      "variants": [
+        "saishin no zasshi ya manga o kai ni doko e iku",
+        "doko e iku"
+      ]
+    },
+    "answer": {
+      "short": "駅ビルの大型の本屋へ行くよ！",
+      "reading": "えきびるのおおがたのほんやへいくよ！",
+      "romaji": "ekibiru no oogata no hon'ya e iku yo!",
+      "vietnamese": "đi hiệu sách lớn ở tòa nhà ga / hiệu sách",
+      "variants": [
+        "ekibiru no oogata no hon'ya e iku yo",
+        "hon'ya e iku yo",
+        "hon'ya da yo",
+        "hon'ya",
+        "hieu sach",
+        "tiem sach"
+      ]
+    }
+  },
+  {
+    "term": "～屋",
+    "reading": "～や",
+    "romaji": "~ya",
+    "meaning": "hiệu ～, cửa hàng ～",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:place",
+      "topic:shop",
+      "tone:polite"
+    ],
+    "id": 27,
+    "examples": [
+      {
+        "japanese": "駅の前に、パン屋があります。",
+        "vietnamese": "Trước nhà ga có một tiệm bánh mì."
+      }
+    ],
+    "question": {
+      "short": "焼きたての美味しいパンを買うお店、何屋？",
+      "polite": "パンをお買い求めのお店は何屋ですか？",
+      "reading": "やきたてのおいしいぱんをかうおみせ、なんや？",
+      "romaji": "yakitate no oishii pan o kau omise, nan'ya?",
+      "vietnamese": "quán mua bánh mì mới nướng gọi là tiệm gì / quán gì",
+      "variants": [
+        "yakitate no oishii pan o kau omise, nan'ya",
+        "nan'ya"
+      ]
+    },
+    "answer": {
+      "short": "香ばしいパン屋（ぱんや）だよ！",
+      "reading": "こうばしいぱんやだよ！",
+      "romaji": "koubashii pan'ya da yo!",
+      "vietnamese": "là tiệm bánh mì thơm phức / tiệm bánh",
+      "variants": [
+        "koubashii pan'ya da yo",
+        "pan'ya da yo",
+        "pan'ya",
+        "tiem banh mi",
+        "tiem banh"
+      ]
+    }
+  },
+  {
+    "term": "乗り場",
+    "reading": "のりば",
+    "romaji": "noriba",
+    "meaning": "bến xe, điểm lên xuống xe",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:transportation",
+      "where:station",
+      "tone:polite"
+    ],
+    "id": 28,
+    "examples": [
+      {
+        "japanese": "タクシーの乗り場は、あそこです。",
+        "vietnamese": "Điểm đón xe taxi ở đằng kia."
+      }
+    ],
+    "question": {
+      "short": "タクシーに乗るとき、どこへ向かえばいい？",
+      "polite": "タクシーにはどちらでお乗りになりますか？",
+      "reading": "たくしーにのるとき、どこへむかえばいい？",
+      "romaji": "takushi- ni noru toki, doko e mukaeba ii?",
+      "vietnamese": "khi bắt taxi thì đi về hướng nào / đón taxi ở đâu",
+      "variants": [
+        "takushi- ni noru toki, doko e mukaeba ii",
+        "doko e iku"
+      ]
+    },
+    "answer": {
+      "short": "駅前ロータリーのタクシー乗り場だよ！",
+      "reading": "えきまえろーたりーのたくしーのりばだよ！",
+      "romaji": "ekimae ro-tari- no takushi- noriba da yo!",
+      "vietnamese": "điểm đón taxi ở bùng binh trước ga / điểm đón xe",
+      "variants": [
+        "ekimae ro-tari- no takushi- noriba da yo",
+        "noriba da yo",
+        "noriba",
+        "diem don xe",
+        "ben don xe"
+      ]
+    }
+  },
+  {
+    "term": "県",
+    "reading": "けん",
+    "romaji": "ken",
+    "meaning": "tỉnh",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:geography",
+      "where:place",
+      "tone:polite"
+    ],
+    "id": 29,
+    "examples": [
+      {
+        "japanese": "富士山は、静岡県と山梨県にあります。",
+        "vietnamese": "Núi Phú Sĩ nằm ở tỉnh Shizuoka và tỉnh Yamanashi."
+      }
+    ],
+    "question": {
+      "short": "富士山があるのは何県と何県？",
+      "polite": "富士山はどちらの県にございますか？",
+      "reading": "ふじさんがあるのはなんけんとなんけん？",
+      "romaji": "fujisan ga aru no wa nanken to nanken?",
+      "vietnamese": "núi phú sĩ nằm ở tỉnh nào và tỉnh nào / ở tỉnh nào",
+      "variants": [
+        "fujisan ga aru no wa nanken to nanken",
+        "nanken ni aru"
+      ]
+    },
+    "answer": {
+      "short": "静岡県と山梨県の２つの県だよ！",
+      "reading": "しずおかけんとやまなしけんのふたつのけんだよ！",
+      "romaji": "shizuoka-ken to yamanashi-ken no futatsu no ken da yo!",
+      "vietnamese": "nằm ở 2 tỉnh là tỉnh shizuoka và yamanashi / thuộc tỉnh",
+      "variants": [
+        "shizuoka-ken to yamanashi-ken no futatsu no ken da yo",
+        "shizuoka-ken da yo",
+        "ken da yo",
+        "ken",
+        "tinh shizuoka",
+        "tinh"
+      ]
+    }
+  },
+  {
+    "term": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "meaning": "trên",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:up",
+      "tone:polite"
+    ],
+    "id": 30,
+    "examples": [
+      {
+        "japanese": "机の上に、写真があります。",
+        "vietnamese": "Trên bàn có bức ảnh."
+      }
+    ],
+    "question": {
+      "short": "ペンやノートは机のどこに置いたの？",
+      "polite": "筆記用具は机のどちらに置かれましたか？",
+      "reading": "ぺんやのーとはつくえのどこにおいたの？",
+      "romaji": "pen ya no-to wa tsukue no doko ni oita no?",
+      "vietnamese": "bút và vở để ở đâu trên bàn thế / để ở đâu",
+      "variants": [
+        "pen ya no-to wa tsukue no doko ni oita no",
+        "doko ni oita no"
+      ]
+    },
+    "answer": {
+      "short": "すぐ取れるように机の上にあるよ！",
+      "reading": "すぐとれるようにつくえのうえにあるよ！",
+      "romaji": "sugu toreru you ni tsukue no ue ni aru yo!",
+      "vietnamese": "để ở ngay bên trên bàn cho dễ lấy / trên bàn",
+      "variants": [
+        "sugu toreru you ni tsukue no ue ni aru yo",
+        "tsukue no ue ni aru yo",
+        "ue ni aru yo",
+        "ue",
+        "tren ban",
+        "o tren"
+      ]
+    }
+  },
+  {
+    "term": "下",
+    "reading": "した",
+    "romaji": "shita",
+    "meaning": "dưới",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:down",
+      "tone:polite"
+    ],
+    "id": 31,
+    "examples": [
+      {
+        "japanese": "机の下に、猫がいます。",
+        "vietnamese": "Dưới gầm bàn có một con mèo."
+      }
+    ],
+    "question": {
+      "short": "落とした消しゴム、机のどこに落ちてる？",
+      "polite": "消しゴムはどちらに落ちていますか？",
+      "reading": "おとしたけしごむ、つくえのどこにおちてる？",
+      "romaji": "otoshita keshigomu, tsukue no doko ni ochiteru?",
+      "vietnamese": "cục tẩy bị rơi ở chỗ nào bàn thế / rơi ở đâu",
+      "variants": [
+        "otoshita keshigomu, tsukue no doko ni ochiteru",
+        "doko ni ochiteru"
+      ]
+    },
+    "answer": {
+      "short": "足元の机の下に落ちてるよ！",
+      "reading": "あしもとのつくえのしたにおちてるよ！",
+      "romaji": "ashimoto no tsukue no shita ni ochiteru yo!",
+      "vietnamese": "rơi ở dưới chân dưới gầm bàn đấy / ở dưới bàn",
+      "variants": [
+        "ashimoto no tsukue no shita ni ochiteru yo",
+        "tsukue no shita ni ochiteru yo",
+        "shita ni aru yo",
+        "shita",
+        "duoi gam ban",
+        "o duoi"
+      ]
+    }
+  },
+  {
+    "term": "前",
+    "reading": "まえ",
+    "romaji": "mae",
+    "meaning": "trước",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:front",
+      "tone:polite"
+    ],
+    "id": 32,
+    "examples": [
+      {
+        "japanese": "駅の前に、スーパーがあります。",
+        "vietnamese": "Trước nhà ga có siêu thị."
+      }
+    ],
+    "question": {
+      "short": "集合場所、駅のどこで待ってる？",
+      "polite": "お待ち合わせは駅のどちらですか？",
+      "reading": "しゅうごうばしょ、えきのどこでまってる？",
+      "romaji": "shuugou basho, eki no doko de matteru?",
+      "vietnamese": "điểm tập trung đứng đợi ở chỗ nào của nhà ga / đợi ở đâu",
+      "variants": [
+        "shuugou basho, eki no doko de matteru",
+        "doko de matteru"
+      ]
+    },
+    "answer": {
+      "short": "時計台がある駅の前で待ってるよ！",
+      "reading": "とけいだいがあるえきのまえでまってるよ！",
+      "romaji": "tokeidai ga aru eki no mae de matte iru yo!",
+      "vietnamese": "đang đợi ở đằng trước nhà ga chỗ cột đồng hồ / trước nhà ga",
+      "variants": [
+        "tokeidai ga aru eki no mae de matte iru yo",
+        "eki no mae de matte iru yo",
+        "mae da yo",
+        "mae",
+        "truoc nha ga",
+        "dang truoc"
+      ]
+    }
+  },
+  {
+    "term": "うしろ",
+    "reading": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "sau",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:back",
+      "tone:polite"
+    ],
+    "id": 33,
+    "examples": [
+      {
+        "japanese": "郵便局のうしろに、公園があります。",
+        "vietnamese": "Phía sau bưu điện có công viên."
+      }
+    ],
+    "question": {
+      "short": "教室であなたの席は先生から見てどこ？",
+      "polite": "お席はどちらでございますか？",
+      "reading": "きょうしつであなたのせきはせんせいからみてどこ？",
+      "romaji": "kyoushitsu de anata no seki wa sensei kara mite doko?",
+      "vietnamese": "trong lớp chỗ ngồi của bạn nhìn từ phía thầy giáo là ở đâu / ngồi chỗ nào",
+      "variants": [
+        "kyoushitsu de anata no seki wa sensei kara mite doko",
+        "seki wa doko"
+      ]
+    },
+    "answer": {
+      "short": "一番端っこのうしろの席だよ！",
+      "reading": "いちばんはしっこのうしろのせきだよ！",
+      "romaji": "ichiban hashikko no ushiro no seki da yo!",
+      "vietnamese": "là chỗ ngồi ở tít đằng sau cùng / ở phía sau",
+      "variants": [
+        "ichiban hashikko no ushiro no seki da yo",
+        "ushiro no seki da yo",
+        "ushiro da yo",
+        "ushiro",
+        "o phia sau",
+        "dang sau"
+      ]
+    }
+  },
+  {
+    "term": "右",
+    "reading": "みぎ",
+    "romaji": "migi",
+    "meaning": "phải",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:right",
+      "tone:polite"
+    ],
+    "id": 34,
+    "examples": [
+      {
+        "japanese": "本屋の右に、銀行があります。",
+        "vietnamese": "Bên phải hiệu sách có ngân hàng."
+      }
+    ],
+    "question": {
+      "short": "交差点をどちらへ曲がれば銀行がある？",
+      "polite": "交差点はどちらにお曲がりになりますか？",
+      "reading": "こうさてんをどちらへまがればぎんこうがある？",
+      "romaji": "kousaten o dochira e magareba ginkou ga aru?",
+      "vietnamese": "ngã tư rẽ hướng nào thì có ngân hàng / rẽ bên nào",
+      "variants": [
+        "kousaten o dochira e magareba ginkou ga aru",
+        "dochira e magaru"
+      ]
+    },
+    "answer": {
+      "short": "信号を右へ曲がるとすぐあるよ！",
+      "reading": "しんごうをみぎへまがるとすぐあるよ！",
+      "romaji": "shingou o migi e magaru to sugu aru yo!",
+      "vietnamese": "rẽ phải ở cột đèn tín hiệu là thấy ngay / rẽ phải",
+      "variants": [
+        "shingou o migi e magaru to sugu aru yo",
+        "migi e magaru yo",
+        "migi da yo",
+        "migi",
+        "re phai",
+        "ben phai"
+      ]
+    }
+  },
+  {
+    "term": "左",
+    "reading": "ひだり",
+    "romaji": "hidari",
+    "meaning": "trái",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:left",
+      "tone:polite"
+    ],
+    "id": 35,
+    "examples": [
+      {
+        "japanese": "花屋の左に、喫茶店があります。",
+        "vietnamese": "Bên trái tiệm hoa có quán giải khát."
+      }
+    ],
+    "question": {
+      "short": "ポストは郵便局の建物のどこにある？",
+      "polite": "ポストはどちらにございますか？",
+      "reading": "ぽすとはゆうびんきょくのたてもののどこにある？",
+      "romaji": "posuto wa yuubinkyoku no tatemono no doko ni aru?",
+      "vietnamese": "hòm thư nằm ở chỗ nào của tòa nhà bưu điện / nằm ở bên nào",
+      "variants": [
+        "posuto wa yuubinkyoku no tatemono no doko ni aru",
+        "doko ni aru"
+      ]
+    },
+    "answer": {
+      "short": "入り口のすぐ左側にあるよ！",
+      "reading": "いりぐちのすぐひだりがわにあるよ！",
+      "romaji": "iriguchi no sugu hidarigawa ni aru yo!",
+      "vietnamese": "nằm ngay ở phía bên trái lối vào / bên trái",
+      "variants": [
+        "iriguchi no sugu hidarigawa ni aru yo",
+        "hidarigawa ni aru yo",
+        "hidari da yo",
+        "hidari",
+        "phia ben trai",
+        "ben trai"
+      ]
+    }
+  },
+  {
+    "term": "中",
+    "reading": "なか",
+    "romaji": "naka",
+    "meaning": "trong, giữa",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:in",
+      "tone:polite"
+    ],
+    "id": 36,
+    "examples": [
+      {
+        "japanese": "かばんの中に、財布があります。",
+        "vietnamese": "Trong cặp có cái ví."
+      }
+    ],
+    "question": {
+      "short": "鍵はカバンのどこにしまったの？",
+      "polite": "鍵はどちらにおしまいになりましたか？",
+      "reading": "かぎはかばんのどこにしまったの？",
+      "romaji": "kagi wa kaban no doko ni shimatta no?",
+      "vietnamese": "chìa khóa cất ở đâu trong cặp thế / cất ở đâu",
+      "variants": [
+        "kagi wa kaban no doko ni shimatta no",
+        "doko ni shimatta no"
+      ]
+    },
+    "answer": {
+      "short": "安全なカバンの中のポケットだよ！",
+      "reading": "あんぜんなかばんのなかのぽけっとだよ！",
+      "romaji": "anzen na kaban no naka no poketto da yo!",
+      "vietnamese": "ở túi bên trong chiếc cặp an toàn / ở bên trong",
+      "variants": [
+        "anzen na kaban no naka no poketto da yo",
+        "kaban no naka da yo",
+        "naka da yo",
+        "naka",
+        "o ben trong",
+        "trong cap"
+      ]
+    }
+  },
+  {
+    "term": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "meaning": "ngoài",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "direction:out",
+      "tone:polite"
+    ],
+    "id": 37,
+    "examples": [
+      {
+        "japanese": "外は、とても寒いです。",
+        "vietnamese": "Bên ngoài trời rất lạnh."
+      }
+    ],
+    "question": {
+      "short": "雨が降っているかどうか、どこを見て確認する？",
+      "polite": "雨はどちらを見てご確認なさいますか？",
+      "reading": "あめがふっているかどうか、どこをみてかくにんする？",
+      "romaji": "ame ga futte iru ka dou ka, doko o mite kakunin suru?",
+      "vietnamese": "trời có mưa hay không nhìn ra đâu để kiểm tra / nhìn ra đâu",
+      "variants": [
+        "ame ga futte iru ka dou ka, doko o mite kakunin suru",
+        "doko o miru"
+      ]
+    },
+    "answer": {
+      "short": "窓を開けて家の外を見るよ！",
+      "reading": "まどをあけていえのそとをみるよ！",
+      "romaji": "mado o akete ie no soto o miru yo!",
+      "vietnamese": "mở cửa sổ nhìn ra bên ngoài nhà / bên ngoài",
+      "variants": [
+        "mado o akete ie no soto o miru yo",
+        "ie no soto o miru yo",
+        "soto da yo",
+        "soto",
+        "o ben ngoai",
+        "ngoai troi"
+      ]
+    }
+  },
+  {
+    "term": "隣",
+    "reading": "となり",
+    "romaji": "tonari",
+    "meaning": "bên cạnh",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "tone:polite"
+    ],
+    "id": 38,
+    "examples": [
+      {
+        "japanese": "コンビニの隣に、本屋があります。",
+        "vietnamese": "Bên cạnh cửa hàng tiện lợi có hiệu sách."
+      }
+    ],
+    "question": {
+      "short": "あなたの家のすぐ横には何がある？",
+      "polite": "ご自宅のお隣には何がございますか？",
+      "reading": "あなたのいえのすぐよこにはなにがある？",
+      "romaji": "anata no ie no sugu yoko ni wa nani ga aru?",
+      "vietnamese": "ngay sát cạnh nhà bạn có cái gì thế / bên cạnh có gì",
+      "variants": [
+        "anata no ie no sugu yoko ni wa nani ga aru",
+        "yoko ni nani ga aru"
+      ]
+    },
+    "answer": {
+      "short": "便利なお隣のコンビニがあるよ！",
+      "reading": "べんりなおとなりのこんびにがあるよ！",
+      "romaji": "benri na otonari no konbini ga aru yo!",
+      "vietnamese": "có cửa hàng tiện lợi ngay bên cạnh / ngay bên cạnh",
+      "variants": [
+        "benri na otonari no konbini ga aru yo",
+        "tonari no konbini da yo",
+        "tonari da yo",
+        "tonari",
+        "ngay ben canh",
+        "ben canh"
+      ]
+    }
+  },
+  {
+    "term": "近く",
+    "reading": "ちかく",
+    "romaji": "chikaku",
+    "meaning": "gần",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "tone:polite"
+    ],
+    "id": 39,
+    "examples": [
+      {
+        "japanese": "家の近くに、公園があります。",
+        "vietnamese": "Gần nhà tôi có công viên."
+      }
+    ],
+    "question": {
+      "short": "アパートの周り、歩いてすぐの場所に何がある？",
+      "polite": "アパートの周辺には何がございますか？",
+      "reading": "あぱーとのまわり、あるいてすぐのばしょになにがある？",
+      "romaji": "apa-to no mawari, aruite sugu no basho ni nani ga aru?",
+      "vietnamese": "quanh căn hộ đi bộ một chút có gì / gần nhà có gì",
+      "variants": [
+        "apa-to no mawari, aruite sugu no basho ni nani ga aru",
+        "mawari ni nani ga aru"
+      ]
+    },
+    "answer": {
+      "short": "歩いて行ける近くに駅があるよ！",
+      "reading": "あるいていけるちかくにえきがあるよ！",
+      "romaji": "aruite ikeru chikaku ni eki ga aru yo!",
+      "vietnamese": "có nhà ga ở ngay gần đi bộ tới được / ở gần đó",
+      "variants": [
+        "aruite ikeru chikaku ni eki ga aru yo",
+        "chikaku ni eki ga aru yo",
+        "chikaku da yo",
+        "chikaku",
+        "o ngay gan",
+        "o gan"
+      ]
+    }
+  },
+  {
+    "term": "間",
+    "reading": "あいだ",
+    "romaji": "aida",
+    "meaning": "giữa",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "tone:polite"
+    ],
+    "id": 40,
+    "examples": [
+      {
+        "japanese": "本屋と花屋の間に、銀行があります。",
+        "vietnamese": "Ở giữa hiệu sách và tiệm hoa có ngân hàng."
+      }
+    ],
+    "question": {
+      "short": "銀行と郵便局のちょうど真ん中に何がある？",
+      "polite": "銀行と郵便局の間には何がございますか？",
+      "reading": "ぎんこうとゆうびんきょくのちょうどまんなかになにがある？",
+      "romaji": "ginkou to yuubinkyoku no choudo mannaka ni nani ga aru?",
+      "vietnamese": "ngay chính giữa ngân hàng và bưu điện có cái gì / ở giữa có gì",
+      "variants": [
+        "ginkou to yuubinkyoku no choudo mannaka ni nani ga aru",
+        "mannaka ni nani ga aru"
+      ]
+    },
+    "answer": {
+      "short": "二つの建物の間に花屋があるよ！",
+      "reading": "ふたつのたてもののあいだにはなやがあるよ！",
+      "romaji": "futatsu no tatemono no aida ni hanaya ga aru yo!",
+      "vietnamese": "ở giữa hai tòa nhà có tiệm bán hoa / ở giữa",
+      "variants": [
+        "futatsu no tatemono no aida ni hanaya ga aru yo",
+        "tatemono no aida da yo",
+        "aida da yo",
+        "aida",
+        "o giua",
+        "o khoang giua"
+      ]
+    }
+  },
+  {
+    "term": "～や ～[など]",
+    "reading": "～や ～[など]",
+    "romaji": "~ya ~[nado]",
+    "meaning": "～ và ～, [v.v.]",
+    "level": "N5",
+    "type": "Trợ từ",
+    "tags": [
+      "topic:grammar",
+      "topic:particle",
+      "tone:polite"
+    ],
+    "id": 41,
+    "examples": [
+      {
+        "japanese": "箱の中に、手紙や写真などがあります。",
+        "vietnamese": "Trong hộp có thư, ảnh, v.v."
+      }
+    ],
+    "question": {
+      "short": "カバンの中にどんな文房具が入ってる？",
+      "polite": "かばんの中には何が入っていますか？",
+      "reading": "かばんのなかにどんなぶんぼうぐがはいってる？",
+      "romaji": "kaban no naka ni donna bunbougu ga haitteru?",
+      "vietnamese": "trong cặp có những đồ văn phòng phẩm nào / có những gì trong cặp",
+      "variants": [
+        "kaban no naka ni donna bunbougu ga haitteru",
+        "nani ga haitteru"
+      ]
+    },
+    "answer": {
+      "short": "ノートやペンなどが入ってるよ！",
+      "reading": "のーとやぺんなどがはいってるよ！",
+      "romaji": "no-to ya pen nado ga haitteru yo!",
+      "vietnamese": "có vở và bút vân vân / như là vở và bút",
+      "variants": [
+        "no-to ya pen nado ga haitteru yo",
+        "no-to ya pen nado da yo",
+        "no-to ya pen",
+        "vo va but",
+        "nhu la vo va but"
+      ]
+    }
+  },
+  {
+    "term": "いちばん ～",
+    "reading": "いちばん ～",
+    "romaji": "ichiban ~",
+    "meaning": "～ nhất (いちばん うえ: vị trí cao nhất)",
+    "level": "N5",
+    "type": "Phó từ",
+    "tags": [
+      "topic:degree",
+      "tone:polite"
+    ],
+    "id": 42,
+    "examples": [
+      {
+        "japanese": "棚のいちばん上に、本があります。",
+        "vietnamese": "Ở tầng cao nhất của kệ có sách."
+      }
+    ],
+    "question": {
+      "short": "棚の中で取り出しやすい場所はどこ？",
+      "polite": "一番取り出しやすいのはどこですか？",
+      "reading": "たなのなかでとりだしやすいばしょはどこ？",
+      "romaji": "tana no naka de toridashiyasui basho wa doko?",
+      "vietnamese": "vị trí dễ lấy nhất trên giá là ở đâu / chỗ nào dễ lấy nhất",
+      "variants": [
+        "tana no naka de toridashiyasui basho wa doko",
+        "basho wa doko"
+      ]
+    },
+    "answer": {
+      "short": "手の届くいちばん上の段だよ！",
+      "reading": "てのとどくいちばんうえのだんだよ！",
+      "romaji": "te no todoku ichiban ue no dan da yo!",
+      "vietnamese": "tầng trên cùng trong tầm với / trên cùng",
+      "variants": [
+        "te no todoku ichiban ue no dan da yo",
+        "ichiban ue da yo",
+        "ichiban ue",
+        "tren cung",
+        "tang tren cung"
+      ]
+    }
+  },
+  {
+    "term": "－段目",
+    "reading": "－だんめ",
+    "romaji": "-danme",
+    "meaning": "giá thứ －, tầng thứ － (「だん」được dùng cho giá sách v.v.)",
+    "level": "N5",
+    "type": "Lượng từ",
+    "tags": [
+      "topic:counter",
+      "topic:order",
+      "tone:polite"
+    ],
+    "id": 43,
+    "examples": [
+      {
+        "japanese": "棚の二段目に、ノートがあります。",
+        "vietnamese": "Ở tầng thứ hai của giá có cuốn vở."
+      }
+    ],
+    "question": {
+      "short": "探している辞書、本棚のどこにある？",
+      "polite": "辞書は本棚のどちらにございますか？",
+      "reading": "さがしているじしょ、ほんだなのどこにある？",
+      "romaji": "sagashite iru jisho, hondana no doko ni aru?",
+      "vietnamese": "từ điển đang tìm ở tầng mấy giá sách / ở ngăn nào",
+      "variants": [
+        "sagashite iru jisho, hondana no doko ni aru",
+        "doko ni aru"
+      ]
+    },
+    "answer": {
+      "short": "上から数えて２段目にあるよ！",
+      "reading": "うえからかぞえてにだんめにあるよ！",
+      "romaji": "ue kara kazoete nidanme ni aru yo!",
+      "vietnamese": "nằm ở tầng thứ hai đếm từ trên xuống / tầng thứ hai",
+      "variants": [
+        "ue kara kazoete nidanme ni aru yo",
+        "nidanme ni aru yo",
+        "nidanme da yo",
+        "nidanme",
+        "tang thu 2",
+        "ngan thu 2"
+      ]
+    }
+  },
+  {
+    "term": "どうも すみません。",
+    "reading": "どうも すみません。",
+    "romaji": "doumo sumimasen",
+    "meaning": "Cám ơn.",
+    "level": "N5",
+    "type": "Cụm từ",
+    "tags": [
+      "topic:greeting",
+      "topic:conversation",
+      "tone:polite"
+    ],
+    "id": 44,
+    "examples": [
+      {
+        "japanese": "荷物を持ってくれて、どうもすみません。",
+        "vietnamese": "Cảm ơn bạn đã xách đồ giúp tôi."
+      }
+    ],
+    "question": {
+      "short": "落とした財布を拾ってもらったら何て感謝する？",
+      "polite": "お礼をお伝えする際は何とおっしゃいますか？",
+      "reading": "おとしたさいふをひろってもらったらなんてかんしゃする？",
+      "romaji": "otoshita saifu o hirotte morattara nante kansha suru?",
+      "vietnamese": "được nhặt giúp ví tiền rơi thì cảm ơn thế nào / cảm ơn người nhặt đồ thế nào",
+      "variants": [
+        "otoshita saifu o hirotte morattara nante kansha suru",
+        "nante kansha suru"
+      ]
+    },
+    "answer": {
+      "short": "深くお礼を言って「どうもすみません！」と感謝するよ！",
+      "reading": "ふかくおれいをいって「どうもすみません！」とかんしゃするよ！",
+      "romaji": "fukaku orei o itte \"doumo sumimasen!\" to kansha suru yo!",
+      "vietnamese": "cảm ơn chân thành xin cảm ơn bạn rất nhiều / cảm ơn rất nhiều",
+      "variants": [
+        "fukaku orei o itte doumo sumimasen to kansha suru yo",
+        "doumo sumimasen to kansha suru yo",
+        "doumo sumimasen",
+        "cam on rat nhieu",
+        "xin cam on"
+      ]
+    }
+  },
+  {
+    "term": "チリソース",
+    "reading": "チリソース",
+    "romaji": "chiri soosu",
+    "meaning": "tương ớt (chili sauce)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:food",
+      "item:seasoning",
+      "tone:polite"
+    ],
+    "id": 45,
+    "examples": [
+      {
+        "japanese": "チリソースは、ありますか。",
+        "vietnamese": "Có tương ớt không ạ?"
+      }
+    ],
+    "question": {
+      "short": "エビフライや生春巻きにつける辛い調味料、何？",
+      "polite": "生春巻きにつける調味料は何ですか？",
+      "reading": "えびふらいやなまはるまきにつけるからいちょうみりょう、なに？",
+      "romaji": "ebifurai ya namaharumaki ni tsukeru karai choumiryou, nani?",
+      "vietnamese": "gia vị cay chấm cùng gỏi cuốn hay tôm chiên là gì / sốt cay chấm gỏi cuốn là gì",
+      "variants": [
+        "ebifurai ya namaharumaki ni tsukeru karai choumiryou, nani",
+        "choumiryou nani"
+      ]
+    },
+    "answer": {
+      "short": "ピリッと辛いチリソースだよ！",
+      "reading": "ぴりっとからいちりそーすだよ！",
+      "romaji": "piritto karai chiri so-su da yo!",
+      "vietnamese": "là tương ớt chili sauce cay tê lưỡi / tương ớt",
+      "variants": [
+        "piritto karai chiri so-su da yo",
+        "chiri so-su da yo",
+        "chiri so-su",
+        "tuong ot",
+        "sot ot"
+      ]
+    }
+  },
+  {
+    "term": "奥",
+    "reading": "おく",
+    "romaji": "oku",
+    "meaning": "bên trong cùng, phía sâu bên trong",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:position",
+      "tone:polite"
+    ],
+    "id": 46,
+    "examples": [
+      {
+        "japanese": "店の奥に、トイレがあります。",
+        "vietnamese": "Nhà vệ sinh ở tận phía trong cùng của quán."
+      }
+    ],
+    "question": {
+      "short": "お店のトイレ、どこにあるの？",
+      "polite": "お手洗いはどちらにございますか？",
+      "reading": "おみせのといれ、どこにあるの？",
+      "romaji": "omise no toire, doko ni aru no?",
+      "vietnamese": "nhà vệ sinh của quán nằm ở đâu thế / vệ sinh ở đâu",
+      "variants": [
+        "omise no toire, doko ni aru no",
+        "toire doko"
+      ]
+    },
+    "answer": {
+      "short": "通路をまっすぐ進んだ一番奥にあるよ！",
+      "reading": "つうろをまっすぐすすんだいちばんおくにあるよ！",
+      "romaji": "tsuuro o massugu susunda ichiban oku ni aru yo!",
+      "vietnamese": "đi thẳng hành lang nằm ở tận phía trong cùng / trong cùng",
+      "variants": [
+        "tsuuro o massugu susunda ichiban oku ni aru yo",
+        "ichiban oku ni aru yo",
+        "oku da yo",
+        "oku",
+        "o trong cung",
+        "tan cung"
+      ]
+    }
+  },
+  {
+    "term": "スパイス・コーナー",
+    "reading": "スパイス・コーナー",
+    "romaji": "supaisu koonaa",
+    "meaning": "góc gia vị (spice corner)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:shop",
+      "where:place",
+      "tone:polite"
+    ],
+    "id": 47,
+    "examples": [
+      {
+        "japanese": "スパイス・コーナーは、どこですか。",
+        "vietnamese": "Góc gia vị ở đâu vậy?"
+      }
+    ],
+    "question": {
+      "short": "カレー粉やコショウを買う売場、どこへ行く？",
+      "polite": "香辛料はどちらの売場にございますか？",
+      "reading": "かれーこやこしょうをかううりば、どこへいく？",
+      "romaji": "kare-ko ya koshou o kau uriba, doko e iku?",
+      "vietnamese": "quầy mua bột cà ri và hạt tiêu đi đâu tìm / mua gia vị ở quầy nào",
+      "variants": [
+        "kare-ko ya koshou o kau uriba, doko e iku",
+        "uriba doko"
+      ]
+    },
+    "answer": {
+      "short": "調味料売り場のスパイス・コーナーだよ！",
+      "reading": "ちょうみりょううりばのすぱいす・こーなーだよ！",
+      "romaji": "choumiryou uriba no supaisu ko-na- da yo!",
+      "vietnamese": "góc quầy gia vị ở khu vực gia vị / góc gia vị",
+      "variants": [
+        "choumiryou uriba no supaisu ko-na- da yo",
+        "supaisu ko-na- da yo",
+        "supaisu ko-na-",
+        "goc gia vi",
+        "quay gia vi"
+      ]
+    }
+  },
+  {
+    "term": "東京ディズニーランド",
+    "reading": "とうきょうディズニーランド",
+    "romaji": "toukyou dizuniirando",
+    "meaning": "Công viên Tokyo Disneyland",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:entertainment",
+      "where:park",
+      "tone:polite"
+    ],
+    "id": 48,
+    "examples": [
+      {
+        "japanese": "東京ディズニーランドへ、行きたいです。",
+        "vietnamese": "Tôi muốn đi công viên Tokyo Disneyland."
+      }
+    ],
+    "question": {
+      "short": "ミッキーマウスに会える千葉県の有名テーマパーク、どこ？",
+      "polite": "ミッキーマウスに会えるテーマパークはどちらですか？",
+      "reading": "みっきーまうすにあえるちばけんのゆうめいてーまぱーく、どこ？",
+      "romaji": "mikki- mausu ni aeru chiba-ken no yuumei te-ma pa-ku, doko?",
+      "vietnamese": "công viên chủ đề nổi tiếng ở chiba gặp được chuột mickey là đâu / công viên nào ở chiba",
+      "variants": [
+        "mikki- mausu ni aeru chiba-ken no yuumei te-ma pa-ku, doko",
+        "te-ma pa-ku doko"
+      ]
+    },
+    "answer": {
+      "short": "夢の国、東京ディズニーランドだよ！",
+      "reading": "ゆめのくに、とうきょうでぃずにーらんどだよ！",
+      "romaji": "yume no kuni, toukyou dizuni-rando da yo!",
+      "vietnamese": "vương quốc trong mơ tokyo disneyland / tokyo disneyland",
+      "variants": [
+        "yume no kuni, toukyou dizuni-rando da yo",
+        "toukyou dizuni-rando da yo",
+        "toukyou dizuni-rando",
+        "tokyo disneyland",
+        "disneyland"
+      ]
+    }
+  },
+  {
+    "term": "ユニューヤ・ストア",
+    "reading": "ユニューヤ・ストア",
+    "romaji": "yunyuuya sutoa",
+    "meaning": "tên một siêu thị (giả tưởng)",
+    "level": "N5",
+    "type": "Danh từ riêng",
+    "tags": [
+      "topic:shop",
+      "where:store",
+      "tone:polite"
+    ],
+    "id": 49,
+    "examples": [
+      {
+        "japanese": "ユニューヤ・ストアで、買い物をします。",
+        "vietnamese": "Tôi mua sắm ở siêu thị Yunyuya Store."
+      }
+    ],
+    "question": {
+      "short": "海外の珍しい輸入食品が揃っているスーパー、どこ？",
+      "polite": "輸入食品が豊富なお店はどちらですか？",
+      "reading": "かいがいのめずらしいゆにゅうしょくひんがそろっているすーぱー、どこ？",
+      "romaji": "kaigai no mezurashii yunyuu shokuhin ga sorotte iru su-pa-, doko?",
+      "vietnamese": "siêu thị bày bán đủ loại thực phẩm nhập khẩu lạ từ nước ngoài là đâu / siêu thị hàng nhập khẩu nào",
+      "variants": [
+        "kaigai no mezurashii yunyuu shokuhin ga sorotte iru su-pa-, doko",
+        "su-pa- doko"
+      ]
+    },
+    "answer": {
+      "short": "品揃え抜群のユニューヤ・ストアだよ！",
+      "reading": "しなぞろえばつぐんのゆにゅーや・すとあだよ！",
+      "romaji": "shinazoroe batsugun no yunyu-ya sutoa da yo!",
+      "vietnamese": "là siêu thị yunyuuya store phong phú hàng hóa / yunyuuya store",
+      "variants": [
+        "shinazoroe batsugun no yunyu-ya sutoa da yo",
+        "yunyu-ya sutoa da yo",
+        "yunyu-ya sutoa",
+        "sieu thi yunyuuya store",
+        "yunyuuya store"
+      ]
+    }
+  }
+]

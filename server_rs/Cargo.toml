@@ -1,0 +1,20 @@
+[package]
+name = "minna_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tiny_http = "0.12"
+ureq = { version = "2", default-features = false, features = ["json"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+regex = "1"
+md-5 = "0.10"
+unicode-normalization = "0.1"
+lru = "0.12"
+urlencoding = "2"
+
+[profile.release]
+opt-level = 3
+lto = true
+strip = true

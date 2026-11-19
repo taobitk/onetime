@@ -1,0 +1,1222 @@
+[
+  {
+    "id": 1,
+    "term": "立つ",
+    "reading": "たつ",
+    "romaji": "tatsu",
+    "meaning": "đứng [Nhóm 1: 立ちます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "先生が来たらどうする？",
+      "polite": "先生が来られたらどうしますか？",
+      "reading": "せんせいがきたらどうする？",
+      "romaji": "sensei ga kitara dou suru?",
+      "vietnamese": "Thầy cô đến thì làm gì?",
+      "variants": [
+        "sensei ga kitara dou suru",
+        "dou suru",
+        "lam gi"
+      ]
+    },
+    "answer": {
+      "short": "席から立つよ！",
+      "reading": "せきからたつよ！",
+      "romaji": "seki kara tatsu yo!",
+      "vietnamese": "Đứng dậy khỏi chỗ ngồi!",
+      "variants": [
+        "seki kara tatsu yo",
+        "seki kara tatsu",
+        "tatsu yo",
+        "tatsu",
+        "dung day"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ここに立ってはいけません。",
+        "vietnamese": "Không được đứng ở đây."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "term": "座る",
+    "reading": "すわる",
+    "romaji": "suwaru",
+    "meaning": "ngồi [Nhóm 1: 座ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "この椅子に座ってもいい？",
+      "polite": "この椅子に座ってもいいですか？",
+      "reading": "このいすにすわってもいい？",
+      "romaji": "kono isu ni suwatte mo ii?",
+      "vietnamese": "Ngồi vào chiếc ghế này có được không?",
+      "variants": [
+        "kono isu ni suwatte mo ii",
+        "kono isu ni suwatte mo ii desu ka",
+        "suwatte mo ii",
+        "ngoi duoc khong"
+      ]
+    },
+    "answer": {
+      "short": "どうぞ、座って！",
+      "reading": "どうぞ、すわって！",
+      "romaji": "douzo, suwatte!",
+      "vietnamese": "Xin mời ngồi!",
+      "variants": [
+        "douzo suwatte",
+        "suwatte",
+        "douzo",
+        "moi ngoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "どうぞ、そこに座ってください。",
+        "vietnamese": "Xin mời bạn ngồi ở đằng kia."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "term": "使う",
+    "reading": "つかう",
+    "romaji": "tsukau",
+    "meaning": "dùng, sử dụng [Nhóm 1: 使います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "このパソコンを使ってもいい？",
+      "polite": "このパソコンを使ってもよろしいですか？",
+      "reading": "このぱそこんをつかってもいい？",
+      "romaji": "kono pasokon o tsukatte mo ii?",
+      "vietnamese": "Tôi dùng máy tính này có được không?",
+      "variants": [
+        "kono pasokon o tsukatte mo ii",
+        "tsukatte mo ii",
+        "dung duoc khong"
+      ]
+    },
+    "answer": {
+      "short": "うん、自由に使っていいよ！",
+      "reading": "うん、じゆうにつかっていいよ！",
+      "romaji": "un, jiyuu ni tsukatte ii yo!",
+      "vietnamese": "Ừ, cứ tự nhiên dùng nhé!",
+      "variants": [
+        "un jiyuu ni tsukatte ii yo",
+        "jiyuu ni tsukatte ii yo",
+        "tsukatte ii yo",
+        "dung di"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ここで携帯電話を使ってはいけません。",
+        "vietnamese": "Không được dùng điện thoại di động ở đây."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "term": "置く",
+    "reading": "おく",
+    "romaji": "oku",
+    "meaning": "đặt, để [Nhóm 1: 置きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "荷物はどこに置く？",
+      "polite": "お荷物はどちらに置きますか？",
+      "reading": "にもつはどこにおく？",
+      "romaji": "nimotsu wa doko ni oku?",
+      "vietnamese": "Hành lý thì để ở đâu?",
+      "variants": [
+        "nimotsu wa doko ni oku",
+        "doko ni oku",
+        "de o dau"
+      ]
+    },
+    "answer": {
+      "short": "机の上に置くよ！",
+      "reading": "つくえのうえにおくよ！",
+      "romaji": "tsukue no ue ni oku yo!",
+      "vietnamese": "Đặt trên bàn nhé!",
+      "variants": [
+        "tsukue no ue ni oku yo",
+        "tsukue no ue ni oku",
+        "oku yo",
+        "de tren ban"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ここに荷物を置かないでください。",
+        "vietnamese": "Xin đừng để hành lý ở đây."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "term": "作る",
+    "reading": "つくる",
+    "romaji": "tsukuru",
+    "meaning": "làm, chế tạo, sản xuất [Nhóm 1: 作ります、造ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "今日の晩ご飯は何を作る？",
+      "polite": "今日の晩ご飯は何を作りますか？",
+      "reading": "きょうのばんごはんはなにをつくる？",
+      "romaji": "kyou no bangohan wa nani o tsukuru?",
+      "vietnamese": "Bữa tối hôm nay bạn nấu món gì?",
+      "variants": [
+        "kyou no bangohan wa nani o tsukuru",
+        "nani o tsukuru",
+        "nau mon gi"
+      ]
+    },
+    "answer": {
+      "short": "カレーを作るよ！",
+      "reading": "かれーをつくるよ！",
+      "romaji": "karee o tsukuru yo!",
+      "vietnamese": "Mình nấu món cà ri nhé!",
+      "variants": [
+        "karee o tsukuru yo",
+        "karee o tsukuru",
+        "tsukuru yo",
+        "nau ca ri"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "この会社は車を作っています。",
+        "vietnamese": "Công ty này sản xuất ô tô."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "term": "売る",
+    "reading": "うる",
+    "romaji": "uru",
+    "meaning": "bán [Nhóm 1: 売ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:shopping",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "あの店で何を売ってる？",
+      "polite": "あのお店では何を売っていますか？",
+      "reading": "あのみせでなにをうってる？",
+      "romaji": "ano mise de nani o utteru?",
+      "vietnamese": "Tiệm đằng kia bán cái gì vậy?",
+      "variants": [
+        "ano mise de nani o utteru",
+        "nani o utteru",
+        "ban cai gi"
+      ]
+    },
+    "answer": {
+      "short": "古い本を売ってるよ！",
+      "reading": "ふるいほんをうってるよ！",
+      "romaji": "furui hon o utteru yo!",
+      "vietnamese": "Bán sách cũ đó!",
+      "variants": [
+        "furui hon o utteru yo",
+        "furui hon o utteru",
+        "utteru yo",
+        "ban sach cu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "あのスーパーでは日本の物を売っています。",
+        "vietnamese": "Siêu thị đó có bán đồ Nhật Bản."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "term": "知る",
+    "reading": "しる",
+    "romaji": "shiru",
+    "meaning": "biết [Nhóm 1: 知ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:mind",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "あの人の名前を知ってる？",
+      "polite": "あの方のお名前をご存知ですか？",
+      "reading": "あのひとのなまえをしってる？",
+      "romaji": "ano hito no namae o shitteru?",
+      "vietnamese": "Bạn có biết tên người kia không?",
+      "variants": [
+        "ano hito no namae o shitteru",
+        "shitteru",
+        "co biet khong"
+      ]
+    },
+    "answer": {
+      "short": "うん、よく知ってるよ！",
+      "reading": "うん、よくしってるよ！",
+      "romaji": "un, yoku shitteru yo!",
+      "vietnamese": "Ừ, mình biết rõ lắm!",
+      "variants": [
+        "un yoku shitteru yo",
+        "yoku shitteru yo",
+        "shitteru yo",
+        "biet ro"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "山田さんの電話番号を知っていますか。",
+        "vietnamese": "Bạn có biết số điện thoại của anh Yamada không?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "term": "住む",
+    "reading": "すむ",
+    "romaji": "sumu",
+    "meaning": "sống, ở, sinh sống [Nhóm 1: 住みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "将来はどこに住みたい？",
+      "polite": "将来はどちらに住みたいですか？",
+      "reading": "しょうらいはどこにすみたい？",
+      "romaji": "shourai wa doko ni sumitai?",
+      "vietnamese": "Tương lai bạn muốn sống ở đâu?",
+      "variants": [
+        "shourai wa doko ni sumitai",
+        "doko ni sumitai",
+        "muon song o dau"
+      ]
+    },
+    "answer": {
+      "short": "東京に住みたいよ！",
+      "reading": "とうきょうにすみたいよ！",
+      "romaji": "toukyou ni sumitai yo!",
+      "vietnamese": "Muốn sống ở Tokyo!",
+      "variants": [
+        "toukyou ni sumitai yo",
+        "toukyou ni sumitai",
+        "sumitai yo",
+        "song o tokyo"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "私は家族と一緒にハノイに住んでいます。",
+        "vietnamese": "Tôi đang sống cùng gia đình ở Hà Nội."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "term": "研究する",
+    "reading": "けんきゅうする",
+    "romaji": "kenkyuussuru",
+    "meaning": "nghiên cứu [Nhóm 3: 研究します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:education",
+      "group:3",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "大学で何を研究してるの？",
+      "polite": "大学では何を研究されていますか？",
+      "reading": "だいがくでなにをけんきゅうしてるの？",
+      "romaji": "daigaku de nani o kenkyuu shiteru no?",
+      "vietnamese": "Bạn đang nghiên cứu gì ở trường đại học thế?",
+      "variants": [
+        "daigaku de nani o kenkyuu shiteru no",
+        "nani o kenkyuu shiteru no",
+        "nghien cuu gi"
+      ]
+    },
+    "answer": {
+      "short": "日本の経済を研究してるよ！",
+      "reading": "にほんのけいざいをけんきゅうしてるよ！",
+      "romaji": "nihon no keizai o kenkyuu shiteru yo!",
+      "vietnamese": "Mình đang nghiên cứu kinh tế Nhật Bản!",
+      "variants": [
+        "nihon no keizai o kenkyuu shiteru yo",
+        "kenkyuu shiteru yo",
+        "nghien cuu kinh te nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "大学でAIの技術を研究しています。",
+        "vietnamese": "Tôi đang nghiên cứu công nghệ AI tại trường đại học."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "term": "知っている",
+    "reading": "しっている",
+    "romaji": "shitte iru",
+    "meaning": "biết (trạng thái) [Nhóm 1: 知っています]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:mind",
+      "group:1",
+      "form:te_iru",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "新しい先生を知ってる？",
+      "polite": "新しい先生をご存知ですか？",
+      "reading": "あたらしいせんせいをしってる？",
+      "romaji": "atarashii sensei o shitteru?",
+      "vietnamese": "Bạn có biết giáo viên mới không?",
+      "variants": [
+        "atarashii sensei o shitteru",
+        "shitteru",
+        "biet thay moi khong"
+      ]
+    },
+    "answer": {
+      "short": "ううん、まだ知らないよ！",
+      "reading": "ううん、まだしらないよ！",
+      "romaji": "uun, mada shiranai yo!",
+      "vietnamese": "Không, mình vẫn chưa biết!",
+      "variants": [
+        "uun mada shiranai yo",
+        "mada shiranai yo",
+        "shiranai yo",
+        "chua biet"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "いいえ、知りません。",
+        "vietnamese": "Không, tôi không biết. (Chú ý: phủ định của 知っています là 知りません)."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "term": "住んでいる [大阪に ~]",
+    "reading": "すんでいる [おおさかに ~]",
+    "romaji": "sunde iru [osaka ni ~]",
+    "meaning": "sống [ở Osaka] [Nhóm 1: 住んでいます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "group:1",
+      "form:te_iru",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "今どこに住んでるの？",
+      "polite": "現在どちらにお住まいですか？",
+      "reading": "いまどこにすんでるの？",
+      "romaji": "ima doko ni sunderu no?",
+      "vietnamese": "Bây giờ bạn đang sống ở đâu vậy?",
+      "variants": [
+        "ima doko ni sunderu no",
+        "doko ni sunderu no",
+        "dang song o dau"
+      ]
+    },
+    "answer": {
+      "short": "大阪に住んでるよ！",
+      "reading": "おおさかにすんでるよ！",
+      "romaji": "oosaka ni sunderu yo!",
+      "vietnamese": "Đang sống ở Osaka đó!",
+      "variants": [
+        "oosaka ni sunderu yo",
+        "oosaka ni sunderu",
+        "sunderu yo",
+        "song o osaka"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ミラーさんは大阪に住んでいます。",
+        "vietnamese": "Anh Miller đang sống ở Osaka."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "term": "思い出す",
+    "reading": "おもいだす",
+    "romaji": "omoidasu",
+    "meaning": "nhớ lại, hồi tưởng lại [Nhóm 1: 思い出します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:mind",
+      "group:1",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "パスワードを思い出した？",
+      "polite": "パスワードを思い出されましたか？",
+      "reading": "ぱすわーどをおもいだした？",
+      "romaji": "pasuwaado o omoidashita?",
+      "vietnamese": "Bạn đã nhớ lại mật khẩu chưa?",
+      "variants": [
+        "pasuwaado o omoidashita",
+        "omoidashita",
+        "nho lai chua"
+      ]
+    },
+    "answer": {
+      "short": "うん、やっと思い出した！",
+      "reading": "うん、やっとおもいだした！",
+      "romaji": "un, yatto omoidashita!",
+      "vietnamese": "Ừ, cuối cùng cũng nhớ ra rồi!",
+      "variants": [
+        "un yatto omoidashita",
+        "yatto omoidashita",
+        "omoidashita",
+        "nho ra roi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "高校の時を思い出します。",
+        "vietnamese": "Tôi nhớ lại thời học cấp ba."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "term": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "romaji": "irassharu",
+    "meaning": "ở, có (kính ngữ của います/いきます/きます) [Nhóm 1: いらっしゃいます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:keigo",
+      "group:1",
+      "form:dictionary",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "先生は研究室にいらっしゃる？",
+      "polite": "先生は研究室にいらっしゃいますか？",
+      "reading": "せんせいはけんきゅうしつにいらっしゃる？",
+      "romaji": "sensei wa kenkyuushitsu ni irassharu?",
+      "vietnamese": "Thầy giáo có ở phòng nghiên cứu không?",
+      "variants": [
+        "sensei wa kenkyuushitsu ni irassharu",
+        "irassharu",
+        "co o phong khong"
+      ]
+    },
+    "answer": {
+      "short": "うん、いらっしゃるよ！",
+      "reading": "うん、いらっしゃるよ！",
+      "romaji": "un, irassharu yo!",
+      "vietnamese": "Có, thầy đang ở đó đấy!",
+      "variants": [
+        "un irassharu yo",
+        "irassharu yo",
+        "irassharu",
+        "co o do"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "社長は部屋にいらっしゃいます。",
+        "vietnamese": "Giám đốc đang ở trong phòng."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "term": "資料",
+    "reading": "しりょう",
+    "romaji": "shiryou",
+    "meaning": "tài liệu, tư liệu",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:office",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "会議の資料はどこ？",
+      "polite": "会議の資料はどちらにありますか？",
+      "reading": "かいぎのしりょうはどこ？",
+      "romaji": "kaigi no shiryou wa doko?",
+      "vietnamese": "Tài liệu cuộc họp ở đâu vậy?",
+      "variants": [
+        "kaigi no shiryou wa doko",
+        "shiryou wa doko",
+        "tai lieu o dau"
+      ]
+    },
+    "answer": {
+      "short": "机の上にあるよ！",
+      "reading": "つくえのうえにあるよ！",
+      "romaji": "tsukue no ue ni aru yo!",
+      "vietnamese": "Ở trên bàn đó!",
+      "variants": [
+        "tsukue no ue ni aru yo",
+        "tsukue no ue ni aru",
+        "o tren ban"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "この資料を持って帰ってもいいですか。",
+        "vietnamese": "Tôi có thể mang tài liệu này về được không?"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "term": "カタログ",
+    "reading": "かたろぐ",
+    "romaji": "katarogu",
+    "meaning": "ca-ta-lô",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:office",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "新製品のカタログをもらえる？",
+      "polite": "新製品のカタログをいただけますか？",
+      "reading": "しんせいひんのかたろぐをもらえる？",
+      "romaji": "shinseihin no katarogu o moraeru?",
+      "vietnamese": "Cho mình xin cuốn ca-ta-lô sản phẩm mới được không?",
+      "variants": [
+        "shinseihin no katarogu o moraeru",
+        "katarogu o moraeru",
+        "cho xin catalo"
+      ]
+    },
+    "answer": {
+      "short": "どうぞ、持って行って！",
+      "reading": "どうぞ、もっていって！",
+      "romaji": "douzo, motte itte!",
+      "vietnamese": "Xin mời, bạn cứ cầm đi nhé!",
+      "variants": [
+        "douzo motte itte",
+        "motte itte",
+        "cam di nhe"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "このカタログをもらってもいいですか。",
+        "vietnamese": "Tôi xin cuốn ca-ta-lô này có được không?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "term": "時刻表",
+    "reading": "じこくひょう",
+    "romaji": "jikokuhyou",
+    "meaning": "bảng giờ chạy tàu",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "電車の時刻表はどこにある？",
+      "polite": "電車の時刻表はどちらにございますか？",
+      "reading": "でんしゃのじこくひょうはどこにある？",
+      "romaji": "densha no jikokuhyou wa doko ni aru?",
+      "vietnamese": "Bảng giờ tàu chạy ở đâu vậy?",
+      "variants": [
+        "densha no jikokuhyou wa doko ni aru",
+        "jikokuhyou wa doko",
+        "bang gio o dau"
+      ]
+    },
+    "answer": {
+      "short": "駅の改札口にあるよ！",
+      "reading": "えきのかいさつぐちにあるよ！",
+      "romaji": "eki no kaisatsuguchi ni aru yo!",
+      "vietnamese": "Ở cổng soát vé nhà ga đó!",
+      "variants": [
+        "eki no kaisatsuguchi ni aru yo",
+        "o cong soat ve"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "時刻表を見て、次の電車を確認しましょう。",
+        "vietnamese": "Hãy xem bảng giờ tàu để kiểm tra chuyến tiếp theo nhé."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "term": "服",
+    "reading": "ふく",
+    "romaji": "fuku",
+    "meaning": "quần áo",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:fashion",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どこでその服を買ったの？",
+      "polite": "どちらでそのお服をお買いになりましたか？",
+      "reading": "どこでそのふくをかったの？",
+      "romaji": "doko de sono fuku o katta no?",
+      "vietnamese": "Bạn mua bộ quần áo đó ở đâu vậy?",
+      "variants": [
+        "doko de sono fuku o katta no",
+        "fuku o katta no",
+        "mua quan ao o dau"
+      ]
+    },
+    "answer": {
+      "short": "デパートで買ったよ！",
+      "reading": "でぱーとでかったよ！",
+      "romaji": "depaato de katta yo!",
+      "vietnamese": "Mình mua ở trung tâm thương mại!",
+      "variants": [
+        "depaato de katta yo",
+        "depaato de katta",
+        "mua o trung tam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "デパートで服を買いました。",
+        "vietnamese": "Tôi đã mua quần áo ở trung tâm thương mại."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "term": "製品",
+    "reading": "せいひん",
+    "romaji": "seihin",
+    "meaning": "sản phẩm, hàng hóa chế tạo",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:business",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "これはどこの国の製品？",
+      "polite": "こちらはどちらの国の製品ですか？",
+      "reading": "これはどこのくにのせいひん？",
+      "romaji": "kore wa doko no kuni no seihin?",
+      "vietnamese": "Đây là sản phẩm của nước nào?",
+      "variants": [
+        "kore wa doko no kuni no seihin",
+        "doko no seihin",
+        "san pham nuoc nao"
+      ]
+    },
+    "answer": {
+      "short": "日本の製品だよ！",
+      "reading": "にほんのせいひんだよ！",
+      "romaji": "nihon no seihin da yo!",
+      "vietnamese": "Sản phẩm của Nhật Bản đó!",
+      "variants": [
+        "nihon no seihin da yo",
+        "nihon no seihin",
+        "hang nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本の製品は品質がいいです。",
+        "vietnamese": "Sản phẩm của Nhật Bản có chất lượng tốt."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "term": "ソフト",
+    "reading": "そふと",
+    "romaji": "sofuto",
+    "meaning": "phần mềm",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:tech",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どんなソフトを作ってるの？",
+      "polite": "どのようなソフトを開発されていますか？",
+      "reading": "どんなそふとをつくってるの？",
+      "romaji": "donna sofuto o tsukutteru no?",
+      "vietnamese": "Bạn đang làm loại phần mềm nào vậy?",
+      "variants": [
+        "donna sofuto o tsukutteru no",
+        "sofuto o tsukutteru no",
+        "lam phan mem gi"
+      ]
+    },
+    "answer": {
+      "short": "ゲームのソフトを作ってるよ！",
+      "reading": "げーむのそふとをつくってるよ！",
+      "romaji": "geemu no sofuto o tsukutteru yo!",
+      "vietnamese": "Mình làm phần mềm trò chơi!",
+      "variants": [
+        "geemu no sofuto o tsukutteru yo",
+        "geemu no sofuto",
+        "phan mem game"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "IMCはコンピューターのソフトを作る会社です。",
+        "vietnamese": "IMC là công ty sản xuất phần mềm máy tính."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "term": "専門",
+    "reading": "せんもん",
+    "romaji": "senmon",
+    "meaning": "chuyên môn",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:education",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "大学での専門は何？",
+      "polite": "大学でのご専門は何でいらっしゃいますか？",
+      "reading": "だいがくでのせんもんはなに？",
+      "romaji": "daigaku de no senmon wa nani?",
+      "vietnamese": "Chuyên môn của bạn ở trường đại học là gì?",
+      "variants": [
+        "daigaku de no senmon wa nani",
+        "senmon wa nani",
+        "chuyen mon la gi"
+      ]
+    },
+    "answer": {
+      "short": "日本語の文学だよ！",
+      "reading": "にほんごのぶんがくだよ！",
+      "romaji": "nihongo no bungaku da yo!",
+      "vietnamese": "Là văn học Nhật Bản!",
+      "variants": [
+        "nihongo no bungaku da yo",
+        "nihongo no bungaku",
+        "van hoc nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "私の専門は経済です。",
+        "vietnamese": "Chuyên môn của tôi là kinh tế."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "term": "歯医者",
+    "reading": "はいしゃ",
+    "romaji": "haisha",
+    "meaning": "nha sĩ, phòng khám răng",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:health",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "歯が痛いときどこへ行く？",
+      "polite": "歯が痛いときはどちらへ行かれますか？",
+      "reading": "はがいたいときどこへいく？",
+      "romaji": "ha ga itai toki doko e iku?",
+      "vietnamese": "Khi đau răng thì bạn đi đâu?",
+      "variants": [
+        "ha ga itai toki doko e iku",
+        "doko e iku",
+        "dau rang di dau"
+      ]
+    },
+    "answer": {
+      "short": "歯医者へ行くよ！",
+      "reading": "はいしゃへいくよ！",
+      "romaji": "haisha e iku yo!",
+      "vietnamese": "Đi đến nha sĩ chứ đâu!",
+      "variants": [
+        "haisha e iku yo",
+        "haisha e iku",
+        "haisha",
+        "di nha si"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "昨日、歯医者へ行きました。",
+        "vietnamese": "Hôm qua tôi đã đi khám nha sĩ."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "term": "床屋",
+    "reading": "とこや",
+    "romaji": "tokoya",
+    "meaning": "hiệu cắt tóc (nam)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "髪が伸びたらどこで切る？",
+      "polite": "髪が伸びられたらどちらで切られますか？",
+      "reading": "かみがのびたらどこできる？",
+      "romaji": "kami ga nobitara doko de kiru?",
+      "vietnamese": "Tóc dài thì bạn cắt ở đâu?",
+      "variants": [
+        "kami ga nobitara doko de kiru",
+        "doko de kiru",
+        "cat toc o dau"
+      ]
+    },
+    "answer": {
+      "short": "駅前の床屋で切るよ！",
+      "reading": "えきまえのとこやできるよ！",
+      "romaji": "ekimae no tokoya de kiru yo!",
+      "vietnamese": "Cắt ở hiệu cắt tóc trước ga!",
+      "variants": [
+        "ekimae no tokoya de kiru yo",
+        "tokoya de kiru",
+        "tokoya",
+        "hieu cat toc"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日曜日に床屋へ行きます。",
+        "vietnamese": "Chủ nhật tôi sẽ đi hiệu cắt tóc."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "term": "プレイガイド",
+    "reading": "ぷれいがいど",
+    "romaji": "pureigaido",
+    "meaning": "quầy bán vé (rạp hát, hòa nhạc)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:leisure",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "コンサートのチケットはどこで買う？",
+      "polite": "コンサートのチケットはどちらで購入されますか？",
+      "reading": "こんさーとのちけっとはどこでかう？",
+      "romaji": "konsaato no chiketto wa doko de kau?",
+      "vietnamese": "Vé hòa nhạc thì mua ở đâu vậy?",
+      "variants": [
+        "konsaato no chiketto wa doko de kau",
+        "chiketto wa doko de kau",
+        "mua ve o dau"
+      ]
+    },
+    "answer": {
+      "short": "プレイガイドで買うよ！",
+      "reading": "ぷれいがいどでかうよ！",
+      "romaji": "pureigaido de kau yo!",
+      "vietnamese": "Mua ở quầy bán vé đó!",
+      "variants": [
+        "pureigaido de kau yo",
+        "pureigaido de kau",
+        "pureigaido",
+        "quay ban ve"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "プレイガイドで劇の切符を買いました。",
+        "vietnamese": "Tôi đã mua vé xem kịch ở quầy bán vé."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "term": "独身",
+    "reading": "どくしん",
+    "romaji": "dokushin",
+    "meaning": "độc thân",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:relationship",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "結婚してる？それとも独身？",
+      "polite": "ご結婚されていますか、それとも独身でいらっしゃいますか？",
+      "reading": "けっこんしてる？それともどくしん？",
+      "romaji": "kekkon shiteru? soretomo dokushin?",
+      "vietnamese": "Bạn kết hôn rồi hay vẫn đang độc thân?",
+      "variants": [
+        "kekkon shiteru soretomo dokushin",
+        "dokushin",
+        "doc than hay ket hon"
+      ]
+    },
+    "answer": {
+      "short": "まだ独身だよ！",
+      "reading": "まだどくしんだよ！",
+      "romaji": "mada dokushin da yo!",
+      "vietnamese": "Mình vẫn còn độc thân!",
+      "variants": [
+        "mada dokushin da yo",
+        "mada dokushin",
+        "dokushin da yo",
+        "con doc than"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ミラーさんは独身です。",
+        "vietnamese": "Anh Miller vẫn còn độc thân."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "term": "特に",
+    "reading": "とくに",
+    "romaji": "tokuni",
+    "meaning": "đặc biệt",
+    "level": "N5",
+    "type": "Phó từ",
+    "tags": [
+      "topic:modifier",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "週末は何か予定がある？",
+      "polite": "今週末は何かご予定がおありですか？",
+      "reading": "しゅうまつはなにかよていがある？",
+      "romaji": "shuumatsu wa nanika yotei ga aru?",
+      "vietnamese": "Cuối tuần bạn có kế hoạch gì không?",
+      "variants": [
+        "shuumatsu wa nanika yotei ga aru",
+        "nanika yotei ga aru",
+        "co ke hoach gi"
+      ]
+    },
+    "answer": {
+      "short": "いいえ、特に何もないよ！",
+      "reading": "いいえ、とくになにもないよ！",
+      "romaji": "iie, tokuni nani mo nai yo!",
+      "vietnamese": "Không, đặc biệt chẳng có việc gì cả!",
+      "variants": [
+        "iie tokuni nani mo nai yo",
+        "tokuni nani mo nai yo",
+        "tokuni",
+        "khong co gi dac biet"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "この映画は特に面白いです。",
+        "vietnamese": "Bộ phim này đặc biệt thú vị."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "term": "ご家族",
+    "reading": "ごかぞく",
+    "romaji": "gokazoku",
+    "meaning": "gia đình (kính ngữ, dùng cho người khác)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:family",
+      "tone:polite"
+    ],
+    "question": {
+      "short": "ご家族はどちらにいらっしゃる？",
+      "polite": "ご家族はどちらにいらっしゃいますか？",
+      "reading": "ごかぞくはどちらにいらっしゃる？",
+      "romaji": "gokazoku wa dochira ni irassharu?",
+      "vietnamese": "Gia đình bạn đang ở đâu vậy?",
+      "variants": [
+        "gokazoku wa dochira ni irassharu",
+        "dochira ni irassharu",
+        "gia dinh o dau"
+      ]
+    },
+    "answer": {
+      "short": "家族はハノイにいるよ！",
+      "reading": "かぞくははのいにいるよ！",
+      "romaji": "kazoku wa hanoi ni iru yo!",
+      "vietnamese": "Gia đình mình ở Hà Nội!",
+      "variants": [
+        "kazoku wa hanoi ni iru yo",
+        "kazoku wa hanoi ni iru",
+        "o hanoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ご家族はお元気ですか。",
+        "vietnamese": "Gia đình bạn có khỏe không?"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "term": "高校",
+    "reading": "こうこう",
+    "romaji": "koukou",
+    "meaning": "trường trung học phổ thông (Cấp 3)",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:school",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "どこの高校に通っていたの？",
+      "polite": "どちらの高校に通われていましたか？",
+      "reading": "どこのこうこうにかよっていたの？",
+      "romaji": "doko no koukou ni kayotte ita no?",
+      "vietnamese": "Bạn từng học trường cấp 3 nào thế?",
+      "variants": [
+        "doko no koukou ni kayotte ita no",
+        "doko no koukou",
+        "hoc cap 3 nao"
+      ]
+    },
+    "answer": {
+      "short": "近くの高校に通ってたよ！",
+      "reading": "ちかくのこうこうにかよってたよ！",
+      "romaji": "chikaku no koukou ni kayotteta yo!",
+      "vietnamese": "Mình học trường cấp 3 gần nhà!",
+      "variants": [
+        "chikaku no koukou ni kayotteta yo",
+        "chikaku no koukou",
+        "cap 3 gan nha"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "高校の英語の先生になりたいです。",
+        "vietnamese": "Tôi muốn trở thành giáo viên tiếng Anh cấp 3."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "term": "日本橋",
+    "reading": "にっぽんばし",
+    "romaji": "nipponbashi",
+    "meaning": "khu phố thương mại nổi tiếng ở Osaka",
+    "level": "N5",
+    "type": "Danh từ",
+    "tags": [
+      "topic:place",
+      "tone:casual"
+    ],
+    "question": {
+      "short": "日本橋へ何をしに行く？",
+      "polite": "日本橋へ何をしに行かれますか？",
+      "reading": "にっぽんばしへなにをしにいく？",
+      "romaji": "nipponbashi e nani o shi ni iku?",
+      "vietnamese": "Bạn đến Nipponbashi để làm gì?",
+      "variants": [
+        "nipponbashi e nani o shi ni iku",
+        "nani o shi ni iku",
+        "den do lam gi"
+      ]
+    },
+    "answer": {
+      "short": "電化製品を買いに行くよ！",
+      "reading": "でんかせいひんをかいにいくよ！",
+      "romaji": "denkaseihin o kai ni iku yo!",
+      "vietnamese": "Đi mua đồ điện tử gia dụng đó!",
+      "variants": [
+        "denkaseihin o kai ni iku yo",
+        "kai ni iku yo",
+        "mua do dien tu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本橋は大阪にある電気街です。",
+        "vietnamese": "Nipponbashi là khu phố đồ điện tử ở Osaka."
+      }
+    ]
+  }
+]

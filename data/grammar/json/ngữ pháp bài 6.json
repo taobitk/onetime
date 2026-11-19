@@ -1,0 +1,78 @@
+{
+  "lesson": "Bài 6",
+  "title": "Giải thích ngữ pháp",
+  "grammar_points": [
+    {
+      "id": 1,
+      "structure": "Danh từ を Động từ (ngoại động từ)",
+      "usage": "Trợ từ を dùng để biểu thị bổ ngữ trực tiếp của ngoại động từ.",
+      "example": {
+        "japanese": "ジュースを 飲みます。",
+        "vietnamese": "Tôi uống nước hoa quả."
+      }
+    },
+    {
+      "id": 2,
+      "structure": "Danh từ を します",
+      "usage": "Biểu thị hành động thực hiện nội dung được diễn đạt ở danh từ (thể thao, trò chơi, sự kiện, công việc...).",
+      "example": {
+        "japanese": "サッカーを します。",
+        "vietnamese": "Chơi bóng đá."
+      }
+    },
+    {
+      "id": 3,
+      "structure": "何 を しますか",
+      "usage": "Mẫu câu dùng để hỏi làm cái gì.",
+      "example": {
+        "japanese": "月曜日 何を しますか。",
+        "vietnamese": "Thứ hai anh/chị làm gì?"
+      }
+    },
+    {
+      "id": 4,
+      "structure": "なん và なに",
+      "usage": "Đều có nghĩa là 'gì, cái gì'. Dùng 'なん' khi từ liền sau có âm đầu thuộc hàng た, だ, な hoặc trước hậu tố đếm; các trường hợp còn lại dùng 'なに'.",
+      "example": {
+        "japanese": "それは 何ですか。",
+        "vietnamese": "Đó là cái gì?"
+      }
+    },
+    {
+      "id": 5,
+      "structure": "Danh từ (địa điểm) で Động từ",
+      "usage": "Trợ từ で dùng sau danh từ chỉ địa điểm để biểu thị nơi hành động diễn ra.",
+      "example": {
+        "japanese": "駅で 新聞を 買います。",
+        "vietnamese": "Tôi mua báo ở ga."
+      }
+    },
+    {
+      "id": 6,
+      "structure": "Động từ ませんか",
+      "usage": "Dùng để mời hoặc đề nghị người nghe cùng làm một việc gì đó (lịch sự, giữ ý).",
+      "example": {
+        "japanese": "いっしょに 京都へ 行きませんか。",
+        "vietnamese": "Anh/Chị có cùng đi Kyoto với tôi không?"
+      }
+    },
+    {
+      "id": 7,
+      "structure": "Động từ ましょう",
+      "usage": "Dùng để đề nghị cùng làm, thể hiện sự chủ động, quyết đoán hơn.",
+      "example": {
+        "japanese": "ちょっと 休みましょう。",
+        "vietnamese": "Chúng ta cùng nghỉ một lát đi."
+      }
+    },
+    {
+      "id": 8,
+      "structure": "お〜",
+      "usage": "Tiền tố お biểu thị thái độ kính trọng, lịch sự đối với sự vật/hành động.",
+      "example": {
+        "japanese": "お酒 / お茶 / お金",
+        "vietnamese": "Rượu / Trà / Tiền"
+      }
+    }
+  ]
+}

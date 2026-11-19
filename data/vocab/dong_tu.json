@@ -1,0 +1,3087 @@
+[
+  {
+    "lesson": 4,
+    "term": "起きる",
+    "reading": "おきる",
+    "romaji": "okiru",
+    "meaning": "Dậy, thức dậy [Nhóm 2: 起きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:routine",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "毎朝６時に起きます。",
+        "vietnamese": "Mỗi sáng tôi thức dậy lúc 6 giờ."
+      }
+    ],
+    "question": {
+      "short": "毎朝何時に起きるの？",
+      "polite": "毎朝何時にお起きになりますか？",
+      "reading": "まいあさなんじにおきるの？",
+      "romaji": "maiasa nanji ni okiru no?",
+      "vietnamese": "mỗi sáng thức dậy lúc mấy giờ / mấy giờ dậy",
+      "variants": [
+        "maiasa nanji ni okiru no",
+        "nanji ni okiru no",
+        "nanji ni okiru"
+      ]
+    },
+    "answer": {
+      "short": "朝の6時に起きるよ！",
+      "reading": "あさのろくじにおきるよ！",
+      "romaji": "asa no rokuji ni okiru yo!",
+      "vietnamese": "dậy lúc 6 giờ sáng / 6 giờ sáng",
+      "variants": [
+        "asa no rokuji ni okiru yo",
+        "rokuji ni okiru yo",
+        "rokuji ni okiru",
+        "rokuji",
+        "sau gio sang",
+        "6 gio"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "term": "寝る",
+    "reading": "ねる",
+    "romaji": "neru",
+    "meaning": "Ngủ, đi ngủ [Nhóm 2: 寝ます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:routine",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "昨日の夜１１時に寝ました。",
+        "vietnamese": "Tối qua tôi đã đi ngủ lúc 11 giờ."
+      }
+    ],
+    "question": {
+      "short": "夜は何時に寝るの？",
+      "polite": "夜は何時にお休みになりますか？",
+      "reading": "よるはなんじにねるの？",
+      "romaji": "yoru wa nanji ni neru no?",
+      "vietnamese": "buổi tối đi ngủ lúc mấy giờ / tối ngủ mấy giờ",
+      "variants": [
+        "yoru wa nanji ni neru no",
+        "nanji ni neru no",
+        "nanji ni neru"
+      ]
+    },
+    "answer": {
+      "short": "夜11時に寝るよ。",
+      "reading": "よるじゅういちじにねるよ。",
+      "romaji": "yoru juuichiji ni neru yo.",
+      "vietnamese": "ngủ lúc 11 giờ đêm / 11 giờ",
+      "variants": [
+        "yoru juuichiji ni neru yo",
+        "juuichiji ni neru yo",
+        "juuichiji ni neru",
+        "juuichiji",
+        "11 gio dem",
+        "muoi mot gio"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "term": "働く",
+    "reading": "はたらく",
+    "romaji": "hataraku",
+    "meaning": "Làm việc [Nhóm 1: 働きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:work_business",
+      "action:work",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 3,
+    "examples": [
+      {
+        "japanese": "父は９時から５時まで働きます。",
+        "vietnamese": "Bố tôi làm việc từ 9 giờ đến 5 giờ."
+      }
+    ],
+    "question": {
+      "short": "毎日何時から何時まで働くの？",
+      "polite": "毎日何時から何時までお働きになりますか？",
+      "reading": "まいにちなんじからなんじまではたらくの？",
+      "romaji": "mainichi nanji kara nanji made hataraku no?",
+      "vietnamese": "mỗi ngày làm việc từ mấy giờ đến mấy giờ / làm từ mấy giờ",
+      "variants": [
+        "mainichi nanji kara nanji made hataraku no",
+        "nanji kara nanji made hataraku"
+      ]
+    },
+    "answer": {
+      "short": "朝9時から夕方5時まで働くよ！",
+      "reading": "あさくじからゆうがたごじまではたらくよ！",
+      "romaji": "asa kuji kara yuugata goji made hataraku yo!",
+      "vietnamese": "làm từ 9 giờ sáng đến 5 giờ chiều / 9h đến 5h",
+      "variants": [
+        "asa kuji kara yuugata goji made hataraku yo",
+        "kuji kara goji made hataraku yo",
+        "kuji kara goji made",
+        "tu 9h den 5h"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "term": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "Nghỉ, nghỉ ngơi [Nhóm 1: 休みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:rest",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 4,
+    "examples": [
+      {
+        "japanese": "土曜日と日曜日に休みます。",
+        "vietnamese": "Tôi nghỉ vào thứ bảy và chủ nhật."
+      }
+    ],
+    "question": {
+      "short": "たくさん歩いて疲れたね、どこで休む？",
+      "polite": "どちらでお休みになりますか？",
+      "reading": "たくさんあるいてつかれたね、どこでやすむ？",
+      "romaji": "takusan aruite tsukareta ne, doko de yasumu?",
+      "vietnamese": "mệt rồi nghỉ ngơi ở đâu đây / nghỉ ở đâu",
+      "variants": [
+        "takusan aruite tsukareta ne, doko de yasumu",
+        "doko de yasumu"
+      ]
+    },
+    "answer": {
+      "short": "公園のベンチで少し休もう！",
+      "reading": "こうえんのべんちですこしやすもう！",
+      "romaji": "kouen no benchi de sukoshi yasumou!",
+      "vietnamese": "nghỉ một lát ở ghế đá công viên nhé / nghỉ ở ghế đá",
+      "variants": [
+        "kouen no benchi de sukoshi yasumou",
+        "benchi de yasumou",
+        "sukoshi yasumou",
+        "nghi o cong vien",
+        "nghi mot lat"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "term": "勉強する",
+    "reading": "べんきょうする",
+    "romaji": "benkyousuru",
+    "meaning": "Học [Nhóm 3: 勉強します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:education",
+      "action:study",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 5,
+    "examples": [
+      {
+        "japanese": "毎晩日本語を勉強します。",
+        "vietnamese": "Mỗi tối tôi học tiếng Nhật."
+      }
+    ],
+    "question": {
+      "short": "図書館で何を勉強するの？",
+      "polite": "図書館では何を勉強なさいますか？",
+      "reading": "としょかんでなにをべんきょうするの？",
+      "romaji": "toshokan de nani o benkyou suru no?",
+      "vietnamese": "học cái gì ở thư viện thế / học môn gì",
+      "variants": [
+        "toshokan de nani o benkyou suru no",
+        "nani o benkyou suru no"
+      ]
+    },
+    "answer": {
+      "short": "明日のテストのために日本語を勉強するよ！",
+      "reading": "あしたのてすとのためににほんごをべんきょうするよ！",
+      "romaji": "ashita no tesuto no tame ni nihongo o benkyou suru yo!",
+      "vietnamese": "học tiếng nhật cho bài thi ngày mai / học tiếng nhật",
+      "variants": [
+        "ashita no tesuto no tame ni nihongo o benkyou suru yo",
+        "nihongo o benkyou suru yo",
+        "benkyou suru yo",
+        "hoc tieng nhat"
+      ]
+    }
+  },
+  {
+    "lesson": 4,
+    "term": "終わる",
+    "reading": "おわる",
+    "romaji": "owaru",
+    "meaning": "Hết, kết thúc, xong [Nhóm 1: 終わります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:general",
+      "action:finish",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 6,
+    "examples": [
+      {
+        "japanese": "会議は５時に終わります。",
+        "vietnamese": "Cuộc họp kết thúc lúc 5 giờ."
+      }
+    ],
+    "question": {
+      "short": "今日の授業、何時に終わる？",
+      "polite": "本日の授業は何時に終わりますか？",
+      "reading": "きょうのじゅぎょう、なんじにおわる？",
+      "romaji": "kyou no jugyou, nanji ni owaru?",
+      "vietnamese": "tiết học hôm nay mấy giờ kết thúc / mấy giờ xong",
+      "variants": [
+        "kyou no jugyou, nanji ni owaru",
+        "nanji ni owaru"
+      ]
+    },
+    "answer": {
+      "short": "午後4時ちょうどに終わるよ！",
+      "reading": "ごごよじちょうどにおわるよ！",
+      "romaji": "gogo yoji choudo ni owaru yo!",
+      "vietnamese": "kết thúc vào đúng 4 giờ chiều / 4 giờ chiều",
+      "variants": [
+        "gogo yoji choudo ni owaru yo",
+        "yoji ni owaru yo",
+        "owaru yo",
+        "4 gio chieu",
+        "bon gio"
+      ]
+    }
+  },
+  {
+    "lesson": 5,
+    "term": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "meaning": "đi [Nhóm 1: 行きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:travel",
+      "action:move",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "明日京都へ行きます。",
+        "vietnamese": "Ngày mai tôi sẽ đi Kyoto."
+      }
+    ],
+    "question": {
+      "short": "週末、どこへ行くの？",
+      "polite": "週末はどちらへ行かれますか？",
+      "reading": "しゅうまつ、どこへいくの？",
+      "romaji": "shuumatsu, doko e iku no?",
+      "vietnamese": "cuối tuần đi đâu thế / đi đâu cuối tuần",
+      "variants": [
+        "shuumatsu, doko e iku no",
+        "doko e iku no",
+        "doko e iku"
+      ]
+    },
+    "answer": {
+      "short": "友達と東京へ行くよ！",
+      "reading": "ともだちととうきょうへいくよ！",
+      "romaji": "tomodachi to toukyou e iku yo!",
+      "vietnamese": "đi tokyo cùng bạn / đi tokyo",
+      "variants": [
+        "tomodachi to toukyou e iku yo",
+        "toukyou e iku yo",
+        "toukyou e iku",
+        "toukyou",
+        "di tokyo"
+      ]
+    }
+  },
+  {
+    "lesson": 5,
+    "term": "来る",
+    "reading": "くる",
+    "romaji": "kuru",
+    "meaning": "đến [Nhóm 3: 来ます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:travel",
+      "action:move",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "友達が日本へ来ます。",
+        "vietnamese": "Bạn tôi sẽ đến Nhật Bản."
+      }
+    ],
+    "question": {
+      "short": "日本へいつ来たの？",
+      "polite": "日本へはいついらっしゃいましたか？",
+      "reading": "にほんへいつきたの？",
+      "romaji": "nihon e itsu kita no?",
+      "vietnamese": "đến nhật bản khi nào thế / sang nhật khi nào",
+      "variants": [
+        "nihon e itsu kita no",
+        "itsu kita no"
+      ]
+    },
+    "answer": {
+      "short": "去年の9月に来たよ！",
+      "reading": "きょねんのくがつにきたよ！",
+      "romaji": "kyonen no kugatsu ni kita yo!",
+      "vietnamese": "đến vào tháng 9 năm ngoái / tháng 9 năm ngoái",
+      "variants": [
+        "kyonen no kugatsu ni kita yo",
+        "kugatsu ni kita yo",
+        "kugatsu",
+        "thang 9 nam ngoai",
+        "den thang 9"
+      ]
+    }
+  },
+  {
+    "lesson": 5,
+    "term": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "meaning": "về [Nhóm 1: 帰ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:move",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 3,
+    "examples": [
+      {
+        "japanese": "６時にうちへ帰ります。",
+        "vietnamese": "Tôi về nhà lúc 6 giờ."
+      }
+    ],
+    "question": {
+      "short": "国へいつ帰るの？",
+      "polite": "お国へはいつお帰りになりますか？",
+      "reading": "くにへいつかえるの？",
+      "romaji": "kuni e itsu kaeru no?",
+      "vietnamese": "khi nào về nước / bao giờ về nước",
+      "variants": [
+        "kuni e itsu kaeru no",
+        "itsu kaeru no"
+      ]
+    },
+    "answer": {
+      "short": "来年の夏休みに帰るよ！",
+      "reading": "らいねんのなつやすみにかえるよ！",
+      "romaji": "rainen no natsuyasumi ni kaeru yo!",
+      "vietnamese": "về vào kỳ nghỉ hè năm sau / hè năm sau về",
+      "variants": [
+        "rainen no natsuyasumi ni kaeru yo",
+        "natsuyasumi ni kaeru yo",
+        "kaeru yo",
+        "he nam sau",
+        "ve nuoc"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "meaning": "ăn [Nhóm 2: 食べます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:food",
+      "action:eat",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "朝ごはんを食べます。",
+        "vietnamese": "Tôi ăn bữa sáng."
+      }
+    ],
+    "question": {
+      "short": "お昼ごはんに何食べる？",
+      "polite": "お昼ごはんは何を召し上がりますか？",
+      "reading": "おひるごはんなにたべる？",
+      "romaji": "ohirugohan ni nani taberu?",
+      "vietnamese": "bữa trưa ăn gì / trưa nay ăn món gì",
+      "variants": [
+        "ohirugohan ni nani taberu",
+        "ohirugohan nani taberu",
+        "nani taberu"
+      ]
+    },
+    "answer": {
+      "short": "熱々のラーメンを食べるよ！",
+      "reading": "あつあつのらーめんをたべるよ！",
+      "romaji": "atsuatsu no ra-men o taberu yo!",
+      "vietnamese": "ăn mì ramen nóng hổi / ăn ramen",
+      "variants": [
+        "atsuatsu no ra-men o taberu yo",
+        "ra-men o taberu yo",
+        "ra-men taberu yo",
+        "ra-men",
+        "an ramen",
+        "mi ramen"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "meaning": "uống [Nhóm 1: 飲みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:drink",
+      "action:drink",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "水を飲みます。",
+        "vietnamese": "Tôi uống nước."
+      }
+    ],
+    "question": {
+      "short": "喉が渇いたね、何を飲む？",
+      "polite": "お飲み物は何を召し上がりますか？",
+      "reading": "のどがかわいたね、なにをのむ？",
+      "romaji": "nodo ga kawaita ne, nani o nomu?",
+      "vietnamese": "khát nước quá uống gì bây giờ / uống gì đây",
+      "variants": [
+        "nodo ga kawaita ne, nani o nomu",
+        "nani o nomu",
+        "nani nomu"
+      ]
+    },
+    "answer": {
+      "short": "冷たいお茶を飲むよ！",
+      "reading": "つめたいおちゃをのむよ！",
+      "romaji": "tsumetai ocha o nomu yo!",
+      "vietnamese": "uống trà lạnh / uống nước trà mát",
+      "variants": [
+        "tsumetai ocha o nomu yo",
+        "ocha o nomu yo",
+        "ocha nomu yo",
+        "ocha",
+        "uong tra",
+        "tra lanh"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "吸う",
+    "reading": "すう",
+    "romaji": "suu",
+    "meaning": "hút [thuốc lá] [Nhóm 1: 吸います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:smoke",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 3,
+    "examples": [
+      {
+        "japanese": "たばこを吸います。",
+        "vietnamese": "Tôi hút thuốc lá."
+      }
+    ],
+    "question": {
+      "short": "どこでたばこを吸うの？",
+      "polite": "どちらでたばこをお吸いになりますか？",
+      "reading": "どこでたばこをすうの？",
+      "romaji": "doko de tabako o suu no?",
+      "vietnamese": "hút thuốc lá ở đâu thế / hút thuốc ở đâu",
+      "variants": [
+        "doko de tabako o suu no",
+        "tabako doko de suu"
+      ]
+    },
+    "answer": {
+      "short": "あそこの喫煙所で吸うよ。",
+      "reading": "あそこのきつえんじょですうよ。",
+      "romaji": "asoko no kitsuenjo de suu yo.",
+      "vietnamese": "hút ở khu vực hút thuốc đằng kia / ở phòng hút thuốc",
+      "variants": [
+        "asoko no kitsuenjo de suu yo",
+        "kitsuenjo de suu yo",
+        "suu yo",
+        "o phong hut thuoc",
+        "khu hut thuoc"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "見る",
+    "reading": "みる",
+    "romaji": "miru",
+    "meaning": "xem, nhìn, trông [Nhóm 2: 見ます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:see",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 4,
+    "examples": [
+      {
+        "japanese": "テレビを見ます。",
+        "vietnamese": "Tôi xem tivi."
+      }
+    ],
+    "question": {
+      "short": "今夜テレビで何を見る？",
+      "polite": "今夜は何をご覧になりますか？",
+      "reading": "こんやてれびでなにをみる？",
+      "romaji": "kon'ya terebi de nani o miru?",
+      "vietnamese": "tối nay xem gì trên tivi / xem cái gì",
+      "variants": [
+        "kon'ya terebi de nani o miru",
+        "terebi de nani o miru",
+        "nani o miru"
+      ]
+    },
+    "answer": {
+      "short": "おもしろい映画を見るよ！",
+      "reading": "おもしろいえいがをみるよ！",
+      "romaji": "omoshiroi eiga o miru yo!",
+      "vietnamese": "xem một bộ phim thú vị / xem phim hay",
+      "variants": [
+        "omoshiroi eiga o miru yo",
+        "eiga o miru yo",
+        "eiga miru yo",
+        "eiga",
+        "xem phim",
+        "phim hay"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "聞く",
+    "reading": "きく",
+    "romaji": "kiku",
+    "meaning": "nghe [Nhóm 1: 聞きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:hear",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 5,
+    "examples": [
+      {
+        "japanese": "音楽を聞きます。",
+        "vietnamese": "Tôi nghe nhạc."
+      }
+    ],
+    "question": {
+      "short": "部屋でどんな音楽を聞く？",
+      "polite": "お部屋ではどのような音楽をお聞きになりますか？",
+      "reading": "へやでどんなおんがくをきく？",
+      "romaji": "heya de donna ongaku o kiku?",
+      "vietnamese": "trong phòng nghe nhạc gì / nghe thể loại nhạc nào",
+      "variants": [
+        "heya de donna ongaku o kiku",
+        "donna ongaku o kiku",
+        "ongaku kiku"
+      ]
+    },
+    "answer": {
+      "short": "日本のポップスを聞くよ！",
+      "reading": "にほんのぽっぷすをきくよ！",
+      "romaji": "nihon no poppusu o kiku yo!",
+      "vietnamese": "nghe nhạc pop nhật bản / nghe j-pop",
+      "variants": [
+        "nihon no poppusu o kiku yo",
+        "poppusu o kiku yo",
+        "kiku yo",
+        "nghe nhac nhat",
+        "nhac pop"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "読む",
+    "reading": "よむ",
+    "romaji": "yomu",
+    "meaning": "đọc [Nhóm 1: 読みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:read",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 6,
+    "examples": [
+      {
+        "japanese": "本を読みます。",
+        "vietnamese": "Tôi đọc sách."
+      }
+    ],
+    "question": {
+      "short": "図書館で何を読んでるの？",
+      "polite": "図書館では何をお読みですか？",
+      "reading": "としょかんでなにをよんでるの？",
+      "romaji": "toshokan de nani o yonderu no?",
+      "vietnamese": "đang đọc gì ở thư viện thế / đọc sách gì",
+      "variants": [
+        "toshokan de nani o yonderu no",
+        "nani o yonderu no"
+      ]
+    },
+    "answer": {
+      "short": "日本の歴史の本を読んでるよ。",
+      "reading": "にほんのれきしのほんをよんでるよ。",
+      "romaji": "nihon no rekishi no hon o yonderu yo.",
+      "vietnamese": "đang đọc cuốn sách lịch sử nhật bản / đọc sách lịch sử",
+      "variants": [
+        "nihon no rekishi no hon o yonderu yo",
+        "hon o yonderu yo",
+        "yonderu yo",
+        "doc sach lich su",
+        "doc sach"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "書く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "meaning": "viết, vẽ [Nhóm 1: 書きます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:write",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 7,
+    "examples": [
+      {
+        "japanese": "手紙を書きます。",
+        "vietnamese": "Tôi viết thư."
+      }
+    ],
+    "question": {
+      "short": "ノートに何を書いてるの？",
+      "polite": "ノートには何をお書きですか？",
+      "reading": "のーとになにをかいてるの？",
+      "romaji": "no-to ni nani o kaiteru no?",
+      "vietnamese": "đang viết gì vào vở thế / viết cái gì trong vở",
+      "variants": [
+        "no-to ni nani o kaiteru no",
+        "nani o kaiteru no"
+      ]
+    },
+    "answer": {
+      "short": "今日習った漢字を書いてるよ！",
+      "reading": "きょうならったかんじをかいてるよ！",
+      "romaji": "kyou naratta kanji o kaiteru yo!",
+      "vietnamese": "đang viết chữ kanji vừa học hôm nay / viết chữ hán",
+      "variants": [
+        "kyou naratta kanji o kaiteru yo",
+        "kanji o kaiteru yo",
+        "kaiteru yo",
+        "viet chu han",
+        "viet kanji"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "買う",
+    "reading": "かう",
+    "romaji": "kau",
+    "meaning": "mua [Nhóm 1: 買います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:shopping",
+      "action:buy",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 8,
+    "examples": [
+      {
+        "japanese": "パンを買います。",
+        "vietnamese": "Tôi mua bánh mì."
+      }
+    ],
+    "question": {
+      "short": "デパートで何を買う？",
+      "polite": "デパートでは何をお買い求めになりますか？",
+      "reading": "でぱーとでなにをかう？",
+      "romaji": "depa-to de nani o kau?",
+      "vietnamese": "mua gì ở trung tâm thương mại / mua đồ gì ở bách hóa",
+      "variants": [
+        "depa-to de nani o kau",
+        "nani o kau",
+        "nani kau"
+      ]
+    },
+    "answer": {
+      "short": "新しい靴と服を買うよ！",
+      "reading": "あたらしいくつとふくをかうよ！",
+      "romaji": "atarashii kutsu to fuku o kau yo!",
+      "vietnamese": "mua giày và quần áo mới / mua sắm quần áo",
+      "variants": [
+        "atarashii kutsu to fuku o kau yo",
+        "kutsu o kau yo",
+        "kau yo",
+        "mua giay ao",
+        "mua do moi"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "撮る",
+    "reading": "とる",
+    "romaji": "toru",
+    "meaning": "chụp [ảnh] [Nhóm 1: 撮ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:hobby",
+      "action:photograph",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 9,
+    "examples": [
+      {
+        "japanese": "写真を撮ります。",
+        "vietnamese": "Tôi chụp ảnh."
+      }
+    ],
+    "question": {
+      "short": "カメラで何を撮ってるの？",
+      "polite": "カメラで何を撮っていらっしゃいますか？",
+      "reading": "かめらでなにをとってるの？",
+      "romaji": "kamera de nani o totteru no?",
+      "vietnamese": "đang chụp gì bằng máy ảnh thế / chụp cái gì",
+      "variants": [
+        "kamera de nani o totteru no",
+        "nani o totteru no"
+      ]
+    },
+    "answer": {
+      "short": "きれいな桜の写真を撮るよ！",
+      "reading": "きれいなさくらのしゃしんをとるよ！",
+      "romaji": "kirei na sakura no shashin o toru yo!",
+      "vietnamese": "chụp ảnh hoa anh đào đẹp / chụp hoa anh đào",
+      "variants": [
+        "kirei na sakura no shashin o toru yo",
+        "shashin o toru yo",
+        "toru yo",
+        "chup anh",
+        "chup hoa anh dao"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "する",
+    "reading": "する",
+    "romaji": "suru",
+    "meaning": "làm [Nhóm 3: します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:do",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 10,
+    "examples": [
+      {
+        "japanese": "サッカーをします。",
+        "vietnamese": "Tôi chơi bóng đá."
+      }
+    ],
+    "question": {
+      "short": "週末は友達と何をする？",
+      "polite": "週末は何をなさいますか？",
+      "reading": "しゅうまつはともだちとなにをする？",
+      "romaji": "shuumatsu wa tomodachi to nani o suru?",
+      "vietnamese": "cuối tuần làm gì với bạn bè / làm cái gì cuối tuần",
+      "variants": [
+        "shuumatsu wa tomodachi to nani o suru",
+        "nani o suru",
+        "nani suru"
+      ]
+    },
+    "answer": {
+      "short": "公園でテニスをするよ！",
+      "reading": "こうえんでてにすをするよ！",
+      "romaji": "kouen de tenisu o suru yo!",
+      "vietnamese": "chơi quần vợt ở công viên / chơi tennis",
+      "variants": [
+        "kouen de tenisu o suru yo",
+        "tenisu o suru yo",
+        "suru yo",
+        "choi quan vot",
+        "choi tennis"
+      ]
+    }
+  },
+  {
+    "lesson": 6,
+    "term": "会う",
+    "reading": "あう",
+    "romaji": "au",
+    "meaning": "gặp [bạn] [Nhóm 1: 会います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:people",
+      "action:meet",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 11,
+    "examples": [
+      {
+        "japanese": "駅で友達に会います。",
+        "vietnamese": "Tôi gặp bạn ở nhà ga."
+      }
+    ],
+    "question": {
+      "short": "駅で誰に会うの？",
+      "polite": "駅でどなたとお会いになりますか？",
+      "reading": "えきでだれにあうの？",
+      "romaji": "eki de dare ni au no?",
+      "vietnamese": "gặp ai ở nhà ga thế / gặp ai ở ga",
+      "variants": [
+        "eki de dare ni au no",
+        "dare ni au no"
+      ]
+    },
+    "answer": {
+      "short": "高校時代の親友に会うよ！",
+      "reading": "こうこうじだいのしんゆうにあうよ！",
+      "romaji": "koukou jidai no shin'yuu ni au yo!",
+      "vietnamese": "gặp bạn thân thời cấp ba / gặp bạn thân",
+      "variants": [
+        "koukou jidai no shin'yuu ni au yo",
+        "shin'yuu ni au yo",
+        "tomodachi ni au yo",
+        "gap ban than",
+        "gap ban"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "切る",
+    "reading": "きる",
+    "romaji": "kiru",
+    "meaning": "cắt, thái, gọt; cúp (máy điện thoại), ngắt [Nhóm 1: 切ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:cut",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "examples": [
+      {
+        "japanese": "はさみで紙を切ります。",
+        "vietnamese": "Tôi cắt giấy bằng kéo."
+      },
+      {
+        "japanese": "電話を切ります。",
+        "vietnamese": "Tôi cúp máy điện thoại."
+      }
+    ],
+    "id": 1,
+    "question": {
+      "short": "何ではさみを使って紙を切るの？",
+      "polite": "何で紙をお切りになりますか？",
+      "reading": "なにではさみをつかってかみをきるの？",
+      "romaji": "nani de hasami o tsukatte kami o kiru no?",
+      "vietnamese": "cắt giấy bằng dụng cụ gì / dùng cái gì cắt giấy",
+      "variants": [
+        "nani de hasami o tsukatte kami o kiru no",
+        "nani de kami o kiru no",
+        "nani de kiru"
+      ]
+    },
+    "answer": {
+      "short": "切れ味の良いはさみで切るよ！",
+      "reading": "きれあじのよいはさみできるよ！",
+      "romaji": "kireaji no yoi hasami de kiru yo!",
+      "vietnamese": "cắt bằng cây kéo bén / cắt bằng kéo",
+      "variants": [
+        "kireaji no yoi hasami de kiru yo",
+        "hasami de kiru yo",
+        "kiru yo",
+        "cat bang keo",
+        "dung keo cat"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "送る",
+    "reading": "おくる",
+    "romaji": "okuru",
+    "meaning": "gửi [Nhóm 1: 送ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:communication",
+      "action:send",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "荷物を送ります。",
+        "vietnamese": "Tôi gửi hành lý."
+      }
+    ],
+    "question": {
+      "short": "海外の友達に荷物を何で送る？",
+      "polite": "お荷物は何でお送りになりますか？",
+      "reading": "かいがいのともだちににもつをなにでおくる？",
+      "romaji": "kaigai no tomodachi ni nimotsu o nani de okuru?",
+      "vietnamese": "gửi đồ cho bạn ở nước ngoài bằng gì / gửi bưu kiện bằng gì",
+      "variants": [
+        "kaigai no tomodachi ni nimotsu o nani de okuru",
+        "nani de okuru"
+      ]
+    },
+    "answer": {
+      "short": "安心な国際郵便の航空便で送るよ！",
+      "reading": "あんしんなこくさいゆうびんのこうくうびんでおくるよ！",
+      "romaji": "anshin na kokusai yuubin no koukuubin de okuru yo!",
+      "vietnamese": "gửi bằng đường hàng không bưu điện quốc tế / gửi đường bay",
+      "variants": [
+        "anshin na kokusai yuubin no koukuubin de okuru yo",
+        "koukuubin de okuru yo",
+        "okuru yo",
+        "gui duong bay",
+        "gui hang khong"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "あげる",
+    "reading": "あげる",
+    "romaji": "ageru",
+    "meaning": "cho, tặng [Nhóm 2: あげます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:relationship",
+      "action:give",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 3,
+    "examples": [
+      {
+        "japanese": "木村さんに花をあげます。",
+        "vietnamese": "Tôi tặng hoa cho chị Kimura."
+      }
+    ],
+    "question": {
+      "short": "母の日に何をあげるの？",
+      "polite": "母の日には何を差し上げますか？",
+      "reading": "ははのひになにをあげるの？",
+      "romaji": "haha no hi ni nani o ageru no?",
+      "vietnamese": "ngày của mẹ tặng gì cho mẹ / tặng quà gì cho mẹ",
+      "variants": [
+        "haha no hi ni nani o ageru no",
+        "nani o ageru no",
+        "nani ageru"
+      ]
+    },
+    "answer": {
+      "short": "きれいな赤いカーネーションをあげるよ！",
+      "reading": "きれいなあかいかーねーしょんをあげるよ！",
+      "romaji": "kirei na akai ka-ne-shon o ageru yo!",
+      "vietnamese": "tặng hoa cẩm chướng đỏ tuyệt đẹp / tặng hoa",
+      "variants": [
+        "kirei na akai ka-ne-shon o ageru yo",
+        "ka-ne-shon o ageru yo",
+        "ageru yo",
+        "tang hoa cam chuong",
+        "tang hoa"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "もらう",
+    "reading": "もらう",
+    "romaji": "morau",
+    "meaning": "nhận [Nhóm 1: もらいます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:relationship",
+      "action:receive",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 4,
+    "examples": [
+      {
+        "japanese": "誕生日にプレゼントをもらいました。",
+        "vietnamese": "Tôi đã nhận được quà vào ngày sinh nhật."
+      }
+    ],
+    "question": {
+      "short": "誕生日に友達から何をもらったの？",
+      "polite": "お誕生日には何をいただきなさいましたか？",
+      "reading": "たんじょうびにともだちからなにをもらったの？",
+      "romaji": "tanjoubi ni tomodachi kara nani o moratta no?",
+      "vietnamese": "sinh nhật nhận được gì từ bạn bè / được tặng cái gì",
+      "variants": [
+        "tanjoubi ni tomodachi kara nani o moratta no",
+        "nani o moratta no"
+      ]
+    },
+    "answer": {
+      "short": "素敵な腕時計をもらったよ！",
+      "reading": "すてきなうでどけいをもらったよ！",
+      "romaji": "suteki na udedokei o moratta yo!",
+      "vietnamese": "nhận được một chiếc đồng hồ đeo tay rất đẹp / được tặng đồng hồ",
+      "variants": [
+        "suteki na udedokei o moratta yo",
+        "udedokei o moratta yo",
+        "moratta yo",
+        "duoc tang dong ho",
+        "nhan dong ho"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "貸す",
+    "reading": "かす",
+    "romaji": "kasu",
+    "meaning": "cho mượn, cho vay [Nhóm 1: 貸します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:lend",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 5,
+    "examples": [
+      {
+        "japanese": "友達に本を貸します。",
+        "vietnamese": "Tôi cho bạn mượn sách."
+      }
+    ],
+    "question": {
+      "short": "雨が降ってきたね、友達に何を貸す？",
+      "polite": "お友達には何をお貸しになりますか？",
+      "reading": "あめがふってきたね、ともだちになにをかす？",
+      "romaji": "ame ga futte kita ne, tomodachi ni nani o kasu?",
+      "vietnamese": "trời mưa rồi cho bạn mượn cái gì / cho mượn gì",
+      "variants": [
+        "ame ga futte kita ne, tomodachi ni nani o kasu",
+        "nani o kasu"
+      ]
+    },
+    "answer": {
+      "short": "予備の折りたたみ傘を貸すよ！",
+      "reading": "よびのおりたたみがさをかすよ！",
+      "romaji": "yobi no oritatamigasa o kasu yo!",
+      "vietnamese": "cho mượn chiếc ô gấp dự phòng / cho mượn ô",
+      "variants": [
+        "yobi no oritatamigasa o kasu yo",
+        "kasa o kasu yo",
+        "kasu yo",
+        "cho muon o",
+        "cho muon du"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "借りる",
+    "reading": "かりる",
+    "romaji": "kariru",
+    "meaning": "mượn, vay [Nhóm 2: 借ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily_life",
+      "action:borrow",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 6,
+    "examples": [
+      {
+        "japanese": "図書館で本を借ります。",
+        "vietnamese": "Tôi mượn sách ở thư viện."
+      }
+    ],
+    "question": {
+      "short": "図書館でどんな本を借りるの？",
+      "polite": "図書館ではどのような本をお借りになりますか？",
+      "reading": "としょかんでどんなほんをかりるの？",
+      "romaji": "toshokan de donna hon o kariru no?",
+      "vietnamese": "ở thư viện mượn loại sách nào / mượn sách gì",
+      "variants": [
+        "toshokan de donna hon o kariru no",
+        "donna hon o kariru no"
+      ]
+    },
+    "answer": {
+      "short": "日本の歴史についての本を借りるよ！",
+      "reading": "にほんのれきしについてのほんをかりるよ！",
+      "romaji": "nihon no rekishi ni tsuite no hon o kariru yo!",
+      "vietnamese": "mượn cuốn sách về lịch sử nhật bản / mượn sách lịch sử",
+      "variants": [
+        "nihon no rekishi ni tsuite no hon o kariru yo",
+        "hon o kariru yo",
+        "kariru yo",
+        "muon sach",
+        "sach lich su"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "教える",
+    "reading": "おしえる",
+    "romaji": "oshieru",
+    "meaning": "dạy [Nhóm 2: 教えます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:education",
+      "action:teach",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 7,
+    "examples": [
+      {
+        "japanese": "英語を教えます。",
+        "vietnamese": "Tôi dạy tiếng Anh."
+      }
+    ],
+    "question": {
+      "short": "学校で生徒に何を教えているの？",
+      "polite": "学校では何をお教えになっていらっしゃいますか？",
+      "reading": "がっこうでせいとになにをおしえているの？",
+      "romaji": "gakkou de seito ni nani o oshiete iru no?",
+      "vietnamese": "ở trường dạy gì cho học sinh thế / dạy môn gì",
+      "variants": [
+        "gakkou de seito ni nani o oshiete iru no",
+        "nani o oshiete iru no"
+      ]
+    },
+    "answer": {
+      "short": "日常で使える英会話を教えてるよ！",
+      "reading": "にちじょうでつかえるえいかいわをおしえてるよ！",
+      "romaji": "nichijou de tsukaeru eikaiwa o oshiyeteru yo!",
+      "vietnamese": "dạy tiếng anh giao tiếp hàng ngày / dạy tiếng anh",
+      "variants": [
+        "nichijou de tsukaeru eikaiwa o oshiyeteru yo",
+        "eikaiwa o oshiyeteru yo",
+        "oshiyeteru yo",
+        "day tieng anh",
+        "day hoc"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "習う",
+    "reading": "ならう",
+    "romaji": "narau",
+    "meaning": "học, tập [Nhóm 1: 習います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:education",
+      "action:learn",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 8,
+    "examples": [
+      {
+        "japanese": "日本語を習います。",
+        "vietnamese": "Tôi học tiếng Nhật."
+      }
+    ],
+    "question": {
+      "short": "放課後の教室で何を習っているの？",
+      "polite": "どちらで何を習っていらっしゃいますか？",
+      "reading": "ほうかごのきょうしつでなにをならっているの？",
+      "romaji": "houkago no kyoushitsu de nani o naratte iru no?",
+      "vietnamese": "học cái gì ở lớp sau giờ học thế / học thêm môn gì",
+      "variants": [
+        "houkago no kyoushitsu de nani o naratte iru no",
+        "nani o naratte iru no"
+      ]
+    },
+    "answer": {
+      "short": "先生から日本の生け花を習ってるよ！",
+      "reading": "せんせいからにほんのいけばなをならってるよ！",
+      "romaji": "sensei kara nihon no ikebana o naratteru yo!",
+      "vietnamese": "học cắm hoa ikebana từ cô giáo / học cắm hoa nhật",
+      "variants": [
+        "sensei kara nihon no ikebana o naratteru yo",
+        "ikebana o naratteru yo",
+        "naratteru yo",
+        "hoc cam hoa",
+        "hoc ikebana"
+      ]
+    }
+  },
+  {
+    "lesson": 7,
+    "term": "かける",
+    "reading": "かける",
+    "romaji": "kakeru",
+    "meaning": "gọi (điện thoại); đeo (kính), khóa (cửa) [Nhóm 2: かけます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:communication",
+      "action:call",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "examples": [
+      {
+        "japanese": "家族に電話をかけます。",
+        "vietnamese": "Tôi gọi điện thoại cho gia đình."
+      },
+      {
+        "japanese": "めがねをかけます。",
+        "vietnamese": "Tôi đeo kính."
+      }
+    ],
+    "id": 9,
+    "question": {
+      "short": "困ったとき、誰に電話をかけるの？",
+      "polite": "お困りの際はどなたにお電話をおかけになりますか？",
+      "reading": "こまったとき、だれにでんわをかけるの？",
+      "romaji": "komatta toki, dare ni denwa o kakeru no?",
+      "vietnamese": "lúc gặp khó khăn thì gọi điện thoại cho ai / gọi cho ai",
+      "variants": [
+        "komatta toki, dare ni denwa o kakeru no",
+        "dare ni denwa o kakeru no"
+      ]
+    },
+    "answer": {
+      "short": "一番頼りになる家族にかけるよ！",
+      "reading": "いちばんたよりになるかぞくにかけるよ！",
+      "romaji": "ichiban tayori ni naru kazoku ni kakeru yo!",
+      "vietnamese": "gọi cho gia đình người đáng tin cậy nhất / gọi cho gia đình",
+      "variants": [
+        "ichiban tayori ni naru kazoku ni kakeru yo",
+        "kazoku ni kakeru yo",
+        "kakeru yo",
+        "goi cho gia dinh",
+        "goi ve nha"
+      ]
+    }
+  },
+  {
+    "lesson": 9,
+    "term": "わかる",
+    "reading": "わかる",
+    "romaji": "wakaru",
+    "meaning": "hiểu, nắm được [Nhóm 1: わかります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:ability",
+      "action:understand",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "日本語がわかります。",
+        "vietnamese": "Tôi hiểu tiếng Nhật."
+      }
+    ],
+    "question": {
+      "short": "日本語の文法、どのくらいわかる？",
+      "polite": "日本語の文法はどのくらいおわかりになりますか？",
+      "reading": "にほんごのぶんぽう、どのくらいわかる？",
+      "romaji": "nihongo no bunpou, dono kurai wakaru?",
+      "vietnamese": "ngữ pháp tiếng nhật hiểu được khoảng bao nhiêu / hiểu ngữ pháp thế nào",
+      "variants": [
+        "nihongo no bunpou, dono kurai wakaru",
+        "dono kurai wakaru"
+      ]
+    },
+    "answer": {
+      "short": "簡単な会話ならだいたいわかるよ！",
+      "reading": "かんたんなかいわならだいたいわかるよ！",
+      "romaji": "kantan na kaiwa nara daitai wakaru yo!",
+      "vietnamese": "nếu là hội thoại đơn giản thì đại khái hiểu được / đại khái hiểu",
+      "variants": [
+        "kantan na kaiwa nara daitai wakaru yo",
+        "daitai wakaru yo",
+        "wakaru yo",
+        "dai khai hieu",
+        "hieu duoc"
+      ]
+    }
+  },
+  {
+    "lesson": 9,
+    "term": "ある",
+    "reading": "ある",
+    "romaji": "aru",
+    "meaning": "có (sở hữu) [Nhóm 1: あります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:possession",
+      "action:have",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "車があります。",
+        "vietnamese": "Tôi có xe ô-tô."
+      }
+    ],
+    "question": {
+      "short": "今週末、何か用事がある？",
+      "polite": "今週末は何かご用事がございますか？",
+      "reading": "こんしゅうまつ、なにかようじがある？",
+      "romaji": "konshuumatsu, nanika youji ga aru?",
+      "vietnamese": "cuối tuần này có việc bận gì không / có việc bận gì",
+      "variants": [
+        "konshuumatsu, nanika youji ga aru",
+        "nanika youji ga aru"
+      ]
+    },
+    "answer": {
+      "short": "友達と会う約束があるよ！",
+      "reading": "ともだちとあうやくそくがあるよ！",
+      "romaji": "tomodachi to au yakusoku ga aru yo!",
+      "vietnamese": "có hẹn gặp bạn bè / có cuộc hẹn",
+      "variants": [
+        "tomodachi to au yakusoku ga aru yo",
+        "yakusoku ga aru yo",
+        "aru yo",
+        "co hen",
+        "co hen voi ban"
+      ]
+    }
+  },
+  {
+    "lesson": 10,
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "có, ở (tồn tại, dùng cho người và động vật) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:existence",
+      "action:exist",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 1,
+    "examples": [
+      {
+        "japanese": "あそこに、男の人がいます。",
+        "vietnamese": "Ở đằng kia có một người đàn ông."
+      }
+    ],
+    "question": {
+      "short": "庭に誰がいるの？",
+      "polite": "お庭にはどなたがいらっしゃいますか？",
+      "reading": "にわにだれがいるの？",
+      "romaji": "niwa ni dare ga iru no?",
+      "vietnamese": "ngoài sân vườn có ai ở đó thế / ai ở trong vườn",
+      "variants": [
+        "niwa ni dare ga iru no",
+        "dare ga iru no"
+      ]
+    },
+    "answer": {
+      "short": "元気な子どもたちがいるよ！",
+      "reading": "げんきなこどもたちがいるよ！",
+      "romaji": "genki na kodomotachi ga iru yo!",
+      "vietnamese": "có những đứa trẻ khỏe mạnh ở đó / có lũ trẻ",
+      "variants": [
+        "genki na kodomotachi ga iru yo",
+        "kodomotachi ga iru yo",
+        "iru yo",
+        "co tre con",
+        "co lu tre"
+      ]
+    }
+  },
+  {
+    "lesson": 10,
+    "term": "ある",
+    "reading": "ある",
+    "romaji": "aru",
+    "meaning": "có (tồn tại, dùng cho đồ vật) [Nhóm 1: あります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:existence",
+      "action:exist",
+      "form:dictionary",
+      "tone:casual"
+    ],
+    "id": 2,
+    "examples": [
+      {
+        "japanese": "机の上に、本があります。",
+        "vietnamese": "Trên bàn có một cuốn sách."
+      }
+    ],
+    "question": {
+      "short": "机の上に何があるの？",
+      "polite": "机の上には何がございますか？",
+      "reading": "つくえのうえになにがあるの？",
+      "romaji": "tsukue no ue ni nani ga aru no?",
+      "vietnamese": "trên bàn có cái gì thế / có gì trên bàn",
+      "variants": [
+        "tsukue no ue ni nani ga aru no",
+        "nani ga aru no"
+      ]
+    },
+    "answer": {
+      "short": "新しいパソコンと本があるよ！",
+      "reading": "あたらしいぱそこんとほんがあるよ！",
+      "romaji": "atarashii pasokon to hon ga aru yo!",
+      "vietnamese": "có máy tính mới và cuốn sách / có máy tính và sách",
+      "variants": [
+        "atarashii pasokon to hon ga aru yo",
+        "pasokon to hon ga aru yo",
+        "aru yo",
+        "co may tinh va sach",
+        "co sach"
+      ]
+    }
+  },
+  {
+    "lesson": 11,
+    "id": 1,
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "có (con cái, người, động vật) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:family",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "子ども何人いる？",
+      "polite": "お子さんは何人いらっしゃいますか？",
+      "reading": "こどもなんにんいる？",
+      "romaji": "kodomo nannin iru?",
+      "vietnamese": "có mấy người con / bạn có mấy đứa con",
+      "variants": [
+        "kodomo nannin imasu ka",
+        "okosan wa nannin desu ka",
+        "kodomo nannin iru"
+      ]
+    },
+    "answer": {
+      "short": "二人いるよ。",
+      "reading": "ふたりいるよ。",
+      "romaji": "futari iru yo.",
+      "vietnamese": "có hai đứa / có 2 con",
+      "variants": [
+        "futari imasu",
+        "futari",
+        "co hai dua",
+        "hai dua"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "わたしは、子どもが二人います。",
+        "vietnamese": "Tôi có hai người con."
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "id": 2,
+    "term": "いる",
+    "reading": "いる",
+    "romaji": "iru",
+    "meaning": "ở (tại Nhật Bản) [Nhóm 2: います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:living",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "日本にどのくらいいるの？",
+      "polite": "日本にどのくらいいらっしゃいますか？",
+      "reading": "にほんにどのくらいいるの？",
+      "romaji": "nihon ni dono kurai iru no?",
+      "vietnamese": "ở nhật bao lâu rồi / bạn ở nhật bao lâu",
+      "variants": [
+        "nihon ni dono kurai imasu ka",
+        "nihon ni dono kurai iru"
+      ]
+    },
+    "answer": {
+      "short": "一年いるよ。",
+      "reading": "いちねんいるよ。",
+      "romaji": "ichinen iru yo.",
+      "vietnamese": "ở được một năm rồi / một năm",
+      "variants": [
+        "ichinen imasu",
+        "ichinen",
+        "mot nam roi",
+        "mot nam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日本に一年います。",
+        "vietnamese": "Tôi ở Nhật một năm."
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "id": 3,
+    "term": "かかる",
+    "reading": "かかる",
+    "romaji": "kakaru",
+    "meaning": "mất, tốn (thời gian, tiền bạc) [Nhóm 1: かかります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:travel",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "東京までどのくらいかかる？",
+      "polite": "東京までどのくらいかかりますか？",
+      "reading": "とうきょうまでどのくらいかかる？",
+      "romaji": "toukyou made dono kurai kakaru?",
+      "vietnamese": "đến tokyo mất bao lâu / đi tokyo hết bao lâu",
+      "variants": [
+        "toukyou made dono kurai kakarimasu ka",
+        "toukyou made dono kurai kakaru"
+      ]
+    },
+    "answer": {
+      "short": "新幹線で2時間。",
+      "reading": "しんかんせんでにじかん。",
+      "romaji": "shinkansen de nijikan.",
+      "vietnamese": "đi shinkansen mất 2 tiếng / mất 2 tiếng",
+      "variants": [
+        "nijikan kakarimasu",
+        "nijikan",
+        "hai tieng",
+        "mat hai tieng"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "駅から学校まで、歩いて15分かかります。",
+        "vietnamese": "Từ nhà ga đến trường đi bộ mất 15 phút."
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "id": 4,
+    "term": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu",
+    "meaning": "nghỉ (nghỉ làm, nghỉ ngơi) [Nhóm 1: 休みます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:work",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "明日はどうするの？",
+      "polite": "明日はどうなさいますか？",
+      "reading": "あしたはどうするの？",
+      "romaji": "ashita wa dou suru no?",
+      "vietnamese": "mai định làm sao / ngày mai làm gì",
+      "variants": [
+        "ashita wa dou shimasu ka",
+        "ashita dou suru no",
+        "ashita wa dou suru"
+      ]
+    },
+    "answer": {
+      "short": "会社休むよ。",
+      "reading": "かいしゃやすむよ。",
+      "romaji": "kaisha yasumu yo.",
+      "vietnamese": "nghỉ làm thôi / nghỉ làm",
+      "variants": [
+        "kaisha o yasumimasu",
+        "kaisha yasumu",
+        "yasumu yo",
+        "nghi lam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "風邪ですから、会社を休みます。",
+        "vietnamese": "Vì bị cảm nên tôi nghỉ làm."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 1,
+    "term": "遊ぶ",
+    "reading": "あそぶ",
+    "romaji": "asobu",
+    "meaning": "Chơi, vui chơi [Nhóm 1: 遊びます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:leisure",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "週末はどこで遊ぶの？",
+      "polite": "週末はどこで遊びますか？",
+      "reading": "しゅうまつはどこであそぶの？",
+      "romaji": "shuumatsu wa doko de asobu no?",
+      "vietnamese": "Cuối tuần bạn chơi ở đâu?",
+      "variants": [
+        "shuumatsu wa doko de asobu no",
+        "shuumatsu wa doko de asobimasu ka",
+        "doko de asobu no",
+        "cuoi tuan choi o dau"
+      ]
+    },
+    "answer": {
+      "short": "友達の家でゲームして遊ぶよ！",
+      "reading": "ともだちのいえでげーむしてあそぶよ！",
+      "romaji": "tomodachi no ie de geemu shite asobu yo!",
+      "vietnamese": "Mình chơi game ở nhà bạn!",
+      "variants": [
+        "tomodachi no ie de geemu shite asobu yo",
+        "tomodachi no ie de geemu shite asobu",
+        "asobu yo",
+        "asobu",
+        "choi o nha ban"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "休みの日は、公園で子供と遊びます。",
+        "vietnamese": "Vào ngày nghỉ, tôi chơi với con ở công viên."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 2,
+    "term": "泳ぐ",
+    "reading": "およぐ",
+    "romaji": "oyogu",
+    "meaning": "Bơi [Nhóm 1: 泳ぎます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:sports",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "夏休みはどこで泳ぐの？",
+      "polite": "夏休みはどこで泳ぎますか？",
+      "reading": "なつやすみはどこでおよぐの？",
+      "romaji": "natsuyasumi wa doko de oyogu no?",
+      "vietnamese": "Kỳ nghỉ hè bạn bơi ở đâu?",
+      "variants": [
+        "natsuyasumi wa doko de oyogu no",
+        "natsuyasumi wa doko de oyogimasu ka",
+        "doko de oyogu no",
+        "nghi he boi o dau"
+      ]
+    },
+    "answer": {
+      "short": "ホテルのきれいなプールで泳ぐよ！",
+      "reading": "ほてるのきれいなぷーるでおよぐよ！",
+      "romaji": "hoteru no kirei na puuru de oyogu yo!",
+      "vietnamese": "Mình bơi ở hồ bơi đẹp của khách sạn!",
+      "variants": [
+        "hoteru no kirei na puuru de oyogu yo",
+        "hoteru no kirei na puuru de oyogu",
+        "puuru de oyogu yo",
+        "oyogu yo",
+        "oyogu",
+        "boi o ho boi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "市民プールで１時間泳ぎました。",
+        "vietnamese": "Tôi đã bơi 1 tiếng ở hồ bơi thành phố."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 3,
+    "term": "迎える",
+    "reading": "むかえる",
+    "romaji": "mukaeru",
+    "meaning": "Đón [Nhóm 2: 迎えます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "空港で誰を迎えるの？",
+      "polite": "空港で誰を迎えますか？",
+      "reading": "くうこうでだれをむかえるの？",
+      "romaji": "kuukou de dare o mukaeru no?",
+      "vietnamese": "Bạn đón ai ở sân bay thế?",
+      "variants": [
+        "kuukou de dare o mukaeru no",
+        "kuukou de dare o mukaemasu ka",
+        "dare o mukaeru no",
+        "don ai o san bay"
+      ]
+    },
+    "answer": {
+      "short": "日本から来る友達を迎えるよ！",
+      "reading": "にほんからくるともだちをむかえるよ！",
+      "romaji": "nihon kara kuru tomodachi o mukaeru yo!",
+      "vietnamese": "Mình đi đón người bạn đến từ Nhật Bản!",
+      "variants": [
+        "nihon kara kuru tomodachi o mukaeru yo",
+        "nihon kara kuru tomodachi o mukaeru",
+        "tomodachi o mukaeru yo",
+        "mukaeru yo",
+        "mukaeru",
+        "don ban"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "車で駅へ両親を迎えに行きます。",
+        "vietnamese": "Tôi đi xe ô tô ra ga để đón bố mẹ."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 4,
+    "term": "疲れる",
+    "reading": "つかれる",
+    "romaji": "tsukareru",
+    "meaning": "Mệt [Nhóm 2: 疲れます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:health",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "今日、どうしてそんなに疲れたの？",
+      "polite": "今日、どうしてそんなに疲れましたか？",
+      "reading": "きょう、どうしてそんなにつかれたの？",
+      "romaji": "kyou, doushite sonna ni tsukareta no?",
+      "vietnamese": "Hôm nay sao bạn mệt mỏi thế?",
+      "variants": [
+        "kyou doushite sonna ni tsukareta no",
+        "doushite sonna ni tsukareta no",
+        "doushite tsukareta no",
+        "sao met the"
+      ]
+    },
+    "answer": {
+      "short": "朝からずっと歩いて疲れたよ！",
+      "reading": "あさからずっとあるいてつかれたよ！",
+      "romaji": "asa kara zutto aruite tsukareta yo!",
+      "vietnamese": "Từ sáng tới giờ đi bộ suốt nên mệt!",
+      "variants": [
+        "asa kara zutto aruite tsukareta yo",
+        "asa kara zutto aruite tsukareta",
+        "tsukareta yo",
+        "tsukareta",
+        "met roi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "仕事がたくさんありましたから、疲れました。",
+        "vietnamese": "Vì có nhiều công việc nên tôi đã mệt."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 5,
+    "term": "出す [手紙を ~]",
+    "reading": "だす [てがみを ~]",
+    "romaji": "dasu [tegami o ~]",
+    "meaning": "Gửi [thư] [Nhóm 1: 出します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:communication",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "郵便局で何を出すの？",
+      "polite": "郵便局で何を出しますか？",
+      "reading": "ゆうびんきょくでなにをだすの？",
+      "romaji": "yuubinkyoku de nani o dasu no?",
+      "vietnamese": "Bạn gửi cái gì ở bưu điện vậy?",
+      "variants": [
+        "yuubinkyoku de nani o dasu no",
+        "yuubinkyoku de nani o dashimasu ka",
+        "nani o dasu no",
+        "gui cai gi o buu dien"
+      ]
+    },
+    "answer": {
+      "short": "家族への手紙を出すよ！",
+      "reading": "かぞくへのてがみをだすよ！",
+      "romaji": "kazoku e no tegami o dasu yo!",
+      "vietnamese": "Mình gửi bức thư cho gia đình!",
+      "variants": [
+        "kazoku e no tegami o dasu yo",
+        "kazoku e no tegami o dasu",
+        "tegami o dasu yo",
+        "dasu yo",
+        "dasu",
+        "gui thu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "あした、先生に手紙を出します。",
+        "vietnamese": "Ngày mai tôi sẽ gửi thư cho thầy cô."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 6,
+    "term": "入る [喫茶店に ~]",
+    "reading": "はいる [きっさてんに ~]",
+    "romaji": "hairu [kissaten ni ~]",
+    "meaning": "Vào [quán giải khát] [Nhóm 1: 入ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "どこの喫茶店に入る？",
+      "polite": "どこの喫茶店に入りますか？",
+      "reading": "どこのきっさてんにはいる？",
+      "romaji": "doko no kissaten ni hairu?",
+      "vietnamese": "Chúng mình vào quán cà phê nào?",
+      "variants": [
+        "doko no kissaten ni hairu",
+        "doko no kissaten ni hairimasu ka",
+        "dono kissaten ni hairu",
+        "vao quan ca phe nao"
+      ]
+    },
+    "answer": {
+      "short": "あそこの静かな喫茶店に入るよ！",
+      "reading": "あそこのしずかなきっさてんにはいるよ！",
+      "romaji": "asoko no shizuka na kissaten ni hairu yo!",
+      "vietnamese": "Vào quán giải khát yên tĩnh đằng kia đi!",
+      "variants": [
+        "asoko no shizuka na kissaten ni hairu yo",
+        "asoko no shizuka na kissaten ni hairu",
+        "kissaten ni hairu yo",
+        "hairu yo",
+        "hairu",
+        "vao quan kia"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "雨が降ってきましたから、喫茶店に入りましょう。",
+        "vietnamese": "Trời đổ mưa rồi, chúng ta hãy vào quán giải khát nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 7,
+    "term": "出る [喫茶店を ~]",
+    "reading": "でる [きっさてんを ~]",
+    "romaji": "deru [kissaten o ~]",
+    "meaning": "Ra, rời khỏi [quán giải khát] [Nhóm 2: 出ます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "喫茶店を何時に出る？",
+      "polite": "喫茶店を何時に出ますか？",
+      "reading": "きっさてんをなんじにでる？",
+      "romaji": "kissaten o nanji ni deru?",
+      "vietnamese": "Mấy giờ bạn rời khỏi quán cà phê?",
+      "variants": [
+        "kissaten o nanji ni deru",
+        "kissaten o nanji ni demasu ka",
+        "nanji ni deru",
+        "may gio roi quan"
+      ]
+    },
+    "answer": {
+      "short": "３時半ごろに出るよ！",
+      "reading": "さんじはんごろにでるよ！",
+      "romaji": "sanji han goro ni deru yo!",
+      "vietnamese": "Khoảng 3 rưỡi mình rời quán!",
+      "variants": [
+        "sanji han goro ni deru yo",
+        "sanji han goro ni deru",
+        "sanji han ni deru",
+        "deru yo",
+        "deru",
+        "khoang 3 gio ruoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "コーヒーを飲んでから、喫茶店を出ました。",
+        "vietnamese": "Sau khi uống cà phê xong, tôi đã rời quán."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 8,
+    "term": "結婚する",
+    "reading": "けっこんする",
+    "romaji": "kekkonsuru",
+    "meaning": "Kết hôn, lập gia đình, cưới [Nhóm 3: 結婚します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:relationship",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "いつ結婚する予定なの？",
+      "polite": "いつ結婚する予定ですか？",
+      "reading": "いつけっこんするよていなの？",
+      "romaji": "itsu kekkon suru yotei na no?",
+      "vietnamese": "Khi nào bạn dự định kết hôn?",
+      "variants": [
+        "itsu kekkon suru yotei na no",
+        "itsu kekkon suru yotei desu ka",
+        "itsu kekkon suru no",
+        "khi nao ket hon"
+      ]
+    },
+    "answer": {
+      "short": "来年の秋に結婚するよ！",
+      "reading": "らいねんのあきにけっこんするよ！",
+      "romaji": "rainen no aki ni kekkon suru yo!",
+      "vietnamese": "Mùa thu sang năm mình cưới!",
+      "variants": [
+        "rainen no aki ni kekkon suru yo",
+        "rainen no aki ni kekkon suru",
+        "kekkon suru yo",
+        "kekkon suru",
+        "sang nam cuoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "田中さんは来月、結婚します。",
+        "vietnamese": "Anh Tanaka sẽ kết hôn vào tháng sau."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 9,
+    "term": "買い物する",
+    "reading": "かいものする",
+    "romaji": "kaimonosuru",
+    "meaning": "Mua sắm, mua hàng [Nhóm 3: 買い物します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:shopping",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "デパートで何を買うの？",
+      "polite": "デパートで何を買い物をしますか？",
+      "reading": "でぱーとでなにをかうの？",
+      "romaji": "depaato de nani o kau no?",
+      "vietnamese": "Bạn mua gì ở trung tâm thương mại?",
+      "variants": [
+        "depaato de nani o kau no",
+        "depaato de nani o kaimono shimasu ka",
+        "nani o kaimono suru no",
+        "mua gi o trung tam thuong mai"
+      ]
+    },
+    "answer": {
+      "short": "新しい靴や服を買い物するよ！",
+      "reading": "あたらしいくつやふくをかいものするよ！",
+      "romaji": "atarashii kutsu ya fuku o kaimono suru yo!",
+      "vietnamese": "Mình mua giày mới và quần áo!",
+      "variants": [
+        "atarashii kutsu ya fuku o kaimono suru yo",
+        "atarashii kutsu ya fuku o kaimono suru",
+        "kaimono suru yo",
+        "kaimono suru",
+        "mua quan ao"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "日曜日、スーパーで買い物します。",
+        "vietnamese": "Chủ nhật tôi đi mua sắm ở siêu thị."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 10,
+    "term": "食事する",
+    "reading": "しょくじする",
+    "romaji": "shokujisuru",
+    "meaning": "Ăn cơm, dùng bữa [Nhóm 3: 食事します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:dining",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "今夜は誰と食事するの？",
+      "polite": "今夜はどなたと食事しますか？",
+      "reading": "こんやはだれとしょくじするの？",
+      "romaji": "konya wa dare to shokuji suru no?",
+      "vietnamese": "Tối nay bạn dùng bữa với ai?",
+      "variants": [
+        "konya wa dare to shokuji suru no",
+        "konya wa donata to shokuji shimasu ka",
+        "dare to shokuji suru no",
+        "toi nay an voi ai"
+      ]
+    },
+    "answer": {
+      "short": "会社の同僚と楽しく食事するよ！",
+      "reading": "かいしゃのどうりょうとたのしくしょくじするよ！",
+      "romaji": "kaisha no douryou to tanoshiku shokuji suru yo!",
+      "vietnamese": "Mình dùng bữa vui vẻ cùng đồng nghiệp công ty!",
+      "variants": [
+        "kaisha no douryou to tanoshiku shokuji suru yo",
+        "kaisha no douryou to tanoshiku shokuji suru",
+        "shokuji suru yo",
+        "shokuji suru",
+        "an cung dong nghiep"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "家族と一緒にレストランで食事しました。",
+        "vietnamese": "Tôi đã dùng bữa ở nhà hàng cùng với gia đình."
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "id": 11,
+    "term": "散歩する [公園を ~]",
+    "reading": "さんぽする [こうえんを ~]",
+    "romaji": "sanposuru [kouen o ~]",
+    "meaning": "Đi dạo [ở công viên] [Nhóm 3: 散歩します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:leisure",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "どの公園を散歩するの？",
+      "polite": "どの公園を散歩しますか？",
+      "reading": "どのこうえんをさんぽするの？",
+      "romaji": "dono kouen o sanpo suru no?",
+      "vietnamese": "Bạn đi dạo ở công viên nào thế?",
+      "variants": [
+        "dono kouen o sanpo suru no",
+        "dono kouen o sanpo shimasu ka",
+        "doko o sanpo suru no",
+        "di dao cong vien nao"
+      ]
+    },
+    "answer": {
+      "short": "桜がたくさんある公園を散歩するよ！",
+      "reading": "さくらがたくさんあるこうえんをさんぽするよ！",
+      "romaji": "sakura ga takusan aru kouen o sanpo suru yo!",
+      "vietnamese": "Mình đi dạo ở công viên có nhiều hoa anh đào!",
+      "variants": [
+        "sakura ga takusan aru kouen o sanpo suru yo",
+        "sakura ga takusan aru kouen o sanpo suru",
+        "kouen o sanpo suru yo",
+        "sanpo suru yo",
+        "sanpo suru",
+        "di dao cong vien hoa anh dao"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "毎朝、犬と一緒に公園を散歩します。",
+        "vietnamese": "Mỗi sáng, tôi đều đi dạo ở công viên cùng chú chó."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 1,
+    "term": "つける",
+    "reading": "つける",
+    "romaji": "tsukeru",
+    "meaning": "bật (điện, máy điều hòa) [Nhóm 2: つけます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "部屋が暗いから何をつける？",
+      "polite": "部屋が暗いので何をつけますか？",
+      "reading": "へやがくらいからなにをつける？",
+      "romaji": "heya ga kurai kara nani o tsukeru?",
+      "vietnamese": "Phòng tối nên bạn bật cái gì",
+      "variants": [
+        "heya ga kurai kara nani o tsukeru",
+        "heya ga kurai node nani o tsukemasu ka",
+        "nani o tsukeru",
+        "bat cai gi"
+      ]
+    },
+    "answer": {
+      "short": "電気をつけるよ！",
+      "reading": "でんきをつけるよ！",
+      "romaji": "denki o tsukeru yo!",
+      "vietnamese": "Bật điện lên nhé!",
+      "variants": [
+        "denki o tsukeru yo",
+        "denki o tsukeru",
+        "denki tsukeru",
+        "denki",
+        "bat dien"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "暗いですから、電気をつけましょう。",
+        "vietnamese": "Vì trời tối nên chúng ta hãy bật điện lên nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 2,
+    "term": "消す",
+    "reading": "けす",
+    "romaji": "kesu",
+    "meaning": "tắt (điện, máy điều hòa) [Nhóm 1: 消します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "部屋を出るとき何を消す？",
+      "polite": "部屋を出るとき何を消しますか？",
+      "reading": "へやをでるときなにをけす？",
+      "romaji": "heya o deru toki nani o kesu?",
+      "vietnamese": "Khi ra khỏi phòng bạn tắt cái gì",
+      "variants": [
+        "heya o deru toki nani o kesu",
+        "heya o deru toki nani o keshimasu ka",
+        "nani o kesu",
+        "tat cai gi"
+      ]
+    },
+    "answer": {
+      "short": "エアコンと電気を消すよ！",
+      "reading": "えあこんとでんきをけすよ！",
+      "romaji": "eakon to denki o kesu yo!",
+      "vietnamese": "Tắt điều hòa và điện nhé!",
+      "variants": [
+        "eakon to denki o kesu yo",
+        "eakon to denki o kesu",
+        "denki o kesu",
+        "tat dieu hoa"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "出かける前に、エアコンを消してください。",
+        "vietnamese": "Trước khi ra ngoài, xin hãy tắt máy điều hòa."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 3,
+    "term": "開ける",
+    "reading": "あける",
+    "romaji": "akeru",
+    "meaning": "mở (cửa, cửa sổ) [Nhóm 2: 開けます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "部屋が暑いとき何を開ける？",
+      "polite": "部屋が暑いとき何を開けますか？",
+      "reading": "へやがあついときなにをあける？",
+      "romaji": "heya ga atsui toki nani o akeru?",
+      "vietnamese": "Khi phòng nóng bạn mở cái gì",
+      "variants": [
+        "heya ga atsui toki nani o akeru",
+        "heya ga atsui toki nani o akemasu ka",
+        "nani o akeru",
+        "mo cai gi"
+      ]
+    },
+    "answer": {
+      "short": "窓を開けるよ！",
+      "reading": "まどをあけるよ！",
+      "romaji": "mado o akeru yo!",
+      "vietnamese": "Mở cửa sổ ra nhé!",
+      "variants": [
+        "mado o akeru yo",
+        "mado o akeru",
+        "mado akeru",
+        "mado",
+        "mo cua so"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "暑いですから、窓を開けてください。",
+        "vietnamese": "Vì nóng nên hãy mở cửa sổ ra nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 4,
+    "term": "閉める",
+    "reading": "しめる",
+    "romaji": "shimeru",
+    "meaning": "đóng (cửa, cửa sổ) [Nhóm 2: 閉めます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:daily",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "雨が降ってきたら何を閉める？",
+      "polite": "雨が降ってきたら何を閉めますか？",
+      "reading": "あめがふってきたらなにをしめる？",
+      "romaji": "ame ga futte kitara nani o shimeru?",
+      "vietnamese": "Khi trời mưa tới bạn đóng cái gì",
+      "variants": [
+        "ame ga futte kitara nani o shimeru",
+        "ame ga futte kitara nani o shimemasu ka",
+        "nani o shimeru",
+        "dong cai gi"
+      ]
+    },
+    "answer": {
+      "short": "窓をしっかり閉めるよ！",
+      "reading": "まどをしっかりしめるよ！",
+      "romaji": "mado o shikkari shimeru yo!",
+      "vietnamese": "Đóng chặt cửa sổ lại nhé!",
+      "variants": [
+        "mado o shikkari shimeru yo",
+        "mado o shimeru",
+        "mado shimeru",
+        "dong cua so"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "寒いですから、ドアを閉めてください。",
+        "vietnamese": "Vì lạnh nên hãy đóng cửa phòng lại nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 5,
+    "term": "急ぐ",
+    "reading": "いそぐ",
+    "romaji": "isogu",
+    "meaning": "vội, gấp [Nhóm 1: 急ぎます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "時間が全然ないときどうする？",
+      "polite": "時間が全然ないときどうしますか？",
+      "reading": "じかんがぜんぜんないときどうする？",
+      "romaji": "jikan ga zenzen nai toki dou suru?",
+      "vietnamese": "Khi hoàn toàn không có thời gian bạn làm thế nào",
+      "variants": [
+        "jikan ga zenzen nai toki dou suru",
+        "jikan ga nai toki dou suru",
+        "dou suru",
+        "lam the nao"
+      ]
+    },
+    "answer": {
+      "short": "走って急ぐよ！",
+      "reading": "はしっていそぐよ！",
+      "romaji": "hashitte isogu yo!",
+      "vietnamese": "Chạy thật gấp gáp nhé!",
+      "variants": [
+        "hashitte isogu yo",
+        "isogu yo",
+        "isogu",
+        "gap gap",
+        "voi vang"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "電車に遅れますから、急ぎましょう。",
+        "vietnamese": "Vì sắp muộn tàu điện nên chúng ta hãy nhanh lên nhé."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 6,
+    "term": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "meaning": "đợi, chờ [Nhóm 1: 待ちます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "友達をどこで待つ？",
+      "polite": "友達をどこで待ちますか？",
+      "reading": "ともだちをどこでまつ？",
+      "romaji": "tomodachi o doko de matsu?",
+      "vietnamese": "Bạn đợi bạn bè ở đâu",
+      "variants": [
+        "tomodachi o doko de matsu",
+        "tomodachi o doko de machimasu ka",
+        "doko de matsu",
+        "doi o dau"
+      ]
+    },
+    "answer": {
+      "short": "駅の改札の前で待つよ！",
+      "reading": "えきのかいさつのまえでまつよ！",
+      "romaji": "eki no kaisatsu no mae de matsu yo!",
+      "vietnamese": "Đợi ở trước cửa soát vé của ga nhé!",
+      "variants": [
+        "eki no kaisatsu no mae de matsu yo",
+        "eki de matsu yo",
+        "matsu yo",
+        "matsu",
+        "doi o ga"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "ロビーでちょっと待ってください。",
+        "vietnamese": "Xin vui lòng đợi một chút ở sảnh chờ."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 7,
+    "term": "止める",
+    "reading": "とめる",
+    "romaji": "tomeru",
+    "meaning": "dừng, đỗ (xe) [Nhóm 2: 止めます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:transport",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "車をどこに止める？",
+      "polite": "車をどこに止めますか？",
+      "reading": "くるまをどこにとめる？",
+      "romaji": "kuruma o doko ni tomeru?",
+      "vietnamese": "Bạn đỗ xe ở đâu",
+      "variants": [
+        "kuruma o doko ni tomeru",
+        "kuruma o doko ni tomemasu ka",
+        "doko ni tomeru",
+        "do xe o dau"
+      ]
+    },
+    "answer": {
+      "short": "スーパーの駐車場に止めるよ！",
+      "reading": "すーぱーのちゅうしゃじょうにとめるよ！",
+      "romaji": "suupaa no chuushajou ni tomeru yo!",
+      "vietnamese": "Đỗ ở bãi giữ xe của siêu thị nhé!",
+      "variants": [
+        "suupaa no chuushajou ni tomeru yo",
+        "chuushajou ni tomeru",
+        "tomeru yo",
+        "tomeru",
+        "do xe"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "あそこに車を止めてください。",
+        "vietnamese": "Xin vui lòng đỗ xe ở đằng kia."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 8,
+    "term": "曲がる [右へ ~]",
+    "reading": "まがる [みぎへ ~]",
+    "romaji": "magaru [migi e ~]",
+    "meaning": "rẽ, quẹo [phải] [Nhóm 1: 曲がります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:direction",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "交差点でどっちへ曲がる？",
+      "polite": "交差点でどちらへ曲がりますか？",
+      "reading": "こうさてんでどっちへまがる？",
+      "romaji": "kousaten de docchi e magaru?",
+      "vietnamese": "Ở ngã tư bạn rẽ về phía nào",
+      "variants": [
+        "kousaten de docchi e magaru",
+        "kousaten de dochira e magarimasu ka",
+        "docchi e magaru",
+        "re huong nao"
+      ]
+    },
+    "answer": {
+      "short": "信号を右へ曲がるよ！",
+      "reading": "しんごうをみぎへまがるよ！",
+      "romaji": "shingou o migi e magaru yo!",
+      "vietnamese": "Rẽ phải ở chỗ đèn tín hiệu nhé!",
+      "variants": [
+        "shingou o migi e magaru yo",
+        "migi e magaru yo",
+        "migi e magaru",
+        "migi magaru",
+        "re phai"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "あの信号を右へ曲がってください。",
+        "vietnamese": "Xin vui lòng rẽ phải ở chỗ đèn tín hiệu kia."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 9,
+    "term": "持つ",
+    "reading": "もつ",
+    "romaji": "motsu",
+    "meaning": "mang, cầm [Nhóm 1: 持ちます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "重い荷物を誰が持つ？",
+      "polite": "重い荷物を誰が持ちますか？",
+      "reading": "おもいにもつをだれがもつ？",
+      "romaji": "omoi nimotsu o dare ga motsu?",
+      "vietnamese": "Hành lý nặng ai cầm",
+      "variants": [
+        "omoi nimotsu o dare ga motsu",
+        "omoi nimotsu o dare ga mochimasu ka",
+        "dare ga motsu",
+        "ai cam"
+      ]
+    },
+    "answer": {
+      "short": "僕が持つよ！",
+      "reading": "ぼくがもつよ！",
+      "romaji": "boku ga motsu yo!",
+      "vietnamese": "Tôi sẽ cầm giúp cho nhé!",
+      "variants": [
+        "boku ga motsu yo",
+        "watashi ga motsu",
+        "motsu yo",
+        "motsu",
+        "toi cam"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "荷物を持ちましょうか。",
+        "vietnamese": "Để tôi mang hành lý giúp bạn nhé?"
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 10,
+    "term": "取る",
+    "reading": "とる",
+    "romaji": "toru",
+    "meaning": "lấy (muối) [Nhóm 1: 取ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "テーブルの上の何を取ってほしい？",
+      "polite": "テーブルの上の何を取ってほしいですか？",
+      "reading": "てーぶるのうえのなにをとってほしい？",
+      "romaji": "teeburu no ue no nani o totte hoshii?",
+      "vietnamese": "Bạn muốn lấy cái gì ở trên bàn",
+      "variants": [
+        "teeburu no ue no nani o totte hoshii",
+        "nani o torimasu ka",
+        "nani o totte hoshii",
+        "lay cai gi"
+      ]
+    },
+    "answer": {
+      "short": "そこの塩を取ってよ！",
+      "reading": "そこのしおをとってよ！",
+      "romaji": "soko no shio o totte yo!",
+      "vietnamese": "Lấy giúp lọ muối ở đó nhé!",
+      "variants": [
+        "soko no shio o totte yo",
+        "shio o totte",
+        "shio o toru",
+        "shio",
+        "lay lo muoi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "すみませんが、塩を取ってください。",
+        "vietnamese": "Xin lỗi, làm ơn lấy giúp tôi lọ muối."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 11,
+    "term": "手伝う",
+    "reading": "てつだう",
+    "romaji": "tetsudau",
+    "meaning": "giúp (làm việc) [Nhóm 1: 手伝います]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "誰の仕事を何で手伝う？",
+      "polite": "誰の仕事を何で手伝いますか？",
+      "reading": "だれのしごとをなんでてつだう？",
+      "romaji": "dare no shigoto o nan de tetsudau?",
+      "vietnamese": "Bạn giúp việc của ai",
+      "variants": [
+        "dare no shigoto o nan de tetsudau",
+        "dare o tetsudaimasu ka",
+        "dare o tetsudau",
+        "giup viec ai"
+      ]
+    },
+    "answer": {
+      "short": "先輩の引っ越しを手伝うよ！",
+      "reading": "せんぱいのひっこしをてつだうよ！",
+      "romaji": "senpai no hikkoshi o tetsudau yo!",
+      "vietnamese": "Giúp tiền bối chuyển nhà nhé!",
+      "variants": [
+        "senpai no hikkoshi o tetsudau yo",
+        "hikkoshi o tetsudau",
+        "tetsudau yo",
+        "tetsudau",
+        "giup tien boi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "レポートの作成を手伝ってください。",
+        "vietnamese": "Xin hãy giúp tôi hoàn thành bài báo cáo."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 12,
+    "term": "呼ぶ",
+    "reading": "よぶ",
+    "romaji": "yobu",
+    "meaning": "gọi (tắc-xi, tên) [Nhóm 1: 呼びます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:transport",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "荷物が多いから何を呼ぶ？",
+      "polite": "荷物が多いので何を呼びますか？",
+      "reading": "にもつがおおいからなにをよぶ？",
+      "romaji": "nimotsu ga ooi kara nani o yobu?",
+      "vietnamese": "Hành lý nhiều nên bạn gọi cái gì",
+      "variants": [
+        "nimotsu ga ooi kara nani o yobu",
+        "nani o yobimasu ka",
+        "nani o yobu",
+        "goi cai gi"
+      ]
+    },
+    "answer": {
+      "short": "タクシーをすぐに呼ぶよ！",
+      "reading": "たくしーをすぐによぶよ！",
+      "romaji": "takushii o sugu ni yobu yo!",
+      "vietnamese": "Gọi ngay một chiếc tắc-xi nhé!",
+      "variants": [
+        "takushii o sugu ni yobu yo",
+        "takushii o yobu",
+        "takushii yobu",
+        "takushii",
+        "goi taxi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "タクシーを1台呼んでください。",
+        "vietnamese": "Xin làm ơn gọi giúp tôi một chiếc xe tắc-xi."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 13,
+    "term": "話す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "meaning": "nói, nói chuyện [Nhóm 1: 話します]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:communication",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "先生と何語で話す？",
+      "polite": "先生と何語で話しますか？",
+      "reading": "せんせいとなにごではなす？",
+      "romaji": "sensei to nanigo de hanasu?",
+      "vietnamese": "Bạn nói chuyện với thầy giáo bằng tiếng gì",
+      "variants": [
+        "sensei to nanigo de hanasu",
+        "nanigo de hanashimasu ka",
+        "nanigo de hanasu",
+        "noi tieng gi"
+      ]
+    },
+    "answer": {
+      "short": "日本語でゆっくり話すよ！",
+      "reading": "にほんごでゆっくりはなすよ！",
+      "romaji": "nihongo de yukkuri hanasu yo!",
+      "vietnamese": "Nói chuyện từ từ bằng tiếng Nhật nhé!",
+      "variants": [
+        "nihongo de yukkuri hanasu yo",
+        "nihongo de hanasu",
+        "hanasu yo",
+        "hanasu",
+        "noi tieng nhat"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "もう少しゆっくり話してください。",
+        "vietnamese": "Xin vui lòng nói chậm hơn một chút."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 14,
+    "term": "見せる",
+    "reading": "みせる",
+    "romaji": "miseru",
+    "meaning": "cho xem, trình [Nhóm 2: 見せます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "空港で係の人に何を見せる？",
+      "polite": "空港で係の人に何を見せますか？",
+      "reading": "くうこうでかかりのひとになにをみせる？",
+      "romaji": "kuukou de kakari no hito ni nani o miseru?",
+      "vietnamese": "Ở sân bay bạn cho nhân viên xem cái gì",
+      "variants": [
+        "kuukou de kakari no hito ni nani o miseru",
+        "nani o misemasu ka",
+        "nani o miseru",
+        "cho xem cai gi"
+      ]
+    },
+    "answer": {
+      "short": "パスポートを見せるよ！",
+      "reading": "ぱすぽーとをみせるよ！",
+      "romaji": "pasupooto o miseru yo!",
+      "vietnamese": "Trình hộ chiếu ra nhé!",
+      "variants": [
+        "pasupooto o miseru yo",
+        "pasupooto o miseru",
+        "pasupooto miseru",
+        "pasupooto",
+        "cho xem ho chieu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "パスポートを見せてください。",
+        "vietnamese": "Xin vui lòng cho tôi xem hộ chiếu."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 15,
+    "term": "教える [住所を ~]",
+    "reading": "おしえる [じゅうしょを ~]",
+    "romaji": "oshieru [juusho o ~]",
+    "meaning": "nói, cho biết [địa chỉ] [Nhóm 2: 教えます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:communication",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "友達に何を教えてあげる？",
+      "polite": "友達に何を教えますか？",
+      "reading": "ともだちになにをおしえてあげる？",
+      "romaji": "tomodachi ni nani o oshiete ageru?",
+      "vietnamese": "Bạn cho bạn bè biết thông tin gì",
+      "variants": [
+        "tomodachi ni nani o oshiete ageru",
+        "nani o oshiemasu ka",
+        "nani o oshieru",
+        "cho biet cai gi"
+      ]
+    },
+    "answer": {
+      "short": "新居の住所を教えるよ！",
+      "reading": "しんきょのじゅうしょをおしえるよ！",
+      "romaji": "shinkyo no juusho o oshieru yo!",
+      "vietnamese": "Cho biết địa chỉ nhà mới nhé!",
+      "variants": [
+        "shinkyo no juusho o oshieru yo",
+        "juusho o oshieru",
+        "juusho oshieru",
+        "juusho",
+        "cho biet dia chi"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "すみませんが、住所と電話番号を教えてください。",
+        "vietnamese": "Xin lỗi, xin hãy cho tôi biết địa chỉ và số điện thoại của bạn."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 16,
+    "term": "始める",
+    "reading": "はじめる",
+    "romaji": "hajimeru",
+    "meaning": "bắt đầu [Nhóm 2: 始めます]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:action",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "何時から会議を始める？",
+      "polite": "何時から会議を始めますか？",
+      "reading": "なんじからかいぎをはじめる？",
+      "romaji": "nanji kara kaigi o hajimeru?",
+      "vietnamese": "Từ mấy giờ bạn bắt đầu cuộc họp",
+      "variants": [
+        "nanji kara kaigi o hajimeru",
+        "nanji kara hajime masu ka",
+        "nanji kara hajimeru",
+        "bat dau tu may gio"
+      ]
+    },
+    "answer": {
+      "short": "午後2時から始めるよ！",
+      "reading": "ごごにじからはじめるよ！",
+      "romaji": "gogo niji kara hajimeru yo!",
+      "vietnamese": "Bắt đầu từ 2 giờ chiều nhé!",
+      "variants": [
+        "gogo niji kara hajimeru yo",
+        "niji kara hajimeru",
+        "hajimeru yo",
+        "hajimeru",
+        "bat dau tu 2 gio"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "時間ですから、始めましょう。",
+        "vietnamese": "Đã đến giờ rồi, chúng ta bắt đầu thôi."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 17,
+    "term": "降る [雨が ~]",
+    "reading": "ふる [あめが ~]",
+    "romaji": "furu [ame ga ~]",
+    "meaning": "rơi [mưa, tuyết ~] [Nhóm 1: 降ります]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:weather",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "外で今何が降ってる？",
+      "polite": "外で今何が降っていますか？",
+      "reading": "そとでいまなにがふってる？",
+      "romaji": "soto de ima nani ga futteru?",
+      "vietnamese": "Bên ngoài bây giờ cái gì đang rơi",
+      "variants": [
+        "soto de ima nani ga futteru",
+        "nani ga futte imasu ka",
+        "nani ga furu",
+        "cai gi dang roi"
+      ]
+    },
+    "answer": {
+      "short": "冷たい雨が降っているよ！",
+      "reading": "つめたいあめがふっているよ！",
+      "romaji": "tsumetai ame ga futte iru yo!",
+      "vietnamese": "Mưa lạnh đang rơi đấy!",
+      "variants": [
+        "tsumetai ame ga futte iru yo",
+        "ame ga futte iru",
+        "ame ga furu",
+        "ame",
+        "troi mua"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "午後から雨が降ります。",
+        "vietnamese": "Từ buổi chiều trời sẽ đổ mưa."
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "id": 18,
+    "term": "コピーする",
+    "reading": "こぴーする",
+    "romaji": "kopiisuru",
+    "meaning": "copy [Nhóm 3: コピーします]",
+    "level": "N5",
+    "type": "Động từ",
+    "tags": [
+      "topic:work",
+      "tone:casual",
+      "form:dictionary"
+    ],
+    "question": {
+      "short": "コピー機で何をコピーする？",
+      "polite": "コピー機で何をコピーしますか？",
+      "reading": "こぴーきでなにをこぴーする？",
+      "romaji": "kopiiki de nani o kopii suru?",
+      "vietnamese": "Bạn photocopy cái gì ở máy photo",
+      "variants": [
+        "kopiiki de nani o kopii suru",
+        "nani o kopii shimasu ka",
+        "nani o kopii suru",
+        "copy cai gi"
+      ]
+    },
+    "answer": {
+      "short": "この資料を5枚コピーするよ！",
+      "reading": "このしりょうをごまいこぴーするよ！",
+      "romaji": "kono shiryou o gomai kopii suru yo!",
+      "vietnamese": "Photo tài liệu này ra 5 bản nhé!",
+      "variants": [
+        "kono shiryou o gomai kopii suru yo",
+        "shiryou o kopii suru",
+        "kopii suru yo",
+        "kopii",
+        "photo tai lieu"
+      ]
+    },
+    "examples": [
+      {
+        "japanese": "この資料をコピーしてください。",
+        "vietnamese": "Xin hãy photocopy giúp tôi tài liệu này."
+      }
+    ]
+  }
+]
