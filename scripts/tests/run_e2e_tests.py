@@ -467,25 +467,38 @@ def validate_tier4_realworld(workspace_dir: str) -> Tuple[bool, List[str], List[
     errors: List[str] = []
     warnings: List[str] = []
 
-    # 1. node -c web/app.js
-    app_js_path = os.path.join(workspace_dir, "web", "app.js")
-    if not os.path.exists(app_js_path):
-        errors.append(f"web/app.js not found in workspace: {workspace_dir}")
+    # 1. node -c on web/js/**/*.js
+    js_dir = os.path.join(workspace_dir, "web", "js")
+    js_files = sorted(glob.glob(os.path.join(js_dir, "**", "*.js"), recursive=True))
+    if not js_files:
+        errors.append(f"No JS modules found in: {js_dir}")
     else:
+        for js_path in js_files:
+            try:
+                res = subprocess.run(
+                    ["node", "-c", js_path],
+                    cwd=workspace_dir,
+                    capture_output=True,
+                    text=True,
+                    timeout=15
+                )
+                if res.returncode != 0:
+                    errors.append(f"node -c {os.path.relpath(js_path, workspace_dir)} failed: {res.stderr}")
+            except FileNotFoundError:
+                warnings.append("Node.js binary not found in PATH; skipping 'node -c'")
+                break
+            except Exception as e:
+                errors.append(f"Error running 'node -c {js_path}': {e}")
+
+    # 1b. Web anti-monolith line guard
+    web_guard = os.path.join(workspace_dir, "scripts", "check_web_lines.py")
+    if os.path.exists(web_guard):
         try:
-            res = subprocess.run(
-                ["node", "-c", app_js_path],
-                cwd=workspace_dir,
-                capture_output=True,
-                text=True,
-                timeout=15
-            )
-            if res.returncode != 0:
-                errors.append(f"node -c web/app.js failed with code {res.returncode}: {res.stderr}")
-        except FileNotFoundError:
-            warnings.append("Node.js binary not found in PATH; skipping 'node -c web/app.js'")
+            res_g = subprocess.run([sys.executable, web_guard], cwd=workspace_dir, capture_output=True, text=True, timeout=15)
+            if res_g.returncode != 0:
+                errors.append(f"Web anti-monolith guard failed:\n{res_g.stdout}")
         except Exception as e:
-            errors.append(f"Error running 'node -c web/app.js': {e}")
+            errors.append(f"Error running check_web_lines.py: {e}")
 
     # 2. scripts/check_json.py run check
     check_json_path = os.path.join(workspace_dir, "scripts", "check_json.py")
