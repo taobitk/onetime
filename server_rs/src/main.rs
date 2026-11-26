@@ -1,6 +1,7 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 mod gpu;
+mod katakana_en;
 mod routes;
 #[cfg(windows)]
 mod tray;
@@ -8,10 +9,11 @@ mod tray;
 mod tray_win32;
 mod utils;
 mod voicevox;
+mod voicevox_ffi;
+mod voicevox_models;
 
 use std::process::{Command, Stdio};
 use std::sync::Arc;
-use std::time::Duration;
 use tiny_http::Server;
 use utils::{log_line, resolve_base_dir};
 use voicevox::VoicevoxManager;
@@ -55,16 +57,7 @@ fn main() {
     log_line(&base_dir, &format!("[SERVER] Starting Minna Rust Server at {:?}", base_dir));
 
     let vv = Arc::new(VoicevoxManager::new(base_dir.clone()));
-
-    let vv_init = vv.clone();
-    std::thread::spawn(move || {
-        vv_init.start_engine();
-    });
-
-    std::thread::spawn(move || {
-        std::thread::sleep(Duration::from_millis(800));
-        open_browser_silent(&format!("http://localhost:{}/", PORT));
-    });
+    vv.start_idle_watchdog();
 
     let addr = format!("0.0.0.0:{}", PORT);
     let server = match Server::http(&addr) {
@@ -92,11 +85,6 @@ fn main() {
         open_browser_silent(&format!("http://localhost:{}/", PORT));
     });
 
-    if let Ok(mut guard) = vv.process.lock() {
-        if let Some(mut child) = guard.take() {
-            let _ = child.kill();
-            let _ = child.wait();
-        }
-    }
+    vv.shutdown();
     log_line(&base_dir, "[SERVER] Exited cleanly.");
 }

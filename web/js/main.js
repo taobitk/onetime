@@ -166,8 +166,9 @@ createApp({
       else if (e.key === '2' && currentCard.value) { e.preventDefault(); if (!vocabHelpers.isCardMastered(currentCard.value.term)) { masteredTerms.value.push(currentCard.value.term); sessionStore.saveMasteredState(); } }
     }
 
-    onMounted(() => { sessionStore.loadMasteredState(); sessionStore.loadDisabledState(); loader.loadData(); tts.fetchSpeakers(); window.addEventListener('keydown', handleKeydown); });
-    onUnmounted(() => window.removeEventListener('keydown', handleKeydown));
+    let pingTimer = null;
+    onMounted(() => { sessionStore.loadMasteredState(); sessionStore.loadDisabledState(); loader.loadData(); tts.fetchSpeakers(); window.addEventListener('keydown', handleKeydown); pingTimer = setInterval(() => fetch('/api/ping').catch(() => {}), 30000); });
+    onUnmounted(() => { window.removeEventListener('keydown', handleKeydown); if (pingTimer) clearInterval(pingTimer); });
 
     const ctx = {
       allCards, currentIndex, practiceMode, scopeFilter, showFurigana, showVietnamese, isShuffle,

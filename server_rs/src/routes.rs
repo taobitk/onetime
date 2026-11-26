@@ -67,10 +67,16 @@ pub fn handle_request(req: Request, vv: Arc<VoicevoxManager>) {
         "/api/health" => {
             let gpu = query_gpu_status(vv.is_running());
             send_json(req, 200, &json!({
-                "status": "ok", "engine": "VOICEVOX GPU (NVIDIA GeForce RTX 3060) [Rust]",
-                "acceleration": "DirectML / CUDA / VRAM", "default_speaker": DEFAULT_SPEAKER_ID,
+                "status": "ok", "engine": "VOICEVOX Core 0.16.2 In-Process GPU [Rust]",
+                "acceleration": if vv.is_gpu_mode() { "DirectML GPU" } else { "CPU" },
+                "is_gpu_mode": vv.is_gpu_mode(),
+                "default_speaker": DEFAULT_SPEAKER_ID,
                 "voicevox_host": VOICEVOX_HOST, "gpu": gpu
             }), None);
+        }
+        "/api/ping" => {
+            vv.touch_activity();
+            send_json(req, 200, &json!({ "status": "ok" }), Some("no-store"));
         }
         "/api/gpu_status" => send_json(req, 200, &query_gpu_status(vv.is_running()), Some("no-cache")),
         "/api/speakers" => match vv.get_speakers() {
@@ -99,7 +105,10 @@ pub fn handle_request(req: Request, vv: Arc<VoicevoxManager>) {
                 Err(e) => send_json(req, 500, &json!({ "status": "error", "message": e }), None),
             }
         }
-        "/" | "/index.html" => serve_static(req, "/index.html", &vv.base_dir),
+        "/" | "/index.html" => {
+            vv.ensure_started_async();
+            serve_static(req, "/index.html", &vv.base_dir);
+        }
         "/tu_vung" | "/tu-vung" | "/tuvung" | "/tu_vung.html" | "/t%E1%BB%AB%20v%E1%BB%B1ng.html" => send_redirect(req, "/", raw_query),
         "/the_te" | "/the-te" | "/thete" | "/luyen_the_te.html" => send_redirect(req, "/pages/luyen_the_te.html", raw_query),
         "/chia_the" | "/chia-the" => send_redirect(req, "/pages/chia_the.html", raw_query),
